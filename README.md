@@ -1,6 +1,7 @@
 # TheSportsDB
 
 ![Logo](https://github.com/zag2me/TheSportsDB/blob/master/Artwork/Logos/site-logo-2020.png)
+
 TheSportsDB shared repo
 
 # Artwork Standards
