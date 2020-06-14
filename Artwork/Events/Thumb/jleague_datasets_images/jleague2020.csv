@@ -1,0 +1,307 @@
+f,h,a,b_h,l_h,s,b_a,l_a
+crz_tok,Cerezo Osaka,FC Tokyo,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_tok.jpg,512_tok.png
+crz_gam,Cerezo Osaka,Gamba Osaka,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_gam.jpg,512_gam.png
+crz_hok,Cerezo Osaka,Hokkaido Consadole Sapporo,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_hok.jpg,512_hok.png
+crz_ant,Cerezo Osaka,Kashima Antlers,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_ant.jpg,512_ant.png
+crz_rey,Cerezo Osaka,Kashiwa Reysol,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_rey.jpg,512_rey.png
+crz_fro,Cerezo Osaka,Kawasaki Frontale,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_fro.jpg,512_fro.png
+crz_nag,Cerezo Osaka,Nagoya Grampus,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_nag.jpg,512_nag.png
+crz_oit,Cerezo Osaka,Oita Trinita,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_oit.jpg,512_oit.png
+crz_sag,Cerezo Osaka,Sagan Tosu,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_sag.jpg,512_sag.png
+crz_hir,Cerezo Osaka,Sanfrecce Hiroshima,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_hir.jpg,512_hir.png
+crz_ssp,Cerezo Osaka,Shimizu S-Pulse,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_ssp.jpg,512_ssp.png
+crz_sho,Cerezo Osaka,Shonan Bellmare,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_sho.jpg,512_sho.png
+crz_ura,Cerezo Osaka,Urawa Red Diamonds,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_ura.jpg,512_ura.png
+crz_veg,Cerezo Osaka,Vegalta Sendai,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_veg.jpg,512_veg.png
+crz_vis,Cerezo Osaka,Vissel Kobe,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_vis.jpg,512_vis.png
+crz_yfm,Cerezo Osaka,Yokohama F. Marinos,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_yfm.jpg,512_yfm.png
+crz_yok,Cerezo Osaka,Yokohama FC,banner_crz.jpg,512_crz.png,stad_crz.jpg,banner_yok.jpg,512_yok.png
+tok_crz,FC Tokyo,Cerezo Osaka,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_crz.jpg,512_crz.png
+tok_gam,FC Tokyo,Gamba Osaka,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_gam.jpg,512_gam.png
+tok_hok,FC Tokyo,Hokkaido Consadole Sapporo,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_hok.jpg,512_hok.png
+tok_ant,FC Tokyo,Kashima Antlers,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_ant.jpg,512_ant.png
+tok_rey,FC Tokyo,Kashiwa Reysol,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_rey.jpg,512_rey.png
+tok_fro,FC Tokyo,Kawasaki Frontale,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_fro.jpg,512_fro.png
+tok_nag,FC Tokyo,Nagoya Grampus,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_nag.jpg,512_nag.png
+tok_oit,FC Tokyo,Oita Trinita,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_oit.jpg,512_oit.png
+tok_sag,FC Tokyo,Sagan Tosu,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_sag.jpg,512_sag.png
+tok_hir,FC Tokyo,Sanfrecce Hiroshima,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_hir.jpg,512_hir.png
+tok_ssp,FC Tokyo,Shimizu S-Pulse,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_ssp.jpg,512_ssp.png
+tok_sho,FC Tokyo,Shonan Bellmare,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_sho.jpg,512_sho.png
+tok_ura,FC Tokyo,Urawa Red Diamonds,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_ura.jpg,512_ura.png
+tok_veg,FC Tokyo,Vegalta Sendai,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_veg.jpg,512_veg.png
+tok_vis,FC Tokyo,Vissel Kobe,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_vis.jpg,512_vis.png
+tok_yfm,FC Tokyo,Yokohama F. Marinos,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_yfm.jpg,512_yfm.png
+tok_yok,FC Tokyo,Yokohama FC,banner_tok.jpg,512_tok.png,stad_tok.jpg,banner_yok.jpg,512_yok.png
+gam_crz,Gamba Osaka,Cerezo Osaka,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_crz.jpg,512_crz.png
+gam_tok,Gamba Osaka,FC Tokyo,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_tok.jpg,512_tok.png
+gam_hok,Gamba Osaka,Hokkaido Consadole Sapporo,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_hok.jpg,512_hok.png
+gam_ant,Gamba Osaka,Kashima Antlers,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_ant.jpg,512_ant.png
+gam_rey,Gamba Osaka,Kashiwa Reysol,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_rey.jpg,512_rey.png
+gam_fro,Gamba Osaka,Kawasaki Frontale,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_fro.jpg,512_fro.png
+gam_nag,Gamba Osaka,Nagoya Grampus,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_nag.jpg,512_nag.png
+gam_oit,Gamba Osaka,Oita Trinita,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_oit.jpg,512_oit.png
+gam_sag,Gamba Osaka,Sagan Tosu,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_sag.jpg,512_sag.png
+gam_hir,Gamba Osaka,Sanfrecce Hiroshima,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_hir.jpg,512_hir.png
+gam_ssp,Gamba Osaka,Shimizu S-Pulse,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_ssp.jpg,512_ssp.png
+gam_sho,Gamba Osaka,Shonan Bellmare,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_sho.jpg,512_sho.png
+gam_ura,Gamba Osaka,Urawa Red Diamonds,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_ura.jpg,512_ura.png
+gam_veg,Gamba Osaka,Vegalta Sendai,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_veg.jpg,512_veg.png
+gam_vis,Gamba Osaka,Vissel Kobe,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_vis.jpg,512_vis.png
+gam_yfm,Gamba Osaka,Yokohama F. Marinos,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_yfm.jpg,512_yfm.png
+gam_yok,Gamba Osaka,Yokohama FC,banner_gam.jpg,512_gam.png,stad_gam.jpg,banner_yok.jpg,512_yok.png
+hok_crz,Hokkaido Consadole Sapporo,Cerezo Osaka,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_crz.jpg,512_crz.png
+hok_tok,Hokkaido Consadole Sapporo,FC Tokyo,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_tok.jpg,512_tok.png
+hok_gam,Hokkaido Consadole Sapporo,Gamba Osaka,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_gam.jpg,512_gam.png
+hok_ant,Hokkaido Consadole Sapporo,Kashima Antlers,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_ant.jpg,512_ant.png
+hok_rey,Hokkaido Consadole Sapporo,Kashiwa Reysol,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_rey.jpg,512_rey.png
+hok_fro,Hokkaido Consadole Sapporo,Kawasaki Frontale,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_fro.jpg,512_fro.png
+hok_nag,Hokkaido Consadole Sapporo,Nagoya Grampus,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_nag.jpg,512_nag.png
+hok_oit,Hokkaido Consadole Sapporo,Oita Trinita,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_oit.jpg,512_oit.png
+hok_sag,Hokkaido Consadole Sapporo,Sagan Tosu,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_sag.jpg,512_sag.png
+hok_hir,Hokkaido Consadole Sapporo,Sanfrecce Hiroshima,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_hir.jpg,512_hir.png
+hok_ssp,Hokkaido Consadole Sapporo,Shimizu S-Pulse,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_ssp.jpg,512_ssp.png
+hok_sho,Hokkaido Consadole Sapporo,Shonan Bellmare,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_sho.jpg,512_sho.png
+hok_ura,Hokkaido Consadole Sapporo,Urawa Red Diamonds,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_ura.jpg,512_ura.png
+hok_veg,Hokkaido Consadole Sapporo,Vegalta Sendai,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_veg.jpg,512_veg.png
+hok_vis,Hokkaido Consadole Sapporo,Vissel Kobe,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_vis.jpg,512_vis.png
+hok_yfm,Hokkaido Consadole Sapporo,Yokohama F. Marinos,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_yfm.jpg,512_yfm.png
+hok_yok,Hokkaido Consadole Sapporo,Yokohama FC,banner_hok.jpg,512_hok.png,stad_hok.jpg,banner_yok.jpg,512_yok.png
+ant_crz,Kashima Antlers,Cerezo Osaka,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_crz.jpg,512_crz.png
+ant_tok,Kashima Antlers,FC Tokyo,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_tok.jpg,512_tok.png
+ant_gam,Kashima Antlers,Gamba Osaka,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_gam.jpg,512_gam.png
+ant_hok,Kashima Antlers,Hokkaido Consadole Sapporo,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_hok.jpg,512_hok.png
+ant_rey,Kashima Antlers,Kashiwa Reysol,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_rey.jpg,512_rey.png
+ant_fro,Kashima Antlers,Kawasaki Frontale,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_fro.jpg,512_fro.png
+ant_nag,Kashima Antlers,Nagoya Grampus,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_nag.jpg,512_nag.png
+ant_oit,Kashima Antlers,Oita Trinita,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_oit.jpg,512_oit.png
+ant_sag,Kashima Antlers,Sagan Tosu,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_sag.jpg,512_sag.png
+ant_hir,Kashima Antlers,Sanfrecce Hiroshima,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_hir.jpg,512_hir.png
+ant_ssp,Kashima Antlers,Shimizu S-Pulse,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_ssp.jpg,512_ssp.png
+ant_sho,Kashima Antlers,Shonan Bellmare,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_sho.jpg,512_sho.png
+ant_ura,Kashima Antlers,Urawa Red Diamonds,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_ura.jpg,512_ura.png
+ant_veg,Kashima Antlers,Vegalta Sendai,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_veg.jpg,512_veg.png
+ant_vis,Kashima Antlers,Vissel Kobe,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_vis.jpg,512_vis.png
+ant_yfm,Kashima Antlers,Yokohama F. Marinos,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_yfm.jpg,512_yfm.png
+ant_yok,Kashima Antlers,Yokohama FC,banner_ant.jpg,512_ant.png,stad_ant.jpg,banner_yok.jpg,512_yok.png
+rey_crz,Kashiwa Reysol,Cerezo Osaka,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_crz.jpg,512_crz.png
+rey_tok,Kashiwa Reysol,FC Tokyo,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_tok.jpg,512_tok.png
+rey_gam,Kashiwa Reysol,Gamba Osaka,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_gam.jpg,512_gam.png
+rey_hok,Kashiwa Reysol,Hokkaido Consadole Sapporo,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_hok.jpg,512_hok.png
+rey_ant,Kashiwa Reysol,Kashima Antlers,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_ant.jpg,512_ant.png
+rey_fro,Kashiwa Reysol,Kawasaki Frontale,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_fro.jpg,512_fro.png
+rey_nag,Kashiwa Reysol,Nagoya Grampus,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_nag.jpg,512_nag.png
+rey_oit,Kashiwa Reysol,Oita Trinita,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_oit.jpg,512_oit.png
+rey_sag,Kashiwa Reysol,Sagan Tosu,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_sag.jpg,512_sag.png
+rey_hir,Kashiwa Reysol,Sanfrecce Hiroshima,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_hir.jpg,512_hir.png
+rey_ssp,Kashiwa Reysol,Shimizu S-Pulse,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_ssp.jpg,512_ssp.png
+rey_sho,Kashiwa Reysol,Shonan Bellmare,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_sho.jpg,512_sho.png
+rey_ura,Kashiwa Reysol,Urawa Red Diamonds,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_ura.jpg,512_ura.png
+rey_veg,Kashiwa Reysol,Vegalta Sendai,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_veg.jpg,512_veg.png
+rey_vis,Kashiwa Reysol,Vissel Kobe,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_vis.jpg,512_vis.png
+rey_yfm,Kashiwa Reysol,Yokohama F. Marinos,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_yfm.jpg,512_yfm.png
+rey_yok,Kashiwa Reysol,Yokohama FC,banner_rey.jpg,512_rey.png,stad_rey.jpg,banner_yok.jpg,512_yok.png
+fro_crz,Kawasaki Frontale,Cerezo Osaka,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_crz.jpg,512_crz.png
+fro_tok,Kawasaki Frontale,FC Tokyo,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_tok.jpg,512_tok.png
+fro_gam,Kawasaki Frontale,Gamba Osaka,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_gam.jpg,512_gam.png
+fro_hok,Kawasaki Frontale,Hokkaido Consadole Sapporo,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_hok.jpg,512_hok.png
+fro_ant,Kawasaki Frontale,Kashima Antlers,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_ant.jpg,512_ant.png
+fro_rey,Kawasaki Frontale,Kashiwa Reysol,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_rey.jpg,512_rey.png
+fro_nag,Kawasaki Frontale,Nagoya Grampus,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_nag.jpg,512_nag.png
+fro_oit,Kawasaki Frontale,Oita Trinita,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_oit.jpg,512_oit.png
+fro_sag,Kawasaki Frontale,Sagan Tosu,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_sag.jpg,512_sag.png
+fro_hir,Kawasaki Frontale,Sanfrecce Hiroshima,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_hir.jpg,512_hir.png
+fro_ssp,Kawasaki Frontale,Shimizu S-Pulse,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_ssp.jpg,512_ssp.png
+fro_sho,Kawasaki Frontale,Shonan Bellmare,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_sho.jpg,512_sho.png
+fro_ura,Kawasaki Frontale,Urawa Red Diamonds,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_ura.jpg,512_ura.png
+fro_veg,Kawasaki Frontale,Vegalta Sendai,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_veg.jpg,512_veg.png
+fro_vis,Kawasaki Frontale,Vissel Kobe,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_vis.jpg,512_vis.png
+fro_yfm,Kawasaki Frontale,Yokohama F. Marinos,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_yfm.jpg,512_yfm.png
+fro_yok,Kawasaki Frontale,Yokohama FC,banner_fro.jpg,512_fro.png,stad_fro.jpg,banner_yok.jpg,512_yok.png
+nag_crz,Nagoya Grampus,Cerezo Osaka,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_crz.jpg,512_crz.png
+nag_tok,Nagoya Grampus,FC Tokyo,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_tok.jpg,512_tok.png
+nag_gam,Nagoya Grampus,Gamba Osaka,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_gam.jpg,512_gam.png
+nag_hok,Nagoya Grampus,Hokkaido Consadole Sapporo,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_hok.jpg,512_hok.png
+nag_ant,Nagoya Grampus,Kashima Antlers,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_ant.jpg,512_ant.png
+nag_rey,Nagoya Grampus,Kashiwa Reysol,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_rey.jpg,512_rey.png
+nag_fro,Nagoya Grampus,Kawasaki Frontale,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_fro.jpg,512_fro.png
+nag_oit,Nagoya Grampus,Oita Trinita,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_oit.jpg,512_oit.png
+nag_sag,Nagoya Grampus,Sagan Tosu,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_sag.jpg,512_sag.png
+nag_hir,Nagoya Grampus,Sanfrecce Hiroshima,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_hir.jpg,512_hir.png
+nag_ssp,Nagoya Grampus,Shimizu S-Pulse,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_ssp.jpg,512_ssp.png
+nag_sho,Nagoya Grampus,Shonan Bellmare,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_sho.jpg,512_sho.png
+nag_ura,Nagoya Grampus,Urawa Red Diamonds,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_ura.jpg,512_ura.png
+nag_veg,Nagoya Grampus,Vegalta Sendai,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_veg.jpg,512_veg.png
+nag_vis,Nagoya Grampus,Vissel Kobe,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_vis.jpg,512_vis.png
+nag_yfm,Nagoya Grampus,Yokohama F. Marinos,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_yfm.jpg,512_yfm.png
+nag_yok,Nagoya Grampus,Yokohama FC,banner_nag.jpg,512_nag.png,stad_nag.jpg,banner_yok.jpg,512_yok.png
+oit_crz,Oita Trinita,Cerezo Osaka,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_crz.jpg,512_crz.png
+oit_tok,Oita Trinita,FC Tokyo,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_tok.jpg,512_tok.png
+oit_gam,Oita Trinita,Gamba Osaka,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_gam.jpg,512_gam.png
+oit_hok,Oita Trinita,Hokkaido Consadole Sapporo,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_hok.jpg,512_hok.png
+oit_ant,Oita Trinita,Kashima Antlers,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_ant.jpg,512_ant.png
+oit_rey,Oita Trinita,Kashiwa Reysol,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_rey.jpg,512_rey.png
+oit_fro,Oita Trinita,Kawasaki Frontale,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_fro.jpg,512_fro.png
+oit_nag,Oita Trinita,Nagoya Grampus,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_nag.jpg,512_nag.png
+oit_sag,Oita Trinita,Sagan Tosu,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_sag.jpg,512_sag.png
+oit_hir,Oita Trinita,Sanfrecce Hiroshima,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_hir.jpg,512_hir.png
+oit_ssp,Oita Trinita,Shimizu S-Pulse,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_ssp.jpg,512_ssp.png
+oit_sho,Oita Trinita,Shonan Bellmare,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_sho.jpg,512_sho.png
+oit_ura,Oita Trinita,Urawa Red Diamonds,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_ura.jpg,512_ura.png
+oit_veg,Oita Trinita,Vegalta Sendai,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_veg.jpg,512_veg.png
+oit_vis,Oita Trinita,Vissel Kobe,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_vis.jpg,512_vis.png
+oit_yfm,Oita Trinita,Yokohama F. Marinos,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_yfm.jpg,512_yfm.png
+oit_yok,Oita Trinita,Yokohama FC,banner_oit.jpg,512_oit.png,stad_oit.jpg,banner_yok.jpg,512_yok.png
+sag_crz,Sagan Tosu,Cerezo Osaka,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_crz.jpg,512_crz.png
+sag_tok,Sagan Tosu,FC Tokyo,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_tok.jpg,512_tok.png
+sag_gam,Sagan Tosu,Gamba Osaka,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_gam.jpg,512_gam.png
+sag_hok,Sagan Tosu,Hokkaido Consadole Sapporo,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_hok.jpg,512_hok.png
+sag_ant,Sagan Tosu,Kashima Antlers,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_ant.jpg,512_ant.png
+sag_rey,Sagan Tosu,Kashiwa Reysol,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_rey.jpg,512_rey.png
+sag_fro,Sagan Tosu,Kawasaki Frontale,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_fro.jpg,512_fro.png
+sag_nag,Sagan Tosu,Nagoya Grampus,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_nag.jpg,512_nag.png
+sag_oit,Sagan Tosu,Oita Trinita,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_oit.jpg,512_oit.png
+sag_hir,Sagan Tosu,Sanfrecce Hiroshima,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_hir.jpg,512_hir.png
+sag_ssp,Sagan Tosu,Shimizu S-Pulse,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_ssp.jpg,512_ssp.png
+sag_sho,Sagan Tosu,Shonan Bellmare,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_sho.jpg,512_sho.png
+sag_ura,Sagan Tosu,Urawa Red Diamonds,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_ura.jpg,512_ura.png
+sag_veg,Sagan Tosu,Vegalta Sendai,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_veg.jpg,512_veg.png
+sag_vis,Sagan Tosu,Vissel Kobe,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_vis.jpg,512_vis.png
+sag_yfm,Sagan Tosu,Yokohama F. Marinos,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_yfm.jpg,512_yfm.png
+sag_yok,Sagan Tosu,Yokohama FC,banner_sag.jpg,512_sag.png,stad_sag.jpg,banner_yok.jpg,512_yok.png
+hir_crz,Sanfrecce Hiroshima,Cerezo Osaka,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_crz.jpg,512_crz.png
+hir_tok,Sanfrecce Hiroshima,FC Tokyo,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_tok.jpg,512_tok.png
+hir_gam,Sanfrecce Hiroshima,Gamba Osaka,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_gam.jpg,512_gam.png
+hir_hok,Sanfrecce Hiroshima,Hokkaido Consadole Sapporo,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_hok.jpg,512_hok.png
+hir_ant,Sanfrecce Hiroshima,Kashima Antlers,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_ant.jpg,512_ant.png
+hir_rey,Sanfrecce Hiroshima,Kashiwa Reysol,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_rey.jpg,512_rey.png
+hir_fro,Sanfrecce Hiroshima,Kawasaki Frontale,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_fro.jpg,512_fro.png
+hir_nag,Sanfrecce Hiroshima,Nagoya Grampus,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_nag.jpg,512_nag.png
+hir_oit,Sanfrecce Hiroshima,Oita Trinita,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_oit.jpg,512_oit.png
+hir_sag,Sanfrecce Hiroshima,Sagan Tosu,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_sag.jpg,512_sag.png
+hir_ssp,Sanfrecce Hiroshima,Shimizu S-Pulse,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_ssp.jpg,512_ssp.png
+hir_sho,Sanfrecce Hiroshima,Shonan Bellmare,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_sho.jpg,512_sho.png
+hir_ura,Sanfrecce Hiroshima,Urawa Red Diamonds,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_ura.jpg,512_ura.png
+hir_veg,Sanfrecce Hiroshima,Vegalta Sendai,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_veg.jpg,512_veg.png
+hir_vis,Sanfrecce Hiroshima,Vissel Kobe,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_vis.jpg,512_vis.png
+hir_yfm,Sanfrecce Hiroshima,Yokohama F. Marinos,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_yfm.jpg,512_yfm.png
+hir_yok,Sanfrecce Hiroshima,Yokohama FC,banner_hir.jpg,512_hir.png,stad_hir.jpg,banner_yok.jpg,512_yok.png
+ssp_crz,Shimizu S-Pulse,Cerezo Osaka,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_crz.jpg,512_crz.png
+ssp_tok,Shimizu S-Pulse,FC Tokyo,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_tok.jpg,512_tok.png
+ssp_gam,Shimizu S-Pulse,Gamba Osaka,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_gam.jpg,512_gam.png
+ssp_hok,Shimizu S-Pulse,Hokkaido Consadole Sapporo,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_hok.jpg,512_hok.png
+ssp_ant,Shimizu S-Pulse,Kashima Antlers,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_ant.jpg,512_ant.png
+ssp_rey,Shimizu S-Pulse,Kashiwa Reysol,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_rey.jpg,512_rey.png
+ssp_fro,Shimizu S-Pulse,Kawasaki Frontale,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_fro.jpg,512_fro.png
+ssp_nag,Shimizu S-Pulse,Nagoya Grampus,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_nag.jpg,512_nag.png
+ssp_oit,Shimizu S-Pulse,Oita Trinita,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_oit.jpg,512_oit.png
+ssp_sag,Shimizu S-Pulse,Sagan Tosu,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_sag.jpg,512_sag.png
+ssp_hir,Shimizu S-Pulse,Sanfrecce Hiroshima,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_hir.jpg,512_hir.png
+ssp_sho,Shimizu S-Pulse,Shonan Bellmare,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_sho.jpg,512_sho.png
+ssp_ura,Shimizu S-Pulse,Urawa Red Diamonds,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_ura.jpg,512_ura.png
+ssp_veg,Shimizu S-Pulse,Vegalta Sendai,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_veg.jpg,512_veg.png
+ssp_vis,Shimizu S-Pulse,Vissel Kobe,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_vis.jpg,512_vis.png
+ssp_yfm,Shimizu S-Pulse,Yokohama F. Marinos,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_yfm.jpg,512_yfm.png
+ssp_yok,Shimizu S-Pulse,Yokohama FC,banner_ssp.jpg,512_ssp.png,stad_ssp.jpg,banner_yok.jpg,512_yok.png
+sho_crz,Shonan Bellmare,Cerezo Osaka,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_crz.jpg,512_crz.png
+sho_tok,Shonan Bellmare,FC Tokyo,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_tok.jpg,512_tok.png
+sho_gam,Shonan Bellmare,Gamba Osaka,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_gam.jpg,512_gam.png
+sho_hok,Shonan Bellmare,Hokkaido Consadole Sapporo,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_hok.jpg,512_hok.png
+sho_ant,Shonan Bellmare,Kashima Antlers,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_ant.jpg,512_ant.png
+sho_rey,Shonan Bellmare,Kashiwa Reysol,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_rey.jpg,512_rey.png
+sho_fro,Shonan Bellmare,Kawasaki Frontale,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_fro.jpg,512_fro.png
+sho_nag,Shonan Bellmare,Nagoya Grampus,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_nag.jpg,512_nag.png
+sho_oit,Shonan Bellmare,Oita Trinita,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_oit.jpg,512_oit.png
+sho_sag,Shonan Bellmare,Sagan Tosu,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_sag.jpg,512_sag.png
+sho_hir,Shonan Bellmare,Sanfrecce Hiroshima,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_hir.jpg,512_hir.png
+sho_ssp,Shonan Bellmare,Shimizu S-Pulse,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_ssp.jpg,512_ssp.png
+sho_ura,Shonan Bellmare,Urawa Red Diamonds,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_ura.jpg,512_ura.png
+sho_veg,Shonan Bellmare,Vegalta Sendai,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_veg.jpg,512_veg.png
+sho_vis,Shonan Bellmare,Vissel Kobe,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_vis.jpg,512_vis.png
+sho_yfm,Shonan Bellmare,Yokohama F. Marinos,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_yfm.jpg,512_yfm.png
+sho_yok,Shonan Bellmare,Yokohama FC,banner_sho.jpg,512_sho.png,stad_sho.jpg,banner_yok.jpg,512_yok.png
+ura_crz,Urawa Red Diamonds,Cerezo Osaka,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_crz.jpg,512_crz.png
+ura_tok,Urawa Red Diamonds,FC Tokyo,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_tok.jpg,512_tok.png
+ura_gam,Urawa Red Diamonds,Gamba Osaka,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_gam.jpg,512_gam.png
+ura_hok,Urawa Red Diamonds,Hokkaido Consadole Sapporo,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_hok.jpg,512_hok.png
+ura_ant,Urawa Red Diamonds,Kashima Antlers,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_ant.jpg,512_ant.png
+ura_rey,Urawa Red Diamonds,Kashiwa Reysol,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_rey.jpg,512_rey.png
+ura_fro,Urawa Red Diamonds,Kawasaki Frontale,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_fro.jpg,512_fro.png
+ura_nag,Urawa Red Diamonds,Nagoya Grampus,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_nag.jpg,512_nag.png
+ura_oit,Urawa Red Diamonds,Oita Trinita,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_oit.jpg,512_oit.png
+ura_sag,Urawa Red Diamonds,Sagan Tosu,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_sag.jpg,512_sag.png
+ura_hir,Urawa Red Diamonds,Sanfrecce Hiroshima,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_hir.jpg,512_hir.png
+ura_ssp,Urawa Red Diamonds,Shimizu S-Pulse,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_ssp.jpg,512_ssp.png
+ura_sho,Urawa Red Diamonds,Shonan Bellmare,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_sho.jpg,512_sho.png
+ura_veg,Urawa Red Diamonds,Vegalta Sendai,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_veg.jpg,512_veg.png
+ura_vis,Urawa Red Diamonds,Vissel Kobe,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_vis.jpg,512_vis.png
+ura_yfm,Urawa Red Diamonds,Yokohama F. Marinos,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_yfm.jpg,512_yfm.png
+ura_yok,Urawa Red Diamonds,Yokohama FC,banner_ura.jpg,512_ura.png,stad_ura.jpg,banner_yok.jpg,512_yok.png
+veg_crz,Vegalta Sendai,Cerezo Osaka,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_crz.jpg,512_crz.png
+veg_tok,Vegalta Sendai,FC Tokyo,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_tok.jpg,512_tok.png
+veg_gam,Vegalta Sendai,Gamba Osaka,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_gam.jpg,512_gam.png
+veg_hok,Vegalta Sendai,Hokkaido Consadole Sapporo,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_hok.jpg,512_hok.png
+veg_ant,Vegalta Sendai,Kashima Antlers,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_ant.jpg,512_ant.png
+veg_rey,Vegalta Sendai,Kashiwa Reysol,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_rey.jpg,512_rey.png
+veg_fro,Vegalta Sendai,Kawasaki Frontale,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_fro.jpg,512_fro.png
+veg_nag,Vegalta Sendai,Nagoya Grampus,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_nag.jpg,512_nag.png
+veg_oit,Vegalta Sendai,Oita Trinita,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_oit.jpg,512_oit.png
+veg_sag,Vegalta Sendai,Sagan Tosu,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_sag.jpg,512_sag.png
+veg_hir,Vegalta Sendai,Sanfrecce Hiroshima,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_hir.jpg,512_hir.png
+veg_ssp,Vegalta Sendai,Shimizu S-Pulse,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_ssp.jpg,512_ssp.png
+veg_sho,Vegalta Sendai,Shonan Bellmare,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_sho.jpg,512_sho.png
+veg_ura,Vegalta Sendai,Urawa Red Diamonds,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_ura.jpg,512_ura.png
+veg_vis,Vegalta Sendai,Vissel Kobe,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_vis.jpg,512_vis.png
+veg_yfm,Vegalta Sendai,Yokohama F. Marinos,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_yfm.jpg,512_yfm.png
+veg_yok,Vegalta Sendai,Yokohama FC,banner_veg.jpg,512_veg.png,stad_veg.jpg,banner_yok.jpg,512_yok.png
+vis_crz,Vissel Kobe,Cerezo Osaka,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_crz.jpg,512_crz.png
+vis_tok,Vissel Kobe,FC Tokyo,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_tok.jpg,512_tok.png
+vis_gam,Vissel Kobe,Gamba Osaka,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_gam.jpg,512_gam.png
+vis_hok,Vissel Kobe,Hokkaido Consadole Sapporo,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_hok.jpg,512_hok.png
+vis_ant,Vissel Kobe,Kashima Antlers,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_ant.jpg,512_ant.png
+vis_rey,Vissel Kobe,Kashiwa Reysol,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_rey.jpg,512_rey.png
+vis_fro,Vissel Kobe,Kawasaki Frontale,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_fro.jpg,512_fro.png
+vis_nag,Vissel Kobe,Nagoya Grampus,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_nag.jpg,512_nag.png
+vis_oit,Vissel Kobe,Oita Trinita,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_oit.jpg,512_oit.png
+vis_sag,Vissel Kobe,Sagan Tosu,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_sag.jpg,512_sag.png
+vis_hir,Vissel Kobe,Sanfrecce Hiroshima,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_hir.jpg,512_hir.png
+vis_ssp,Vissel Kobe,Shimizu S-Pulse,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_ssp.jpg,512_ssp.png
+vis_sho,Vissel Kobe,Shonan Bellmare,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_sho.jpg,512_sho.png
+vis_ura,Vissel Kobe,Urawa Red Diamonds,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_ura.jpg,512_ura.png
+vis_veg,Vissel Kobe,Vegalta Sendai,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_veg.jpg,512_veg.png
+vis_yfm,Vissel Kobe,Yokohama F. Marinos,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_yfm.jpg,512_yfm.png
+vis_yok,Vissel Kobe,Yokohama FC,banner_vis.jpg,512_vis.png,stad_vis.jpg,banner_yok.jpg,512_yok.png
+yfm_crz,Yokohama F. Marinos,Cerezo Osaka,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_crz.jpg,512_crz.png
+yfm_tok,Yokohama F. Marinos,FC Tokyo,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_tok.jpg,512_tok.png
+yfm_gam,Yokohama F. Marinos,Gamba Osaka,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_gam.jpg,512_gam.png
+yfm_hok,Yokohama F. Marinos,Hokkaido Consadole Sapporo,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_hok.jpg,512_hok.png
+yfm_ant,Yokohama F. Marinos,Kashima Antlers,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_ant.jpg,512_ant.png
+yfm_rey,Yokohama F. Marinos,Kashiwa Reysol,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_rey.jpg,512_rey.png
+yfm_fro,Yokohama F. Marinos,Kawasaki Frontale,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_fro.jpg,512_fro.png
+yfm_nag,Yokohama F. Marinos,Nagoya Grampus,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_nag.jpg,512_nag.png
+yfm_oit,Yokohama F. Marinos,Oita Trinita,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_oit.jpg,512_oit.png
+yfm_sag,Yokohama F. Marinos,Sagan Tosu,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_sag.jpg,512_sag.png
+yfm_hir,Yokohama F. Marinos,Sanfrecce Hiroshima,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_hir.jpg,512_hir.png
+yfm_ssp,Yokohama F. Marinos,Shimizu S-Pulse,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_ssp.jpg,512_ssp.png
+yfm_sho,Yokohama F. Marinos,Shonan Bellmare,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_sho.jpg,512_sho.png
+yfm_ura,Yokohama F. Marinos,Urawa Red Diamonds,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_ura.jpg,512_ura.png
+yfm_veg,Yokohama F. Marinos,Vegalta Sendai,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_veg.jpg,512_veg.png
+yfm_vis,Yokohama F. Marinos,Vissel Kobe,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_vis.jpg,512_vis.png
+yfm_yok,Yokohama F. Marinos,Yokohama FC,banner_yfm.jpg,512_yfm.png,stad_yfm.jpg,banner_yok.jpg,512_yok.png
+yok_crz,Yokohama FC,Cerezo Osaka,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_crz.jpg,512_crz.png
+yok_tok,Yokohama FC,FC Tokyo,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_tok.jpg,512_tok.png
+yok_gam,Yokohama FC,Gamba Osaka,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_gam.jpg,512_gam.png
+yok_hok,Yokohama FC,Hokkaido Consadole Sapporo,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_hok.jpg,512_hok.png
+yok_ant,Yokohama FC,Kashima Antlers,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_ant.jpg,512_ant.png
+yok_rey,Yokohama FC,Kashiwa Reysol,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_rey.jpg,512_rey.png
+yok_fro,Yokohama FC,Kawasaki Frontale,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_fro.jpg,512_fro.png
+yok_nag,Yokohama FC,Nagoya Grampus,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_nag.jpg,512_nag.png
+yok_oit,Yokohama FC,Oita Trinita,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_oit.jpg,512_oit.png
+yok_sag,Yokohama FC,Sagan Tosu,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_sag.jpg,512_sag.png
+yok_hir,Yokohama FC,Sanfrecce Hiroshima,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_hir.jpg,512_hir.png
+yok_ssp,Yokohama FC,Shimizu S-Pulse,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_ssp.jpg,512_ssp.png
+yok_sho,Yokohama FC,Shonan Bellmare,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_sho.jpg,512_sho.png
+yok_ura,Yokohama FC,Urawa Red Diamonds,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_ura.jpg,512_ura.png
+yok_veg,Yokohama FC,Vegalta Sendai,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_veg.jpg,512_veg.png
+yok_vis,Yokohama FC,Vissel Kobe,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_vis.jpg,512_vis.png
+yok_yfm,Yokohama FC,Yokohama F. Marinos,banner_yok.jpg,512_yok.png,stad_yok.jpg,banner_yfm.jpg,512_yfm.png
