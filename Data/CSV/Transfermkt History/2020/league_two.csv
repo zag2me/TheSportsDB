@@ -1,0 +1,639 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Vaclav Hladky,Goalkeeper,1990-11-14,29,Czech Republic,Salford City,League Two,2020/2021,2020
+Nick Hayes,Goalkeeper,1999-04-10,21,England,Salford City,League Two,2020/2021,2020
+Di'Shon Bernard,Centre-Back,2000-10-14,20,England,Salford City,League Two,2020/2021,2020
+Tom Clarke,Centre-Back,1987-12-21,32,England,Salford City,League Two,2020/2021,2020
+Jordan Turnbull,Centre-Back,1994-10-31,26,England,Salford City,League Two,2020/2021,2020
+Ashley Eastham,Centre-Back,1991-03-22,29,England,Salford City,League Two,2020/2021,2020
+Ibou Touray,Left-Back,1994-12-24,25,The Gambia,Salford City,League Two,2020/2021,2020
+Kevin Berkoe,Left-Back,2001-07-05,19,England,Salford City,League Two,2020/2021,2020
+Oscar Threlkeld,Right-Back,1994-12-15,25,England,Salford City,League Two,2020/2021,2020
+Tylor Golden,Right-Back,1999-11-08,20,England,Salford City,League Two,2020/2021,2020
+Jason Lowe,Defensive Midfield,1991-09-02,29,England,Salford City,League Two,2020/2021,2020
+Joey Jones,Defensive Midfield,1994-04-15,26,Northern Ireland,Salford City,League Two,2020/2021,2020
+Darron Gibson,Central Midfield,1987-10-25,33,Ireland,Salford City,League Two,2020/2021,2020
+Richie Towell,Central Midfield,1991-07-17,29,Ireland,Salford City,League Two,2020/2021,2020
+Martin Smith,Central Midfield,1995-10-02,25,England,Salford City,League Two,2020/2021,2020
+Luke Burgess,Central Midfield,1999-03-03,21,England,Salford City,League Two,2020/2021,2020
+George Boyd,Left Winger,1985-10-02,35,Scotland,Salford City,League Two,2020/2021,2020
+Ashley Hunter,Left Winger,1995-09-29,25,England,Salford City,League Two,2020/2021,2020
+Bruno Andrade,Left Winger,1993-10-02,27,Portugal,Salford City,League Two,2020/2021,2020
+Brandon Thomas-Asante,Left Winger,1998-12-29,21,England,Salford City,League Two,2020/2021,2020
+James Wilson,Centre-Forward,1995-12-01,24,England,Salford City,League Two,2020/2021,2020
+Tom Elliott,Centre-Forward,1990-11-09,29,England,Salford City,League Two,2020/2021,2020
+Ian Henderson,Centre-Forward,1985-01-24,35,England,Salford City,League Two,2020/2021,2020
+Luke Armstrong,Centre-Forward,1996-07-02,24,England,Salford City,League Two,2020/2021,2020
+Emmanuel Dieseruvwe,Centre-Forward,1995-02-20,25,England,Salford City,League Two,2020/2021,2020
+Matt Gilks,Goalkeeper,1982-06-04,38,Scotland,Bolton Wanderers,League Two,2020/2021,2020
+Billy Crellin,Goalkeeper,2000-06-30,20,England,Bolton Wanderers,League Two,2020/2021,2020
+Matthew Alexander,Goalkeeper,2002-05-07,18,England,Bolton Wanderers,League Two,2020/2021,2020
+Alex Baptiste,Centre-Back,1986-01-31,34,England,Bolton Wanderers,League Two,2020/2021,2020
+Reiss Greenidge,Centre-Back,1996-02-08,24,Guyana,Bolton Wanderers,League Two,2020/2021,2020
+Ricardo Santos,Centre-Back,1995-06-18,25,Portugal,Bolton Wanderers,League Two,2020/2021,2020
+George Taft,Centre-Back,1993-07-29,27,England,Bolton Wanderers,League Two,2020/2021,2020
+Ryan Delaney,Centre-Back,1996-09-06,24,Ireland,Bolton Wanderers,League Two,2020/2021,2020
+Harry Brockbank,Centre-Back,1998-09-26,22,England,Bolton Wanderers,League Two,2020/2021,2020
+Liam Edwards,Centre-Back,1996-10-02,24,England,Bolton Wanderers,League Two,2020/2021,2020
+Adam Senior,Centre-Back,2002-01-20,18,England,Bolton Wanderers,League Two,2020/2021,2020
+Liam Gordon,Left-Back,1999-05-15,21,Guyana,Bolton Wanderers,League Two,2020/2021,2020
+Jamie Mascoll,Left-Back,1997-03-15,23,England,Bolton Wanderers,League Two,2020/2021,2020
+Gethin Jones,Right-Back,1995-10-13,25,Wales,Bolton Wanderers,League Two,2020/2021,2020
+Peter Kioso,Right-Back,1999-08-15,21,Ireland,Bolton Wanderers,League Two,2020/2021,2020
+Jak Hickman,Right-Back,1998-09-11,22,England,Bolton Wanderers,League Two,2020/2021,2020
+Brandon Comley,Defensive Midfield,1995-11-18,24,Montserrat,Bolton Wanderers,League Two,2020/2021,2020
+Sonny Graham,Defensive Midfield,2002-06-10,18,England,Bolton Wanderers,League Two,2020/2021,2020
+Ali Crawford,Central Midfield,1991-07-30,29,Scotland,Bolton Wanderers,League Two,2020/2021,2020
+Antoni Sarcevic,Central Midfield,1992-03-13,28,England,Bolton Wanderers,League Two,2020/2021,2020
+Andrew Tutte,Central Midfield,1990-09-21,30,England,Bolton Wanderers,League Two,2020/2021,2020
+Tom White,Central Midfield,1997-05-09,23,England,Bolton Wanderers,League Two,2020/2021,2020
+Ronan Darcy,Attacking Midfield,2000-11-04,20,England,Bolton Wanderers,League Two,2020/2021,2020
+Lloyd Isgrove,Left Winger,1993-01-12,27,Wales,Bolton Wanderers,League Two,2020/2021,2020
+Dennis Politic,Left Winger,2000-03-05,20,Romania,Bolton Wanderers,League Two,2020/2021,2020
+Eoin Doyle,Centre-Forward,1988-03-12,32,Ireland,Bolton Wanderers,League Two,2020/2021,2020
+Nathan Delfouneso,Centre-Forward,1991-02-02,29,England,Bolton Wanderers,League Two,2020/2021,2020
+Shaun Miller,Centre-Forward,1987-09-25,33,England,Bolton Wanderers,League Two,2020/2021,2020
+Arthur Gnahoua,Centre-Forward,1992-09-18,28,France,Bolton Wanderers,League Two,2020/2021,2020
+Faal Muhammadu,Centre-Forward,1997-07-01,23,England,Bolton Wanderers,League Two,2020/2021,2020
+Bright Amoateng,Centre-Forward,NA,NA,England,Bolton Wanderers,League Two,2020/2021,2020
+Mark Oxley,Goalkeeper,1990-09-28,30,England,Southend United,League Two,2020/2021,2020
+Harry Seaden,Goalkeeper,2001-04-23,19,England,Southend United,League Two,2020/2021,2020
+Callum Taylor,Goalkeeper,2002-01-15,18,England,Southend United,League Two,2020/2021,2020
+Harry Lennon,Centre-Back,1994-12-16,25,England,Southend United,League Two,2020/2021,2020
+John White,Centre-Back,1986-07-26,34,England,Southend United,League Two,2020/2021,2020
+Shaun Hobson,Centre-Back,1998-06-29,22,England,Southend United,League Two,2020/2021,2020
+Richard Taylor,Centre-Back,2000-10-02,20,England,Southend United,League Two,2020/2021,2020
+Miles Mitchell-Nelson,Centre-Back,2000-11-24,19,England,Southend United,League Two,2020/2021,2020
+Nathan Ralph,Left-Back,1993-02-14,27,England,Southend United,League Two,2020/2021,2020
+Tom Clifford,Left-Back,1999-09-02,21,England,Southend United,League Two,2020/2021,2020
+Jason Dimitriou,Right-Back,1987-11-18,32,Cyprus,Southend United,League Two,2020/2021,2020
+Elvis Bwomono,Right-Back,1998-11-29,21,Uganda,Southend United,League Two,2020/2021,2020
+Alan McCormack,Defensive Midfield,1984-01-10,36,Ireland,Southend United,League Two,2020/2021,2020
+Timothée Dieng,Defensive Midfield,1992-04-09,28,France,Southend United,League Two,2020/2021,2020
+Kyle Taylor,Central Midfield,1999-08-28,21,England,Southend United,League Two,2020/2021,2020
+James Olayinka,Central Midfield,2000-10-05,20,England,Southend United,League Two,2020/2021,2020
+Lewis Gard,Central Midfield,1999-08-26,21,England,Southend United,League Two,2020/2021,2020
+Eren Kinali,Central Midfield,2000-02-24,20,England,Southend United,League Two,2020/2021,2020
+Ashley Nathaniel-George,Left Midfield,1995-06-14,25,England,Southend United,League Two,2020/2021,2020
+Harry Phillips,Attacking Midfield,1997-09-19,23,England,Southend United,League Two,2020/2021,2020
+Terrell Egbri,Right Winger,2001-06-21,19,England,Southend United,League Two,2020/2021,2020
+Kazaiah Sterling,Centre-Forward,1998-11-09,21,England,Southend United,League Two,2020/2021,2020
+Simeon Akinola,Centre-Forward,1992-08-06,28,Nigeria,Southend United,League Two,2020/2021,2020
+Brandon Goodship,Centre-Forward,1994-09-22,26,England,Southend United,League Two,2020/2021,2020
+Emile Acquah,Centre-Forward,2000-07-13,20,England,Southend United,League Two,2020/2021,2020
+Matt Rush,Centre-Forward,2001-03-11,19,England,Southend United,League Two,2020/2021,2020
+Ian Lawlor,Goalkeeper,1994-10-27,26,Ireland,Oldham Athletic,League Two,2020/2021,2020
+Laurence Bilboe,Goalkeeper,1998-02-21,22,England,Oldham Athletic,League Two,2020/2021,2020
+Mackenzie Chapman,Goalkeeper,NA,NA,England,Oldham Athletic,League Two,2020/2021,2020
+David Wheater,Centre-Back,1987-02-14,33,England,Oldham Athletic,League Two,2020/2021,2020
+Carl Piergianni,Centre-Back,1992-05-03,28,England,Oldham Athletic,League Two,2020/2021,2020
+Harry Clarke,Centre-Back,2001-03-02,19,England,Oldham Athletic,League Two,2020/2021,2020
+Kyle Jameson,Centre-Back,1998-09-11,22,England,Oldham Athletic,League Two,2020/2021,2020
+Cameron Borthwick-Jackson,Left-Back,1997-02-02,23,England,Oldham Athletic,League Two,2020/2021,2020
+Andrea Badan,Left-Back,1998-03-21,22,Italy,Oldham Athletic,League Two,2020/2021,2020
+Jordan Barnett,Left-Back,1999-10-20,21,England,Oldham Athletic,League Two,2020/2021,2020
+Sido Jombati,Right-Back,1987-08-20,33,Portugal,Oldham Athletic,League Two,2020/2021,2020
+Tom Hamer,Right-Back,1999-11-16,20,England,Oldham Athletic,League Two,2020/2021,2020
+Ben Hough,Midfielder,NA,NA,England,Oldham Athletic,League Two,2020/2021,2020
+Brice Ntambwe,Defensive Midfield,1993-04-29,27,Belgium,Oldham Athletic,League Two,2020/2021,2020
+Callum Whelan,Defensive Midfield,1998-09-24,22,England,Oldham Athletic,League Two,2020/2021,2020
+Ben Garrity,Central Midfield,1997-02-21,23,England,Oldham Athletic,League Two,2020/2021,2020
+Alfie McCalmont,Central Midfield,2000-03-25,20,Northern Ireland,Oldham Athletic,League Two,2020/2021,2020
+Bobby Grant,Right Midfield,1990-07-01,30,England,Oldham Athletic,League Two,2020/2021,2020
+Dylan Fage,Right Midfield,1999-03-18,21,France,Oldham Athletic,League Two,2020/2021,2020
+Davis Keillor-Dunn,Left Midfield,1997-11-02,23,England,Oldham Athletic,League Two,2020/2021,2020
+Dylan Bahamboula,Attacking Midfield,1995-05-22,25,Congo,Oldham Athletic,League Two,2020/2021,2020
+Vani Da Silva,Forward,NA,NA,England,Oldham Athletic,League Two,2020/2021,2020
+Conor McAleny,Left Winger,1992-08-12,28,England,Oldham Athletic,League Two,2020/2021,2020
+Zak Dearnley,Right Winger,1998-09-28,22,England,Oldham Athletic,League Two,2020/2021,2020
+George Blackwood,Centre-Forward,1997-06-04,23,Australia,Oldham Athletic,League Two,2020/2021,2020
+Danny Rowe,Centre-Forward,1989-01-29,31,England,Oldham Athletic,League Two,2020/2021,2020
+Junior Luamba,Centre-Forward,NA,NA,England,Oldham Athletic,League Two,2020/2021,2020
+Joe Murphy,Goalkeeper,1981-08-21,39,Ireland,Tranmere Rovers,League Two,2020/2021,2020
+Scott Davies,Goalkeeper,1987-02-27,33,England,Tranmere Rovers,League Two,2020/2021,2020
+Kyle Hayde,Defender,2001-09-25,19,England,Tranmere Rovers,League Two,2020/2021,2020
+Peter Clarke,Centre-Back,1982-01-03,38,England,Tranmere Rovers,League Two,2020/2021,2020
+Sid Nelson,Centre-Back,1996-01-01,24,England,Tranmere Rovers,League Two,2020/2021,2020
+Mark Ellis,Centre-Back,1988-09-30,32,England,Tranmere Rovers,League Two,2020/2021,2020
+George Ray,Centre-Back,1993-10-13,27,Wales,Tranmere Rovers,League Two,2020/2021,2020
+Manny Monthe,Centre-Back,1995-01-26,25,Cameroon,Tranmere Rovers,League Two,2020/2021,2020
+Liam Ridehalgh,Left-Back,1991-04-20,29,England,Tranmere Rovers,League Two,2020/2021,2020
+Calum MacDonald,Left-Back,1997-12-18,22,Scotland,Tranmere Rovers,League Two,2020/2021,2020
+Lee O'Connor,Right-Back,2000-07-28,20,Ireland,Tranmere Rovers,League Two,2020/2021,2020
+George Nugent,Midfielder,2001-12-04,18,England,Tranmere Rovers,League Two,2020/2021,2020
+Jay Spearing,Defensive Midfield,1988-11-25,31,England,Tranmere Rovers,League Two,2020/2021,2020
+Ollie Banks,Central Midfield,1992-09-21,28,England,Tranmere Rovers,League Two,2020/2021,2020
+Jack Young,Central Midfield,2000-10-21,20,England,Tranmere Rovers,League Two,2020/2021,2020
+Paul Lewis,Central Midfield,1994-12-17,25,England,Tranmere Rovers,League Two,2020/2021,2020
+Otis Khan,Left Winger,1995-09-05,25,England,Tranmere Rovers,League Two,2020/2021,2020
+Liam Feeney,Right Winger,1987-01-21,33,England,Tranmere Rovers,League Two,2020/2021,2020
+Kieron Morris,Right Winger,1994-06-03,26,England,Tranmere Rovers,League Two,2020/2021,2020
+Corey Blackett-Taylor,Right Winger,1997-09-23,23,England,Tranmere Rovers,League Two,2020/2021,2020
+Danny Walker-Rice,Right Winger,2000-11-10,19,England,Tranmere Rovers,League Two,2020/2021,2020
+Kaiyne Woolery,Second Striker,1995-01-11,25,England,Tranmere Rovers,League Two,2020/2021,2020
+James Vaughan,Centre-Forward,1988-07-14,32,England,Tranmere Rovers,League Two,2020/2021,2020
+Stefan Payne,Centre-Forward,1991-08-10,29,England,Tranmere Rovers,League Two,2020/2021,2020
+Sam Smith,Centre-Forward,1998-03-08,22,England,Tranmere Rovers,League Two,2020/2021,2020
+Morgan Ferrier,Centre-Forward,1994-11-15,25,England,Tranmere Rovers,League Two,2020/2021,2020
+Jake Burton,Centre-Forward,2001-11-15,18,England,Tranmere Rovers,League Two,2020/2021,2020
+Jake Turner,Goalkeeper,1999-02-25,21,England,Morecambe FC,League Two,2020/2021,2020
+Mark Halstead,Goalkeeper,1990-09-17,30,England,Morecambe FC,League Two,2020/2021,2020
+André Filipe Da Silva Mendes,Goalkeeper,2003-05-15,17,Portugal,Morecambe FC,League Two,2020/2021,2020
+Nathaniel Knight-Percival,Centre-Back,1987-03-31,33,England,Morecambe FC,League Two,2020/2021,2020
+Harry Davis,Centre-Back,1991-09-24,29,England,Morecambe FC,League Two,2020/2021,2020
+Yann Songo'o,Centre-Back,1991-11-17,28,Cameroon,Morecambe FC,League Two,2020/2021,2020
+Sam Lavelle,Centre-Back,1996-10-03,24,Scotland,Morecambe FC,League Two,2020/2021,2020
+Stephen Hendrie,Left-Back,1995-01-08,25,Scotland,Morecambe FC,League Two,2020/2021,2020
+Liam Gibson,Left-Back,1997-04-25,23,England,Morecambe FC,League Two,2020/2021,2020
+Kelvin Mellor,Right-Back,1991-01-25,29,England,Morecambe FC,League Two,2020/2021,2020
+Ryan Cooney,Right-Back,2000-02-26,20,England,Morecambe FC,League Two,2020/2021,2020
+Toumani Diagouraga,Defensive Midfield,1987-06-09,33,France,Morecambe FC,League Two,2020/2021,2020
+Alex Kenyon,Defensive Midfield,1992-07-17,28,England,Morecambe FC,League Two,2020/2021,2020
+Aaron Wildig,Central Midfield,1992-04-15,28,England,Morecambe FC,League Two,2020/2021,2020
+Adam Phillips,Central Midfield,1998-01-15,22,England,Morecambe FC,League Two,2020/2021,2020
+Freddie Price,Central Midfield,2003-04-27,17,England,Morecambe FC,League Two,2020/2021,2020
+Ben Pringle,Left Midfield,1989-07-25,31,England,Morecambe FC,League Two,2020/2021,2020
+Jordan Slew,Left Winger,1992-09-07,28,England,Morecambe FC,League Two,2020/2021,2020
+John O'Sullivan,Right Winger,1993-09-18,27,Ireland,Morecambe FC,League Two,2020/2021,2020
+Carlos Mendes Gomes,Right Winger,1998-11-14,21,Spain,Morecambe FC,League Two,2020/2021,2020
+AJ Leitch-Smith,Centre-Forward,1990-03-06,30,England,Morecambe FC,League Two,2020/2021,2020
+Cole Stockton,Centre-Forward,1994-03-13,26,England,Morecambe FC,League Two,2020/2021,2020
+Liam McAlinden,Centre-Forward,1993-09-26,27,Ireland,Morecambe FC,League Two,2020/2021,2020
+Dean Gerken,Goalkeeper,1985-05-22,35,England,Colchester United,League Two,2020/2021,2020
+Shamal George,Goalkeeper,1998-01-06,22,England,Colchester United,League Two,2020/2021,2020
+Tommy Smith,Centre-Back,1990-03-31,30,New Zealand,Colchester United,League Two,2020/2021,2020
+Tom Eastman,Centre-Back,1991-10-21,29,England,Colchester United,League Two,2020/2021,2020
+Omar Sowunmi,Centre-Back,1995-11-07,24,England,Colchester United,League Two,2020/2021,2020
+Cohen Bramall,Left-Back,1996-04-02,24,England,Colchester United,League Two,2020/2021,2020
+Ryan Clampin,Left-Back,1999-01-29,21,England,Colchester United,League Two,2020/2021,2020
+Miles Welch-Hayes,Right-Back,1996-10-25,24,England,Colchester United,League Two,2020/2021,2020
+Miquel Scarlett,Right-Back,2000-09-27,20,England,Colchester United,League Two,2020/2021,2020
+Tom Lapslie,Defensive Midfield,1995-10-05,25,England,Colchester United,League Two,2020/2021,2020
+Diaz Wright,Defensive Midfield,1998-02-22,22,England,Colchester United,League Two,2020/2021,2020
+Ben Stevenson,Central Midfield,1997-03-23,23,England,Colchester United,League Two,2020/2021,2020
+Harry Pell,Central Midfield,1990-10-21,30,England,Colchester United,League Two,2020/2021,2020
+Noah Chilvers,Attacking Midfield,2001-02-22,19,England,Colchester United,League Two,2020/2021,2020
+Callum Harriott,Left Winger,1994-03-04,26,Guyana,Colchester United,League Two,2020/2021,2020
+Luke Gambin,Left Winger,1993-03-16,27,Malta,Colchester United,League Two,2020/2021,2020
+Joshua Bohui,Left Winger,1999-03-03,21,England,Colchester United,League Two,2020/2021,2020
+Paris Cowan-Hall,Right Winger,1990-10-05,30,England,Colchester United,League Two,2020/2021,2020
+Courtney Senior,Right Winger,1997-06-30,23,England,Colchester United,League Two,2020/2021,2020
+Kwame Poku,Right Winger,2001-08-11,19,England,Colchester United,League Two,2020/2021,2020
+Luke Norris,Centre-Forward,1993-06-03,27,England,Colchester United,League Two,2020/2021,2020
+Jevani Brown,Centre-Forward,1994-10-16,26,Jamaica,Colchester United,League Two,2020/2021,2020
+Michael Folivi,Centre-Forward,1998-02-25,22,England,Colchester United,League Two,2020/2021,2020
+James McKeown,Goalkeeper,1989-07-24,31,Ireland,Grimsby Town,League Two,2020/2021,2020
+Sam Russell,Goalkeeper,1982-10-04,38,England,Grimsby Town,League Two,2020/2021,2020
+Ollie Battersby,Goalkeeper,2001-07-23,19,England,Grimsby Town,League Two,2020/2021,2020
+Ludvig Öhman,Centre-Back,1991-10-09,29,Sweden,Grimsby Town,League Two,2020/2021,2020
+Bilel Mohsni,Centre-Back,1987-07-21,33,Tunisia,Grimsby Town,League Two,2020/2021,2020
+Luke Waterfall,Centre-Back,1990-07-30,30,England,Grimsby Town,League Two,2020/2021,2020
+Mattie Pollock,Centre-Back,2001-09-28,19,England,Grimsby Town,League Two,2020/2021,2020
+Duncan Idehen,Centre-Back,2002-07-03,18,England,Grimsby Town,League Two,2020/2021,2020
+Danny Preston,Left-Back,2000-08-06,20,England,Grimsby Town,League Two,2020/2021,2020
+Joseph Hope,Left-Back,2002-06-28,18,England,Grimsby Town,League Two,2020/2021,2020
+Luke Hendrie,Right-Back,1994-08-27,26,England,Grimsby Town,League Two,2020/2021,2020
+Elliott Hewitt,Right-Back,1994-05-30,26,Wales,Grimsby Town,League Two,2020/2021,2020
+Cameron Painter,Midfielder,2002-02-22,18,England,Grimsby Town,League Two,2020/2021,2020
+Terry Taylor,Defensive Midfield,2001-06-29,19,Wales,Grimsby Town,League Two,2020/2021,2020
+Joseph Starbuck,Defensive Midfield,2002-08-03,18,England,Grimsby Town,League Two,2020/2021,2020
+Danny Rose,Central Midfield,1988-02-21,32,England,Grimsby Town,League Two,2020/2021,2020
+Harry Clifton,Central Midfield,1998-06-12,22,Wales,Grimsby Town,League Two,2020/2021,2020
+Luke Spokes,Attacking Midfield,2000-08-06,20,England,Grimsby Town,League Two,2020/2021,2020
+George Williams,Left Winger,1995-09-07,25,Wales,Grimsby Town,League Two,2020/2021,2020
+Kyle Bennett,Left Winger,1990-09-09,30,England,Grimsby Town,League Two,2020/2021,2020
+Sean Scannell,Right Winger,1990-09-17,30,Ireland,Grimsby Town,League Two,2020/2021,2020
+Max Wright,Right Winger,1998-04-06,22,England,Grimsby Town,League Two,2020/2021,2020
+Ira Jackson Jr.,Right Winger,1997-01-28,23,England,Grimsby Town,League Two,2020/2021,2020
+Owura Edwards,Right Winger,NA,NA,England,Grimsby Town,League Two,2020/2021,2020
+James Tilley,Right Winger,1998-06-13,22,England,Grimsby Town,League Two,2020/2021,2020
+James Hanson,Centre-Forward,1987-11-09,32,England,Grimsby Town,League Two,2020/2021,2020
+Matt Green,Centre-Forward,1987-01-02,33,England,Grimsby Town,League Two,2020/2021,2020
+Virgil Gomis,Centre-Forward,1999-04-16,21,France,Grimsby Town,League Two,2020/2021,2020
+Owen Windsor,Centre-Forward,2001-09-17,19,England,Grimsby Town,League Two,2020/2021,2020
+Montel Gibson,Centre-Forward,1997-12-15,22,England,Grimsby Town,League Two,2020/2021,2020
+Lawrence Vigouroux,Goalkeeper,1993-11-19,26,Chile,Leyton Orient,League Two,2020/2021,2020
+Sam Sargeant,Goalkeeper,1997-09-23,23,England,Leyton Orient,League Two,2020/2021,2020
+Josh Coulson,Centre-Back,1989-01-28,31,England,Leyton Orient,League Two,2020/2021,2020
+Jamie Turley,Centre-Back,1990-04-07,30,England,Leyton Orient,League Two,2020/2021,2020
+Dan Happe,Centre-Back,1998-09-28,22,England,Leyton Orient,League Two,2020/2021,2020
+Tunji Akinola,Centre-Back,1998-11-21,21,England,Leyton Orient,League Two,2020/2021,2020
+Shadrach Ogie,Centre-Back,2001-08-26,19,Ireland,Leyton Orient,League Two,2020/2021,2020
+Joe Widdowson,Left-Back,1989-03-29,31,England,Leyton Orient,League Two,2020/2021,2020
+Jayden Sweeney,Left-Back,2001-12-04,18,England,Leyton Orient,League Two,2020/2021,2020
+Sam Ling,Right-Back,1996-12-17,23,England,Leyton Orient,League Two,2020/2021,2020
+Jordan Thomas,Right-Back,2001-01-02,19,England,Leyton Orient,League Two,2020/2021,2020
+Myles Judd,Right-Back,1999-02-03,21,England,Leyton Orient,League Two,2020/2021,2020
+Ousseynou Cissé,Defensive Midfield,1991-04-06,29,Mali,Leyton Orient,League Two,2020/2021,2020
+Josh Wright,Central Midfield,1989-11-06,31,England,Leyton Orient,League Two,2020/2021,2020
+Craig Clay,Central Midfield,1992-05-05,28,England,Leyton Orient,League Two,2020/2021,2020
+Brendon Shabani,Central Midfield,2001-10-22,19,England,Leyton Orient,League Two,2020/2021,2020
+Hector Kyprianou,Central Midfield,2001-05-27,19,Cyprus,Leyton Orient,League Two,2020/2021,2020
+James Dayton,Right Midfield,1988-12-12,31,England,Leyton Orient,League Two,2020/2021,2020
+James Brophy,Left Midfield,1994-07-25,26,England,Leyton Orient,League Two,2020/2021,2020
+Jobi McAnuff,Left Winger,1981-11-09,38,Jamaica,Leyton Orient,League Two,2020/2021,2020
+Jordan Maguire-Drew,Right Winger,1997-09-15,23,England,Leyton Orient,League Two,2020/2021,2020
+Danny Johnson,Centre-Forward,1993-02-28,27,England,Leyton Orient,League Two,2020/2021,2020
+Lee Angol,Centre-Forward,1994-08-04,26,England,Leyton Orient,League Two,2020/2021,2020
+Conor Wilkinson,Centre-Forward,1995-01-23,25,Ireland,Leyton Orient,League Two,2020/2021,2020
+Louis Dennis,Centre-Forward,1992-10-09,28,England,Leyton Orient,League Two,2020/2021,2020
+Ruel Sotiriou,Centre-Forward,2000-08-24,20,Cyprus,Leyton Orient,League Two,2020/2021,2020
+Marek Stech,Goalkeeper,1990-01-28,30,Czech Republic,Mansfield Town,League Two,2020/2021,2020
+Aidan Stone,Goalkeeper,1999-07-20,21,England,Mansfield Town,League Two,2020/2021,2020
+Ryan Sweeney,Centre-Back,1997-04-15,23,Ireland,Mansfield Town,League Two,2020/2021,2020
+Farrend Rawson,Centre-Back,1996-07-11,24,England,Mansfield Town,League Two,2020/2021,2020
+Rollin Menayese,Centre-Back,1997-12-04,22,Wales,Mansfield Town,League Two,2020/2021,2020
+Aaron O'Driscoll,Centre-Back,1999-04-04,21,Ireland,Mansfield Town,League Two,2020/2021,2020
+Mal Benning,Left-Back,1993-11-02,27,England,Mansfield Town,League Two,2020/2021,2020
+Joe Riley,Right-Back,1991-10-13,29,England,Mansfield Town,League Two,2020/2021,2020
+James Clarke,Right-Back,2000-04-02,20,Ireland,Mansfield Town,League Two,2020/2021,2020
+James Perch,Defensive Midfield,1985-09-28,35,England,Mansfield Town,League Two,2020/2021,2020
+George Lapslie,Central Midfield,1997-09-05,23,England,Mansfield Town,League Two,2020/2021,2020
+Ollie Clarke,Central Midfield,1992-06-29,28,England,Mansfield Town,League Two,2020/2021,2020
+George Maris,Central Midfield,1996-03-06,24,England,Mansfield Town,League Two,2020/2021,2020
+Harry Charsley,Central Midfield,1996-11-01,24,Ireland,Mansfield Town,League Two,2020/2021,2020
+Alistair Smith,Central Midfield,1999-05-19,21,England,Mansfield Town,League Two,2020/2021,2020
+Corey O'Keeffe,Right Midfield,1998-06-05,22,Ireland,Mansfield Town,League Two,2020/2021,2020
+Kellan Gordon,Right Midfield,1997-12-25,22,England,Mansfield Town,League Two,2020/2021,2020
+Stephen McLaughlin,Left Midfield,1990-06-14,30,Ireland,Mansfield Town,League Two,2020/2021,2020
+Jason Law,Left Midfield,1999-04-26,21,England,Mansfield Town,League Two,2020/2021,2020
+Nicky Maynard,Centre-Forward,1986-12-11,33,England,Mansfield Town,League Two,2020/2021,2020
+Jordan Bowery,Centre-Forward,1991-07-02,29,England,Mansfield Town,League Two,2020/2021,2020
+Andy Cook,Centre-Forward,1990-10-18,30,England,Mansfield Town,League Two,2020/2021,2020
+Jamie Reid,Centre-Forward,1994-07-15,26,Northern Ireland,Mansfield Town,League Two,2020/2021,2020
+Richard O'Donnell,Goalkeeper,1988-09-12,32,England,Bradford City,League Two,2020/2021,2020
+Sam Hornby,Goalkeeper,1995-02-14,25,England,Bradford City,League Two,2020/2021,2020
+Anthony O'Connor,Centre-Back,1992-10-25,28,Ireland,Bradford City,League Two,2020/2021,2020
+Ben Richards-Everton,Centre-Back,1991-10-17,29,England,Bradford City,League Two,2020/2021,2020
+Paudie O'Connor,Centre-Back,1997-07-14,23,Ireland,Bradford City,League Two,2020/2021,2020
+Reece Staunton,Centre-Back,2001-12-10,18,Ireland,Bradford City,League Two,2020/2021,2020
+Finn Cousin-Dawson,Centre-Back,2002-07-04,18,England,Bradford City,League Two,2020/2021,2020
+Jorge Sikora,Centre-Back,2001-11-10,18,Poland,Bradford City,League Two,2020/2021,2020
+Jackson Longridge,Left-Back,1995-04-12,25,Scotland,Bradford City,League Two,2020/2021,2020
+Connor Wood,Left-Back,1996-07-17,24,England,Bradford City,League Two,2020/2021,2020
+Levi Sutton,Right-Back,1996-03-24,24,England,Bradford City,League Two,2020/2021,2020
+Bryce Hosannah,Right-Back,1999-04-08,21,England,Bradford City,League Two,2020/2021,2020
+Tyler French,Right-Back,1999-02-12,21,England,Bradford City,League Two,2020/2021,2020
+Callum Cooke,Central Midfield,1997-02-21,23,England,Bradford City,League Two,2020/2021,2020
+Elliot Watt,Central Midfield,2000-03-11,20,Scotland,Bradford City,League Two,2020/2021,2020
+Kian Scales,Central Midfield,2002-12-01,17,England,Bradford City,League Two,2020/2021,2020
+Zeli Ismail,Right Midfield,1993-12-12,26,England,Bradford City,League Two,2020/2021,2020
+Dylan Mottley-Henry,Right Midfield,1997-08-02,23,England,Bradford City,League Two,2020/2021,2020
+Harry Pritchard,Left Midfield,1993-04-23,27,England,Bradford City,League Two,2020/2021,2020
+Gareth Evans,Attacking Midfield,1988-04-26,32,England,Bradford City,League Two,2020/2021,2020
+Connor Shanks,Attacking Midfield,2002-04-11,18,England,Bradford City,League Two,2020/2021,2020
+Billy Clarke,Second Striker,1987-12-13,32,Ireland,Bradford City,League Two,2020/2021,2020
+Lee Novak,Centre-Forward,1988-09-28,32,England,Bradford City,League Two,2020/2021,2020
+Clayton Donaldson,Centre-Forward,1984-02-07,36,Jamaica,Bradford City,League Two,2020/2021,2020
+Kurtis Guthrie,Centre-Forward,1993-04-21,27,England,Bradford City,League Two,2020/2021,2020
+Austin Samuels,Centre-Forward,2000-11-20,19,England,Bradford City,League Two,2020/2021,2020
+Mark Howard,Goalkeeper,1986-09-21,34,England,Scunthorpe United,League Two,2020/2021,2020
+Rory Watson,Goalkeeper,1996-02-05,24,England,Scunthorpe United,League Two,2020/2021,2020
+Adam Kelsey,Goalkeeper,1999-11-12,20,England,Scunthorpe United,League Two,2020/2021,2020
+Tom Collins,Goalkeeper,2002-08-04,18,England,Scunthorpe United,League Two,2020/2021,2020
+Jacob Bedeau,Centre-Back,1999-12-24,20,England,Scunthorpe United,League Two,2020/2021,2020
+Harrison McGahey,Centre-Back,1995-09-26,25,England,Scunthorpe United,League Two,2020/2021,2020
+Emmanuel Onariase,Centre-Back,1996-10-21,24,England,Scunthorpe United,League Two,2020/2021,2020
+Tyler Cordner,Centre-Back,1998-12-04,21,England,Scunthorpe United,League Two,2020/2021,2020
+Charlie Barks,Centre-Back,2002-07-19,18,England,Scunthorpe United,League Two,2020/2021,2020
+Junior Brown,Left-Back,1989-05-07,31,England,Scunthorpe United,League Two,2020/2021,2020
+Lewis Butroid,Left-Back,1998-09-17,22,England,Scunthorpe United,League Two,2020/2021,2020
+Mason O'Malley,Left-Back,2001-06-08,19,Ireland,Scunthorpe United,League Two,2020/2021,2020
+Jordan Clarke,Right-Back,1991-11-19,28,England,Scunthorpe United,League Two,2020/2021,2020
+George Hornshaw,Right-Back,2000-01-20,20,England,Scunthorpe United,League Two,2020/2021,2020
+Lewis Spence,Central Midfield,1996-01-28,24,Scotland,Scunthorpe United,League Two,2020/2021,2020
+Tom Pugh,Central Midfield,2000-09-27,20,Wales,Scunthorpe United,League Two,2020/2021,2020
+Jake Taylor,Central Midfield,1998-09-08,22,England,Scunthorpe United,League Two,2020/2021,2020
+Finley Shrimpton,Central Midfield,2002-08-24,18,England,Scunthorpe United,League Two,2020/2021,2020
+Raynner Silva,Central Midfield,2001-10-15,19,England,Scunthorpe United,League Two,2020/2021,2020
+Frank Vincent,Left Midfield,1999-04-23,21,England,Scunthorpe United,League Two,2020/2021,2020
+Jordan Hallam,Attacking Midfield,1998-10-06,22,England,Scunthorpe United,League Two,2020/2021,2020
+Alfie Beestin,Attacking Midfield,1997-10-01,23,England,Scunthorpe United,League Two,2020/2021,2020
+Myles Hippolyte,Left Winger,1994-11-09,25,England,Scunthorpe United,League Two,2020/2021,2020
+Andy Dales,Left Winger,1994-11-13,25,England,Scunthorpe United,League Two,2020/2021,2020
+Abo Eisa,Left Winger,1996-01-05,24,England,Scunthorpe United,League Two,2020/2021,2020
+Alex Gilliead,Right Winger,1996-02-11,24,England,Scunthorpe United,League Two,2020/2021,2020
+Devarn Green,Right Winger,1996-08-26,24,England,Scunthorpe United,League Two,2020/2021,2020
+John McAtee,Second Striker,1999-07-23,21,England,Scunthorpe United,League Two,2020/2021,2020
+Kevin van Veen,Centre-Forward,1991-06-01,29,Netherlands,Scunthorpe United,League Two,2020/2021,2020
+Kenan Dünnwald-Turan,Centre-Forward,1995-11-14,24,Germany,Scunthorpe United,League Two,2020/2021,2020
+Ryan Loft,Centre-Forward,1997-09-14,23,England,Scunthorpe United,League Two,2020/2021,2020
+Aaron Jarvis,Centre-Forward,1998-01-24,22,England,Scunthorpe United,League Two,2020/2021,2020
+Olufela Olomola,Centre-Forward,1997-09-05,23,England,Scunthorpe United,League Two,2020/2021,2020
+Harry Jessop,Centre-Forward,2002-08-01,18,England,Scunthorpe United,League Two,2020/2021,2020
+Josh Lillis,Goalkeeper,1987-06-24,33,England,Barrow AFC,League Two,2020/2021,2020
+Scott Moloney,Goalkeeper,2001-02-05,19,England,Barrow AFC,League Two,2020/2021,2020
+Joel Dixon,Goalkeeper,1993-12-09,26,England,Barrow AFC,League Two,2020/2021,2020
+Sam Hird,Centre-Back,1987-09-07,33,England,Barrow AFC,League Two,2020/2021,2020
+Matty Platt,Centre-Back,1997-10-03,23,England,Barrow AFC,League Two,2020/2021,2020
+James Jones,Centre-Back,1997-03-13,23,Wales,Barrow AFC,League Two,2020/2021,2020
+Yoan Zouma,Centre-Back,1998-05-06,22,France,Barrow AFC,League Two,2020/2021,2020
+Scott Wilson,Centre-Back,2000-01-10,20,England,Barrow AFC,League Two,2020/2021,2020
+Kgosi Ntlhe,Left-Back,1994-02-21,26,South Africa,Barrow AFC,League Two,2020/2021,2020
+Patrick Brough,Left-Back,1996-02-20,24,England,Barrow AFC,League Two,2020/2021,2020
+Connor Brown,Right-Back,1992-08-22,28,England,Barrow AFC,League Two,2020/2021,2020
+Bradley Barry,Right-Back,1995-02-13,25,England,Barrow AFC,League Two,2020/2021,2020
+Tom Beadling,Defensive Midfield,1996-01-16,24,Australia,Barrow AFC,League Two,2020/2021,2020
+Mike Jones,Central Midfield,1987-08-15,33,England,Barrow AFC,League Two,2020/2021,2020
+Jason Taylor,Central Midfield,1987-01-28,33,England,Barrow AFC,League Two,2020/2021,2020
+Lewis Hardcastle,Central Midfield,1998-07-04,22,England,Barrow AFC,League Two,2020/2021,2020
+Harrison Biggins,Central Midfield,1996-03-15,24,England,Barrow AFC,League Two,2020/2021,2020
+Chris Taylor,Left Midfield,1986-12-20,33,England,Barrow AFC,League Two,2020/2021,2020
+Josh Kay,Left Midfield,1997-01-30,23,England,Barrow AFC,League Two,2020/2021,2020
+Callum Gribbin,Attacking Midfield,1998-12-19,21,England,Barrow AFC,League Two,2020/2021,2020
+Courtney Baker-Richardson,Centre-Forward,1995-12-05,24,England,Barrow AFC,League Two,2020/2021,2020
+Luke James,Centre-Forward,1994-11-04,26,England,Barrow AFC,League Two,2020/2021,2020
+Scott Quigley,Centre-Forward,1992-09-02,28,England,Barrow AFC,League Two,2020/2021,2020
+Jayden Reid,Centre-Forward,2001-04-22,19,England,Barrow AFC,League Two,2020/2021,2020
+Dior Angus,Centre-Forward,1994-01-18,26,England,Barrow AFC,League Two,2020/2021,2020
+Dimitri Sea,Centre-Forward,2001-05-02,19,France,Barrow AFC,League Two,2020/2021,2020
+Scott Brown,Goalkeeper,1985-04-26,35,England,Port Vale FC,League Two,2020/2021,2020
+Dino Visser,Goalkeeper,1989-07-10,31,South Africa,Port Vale FC,League Two,2020/2021,2020
+Shaun Brisley,Centre-Back,1990-05-06,30,England,Port Vale FC,League Two,2020/2021,2020
+Leon Legge,Centre-Back,1985-04-28,35,England,Port Vale FC,League Two,2020/2021,2020
+Nathan Smith,Centre-Back,1996-04-03,24,England,Port Vale FC,League Two,2020/2021,2020
+Ryan Campbell-Gordon,Centre-Back,2001-05-02,19,England,Port Vale FC,League Two,2020/2021,2020
+Adam Crookes,Left-Back,1997-11-18,22,England,Port Vale FC,League Two,2020/2021,2020
+David Fitzpatrick,Left-Back,1990-02-28,30,England,Port Vale FC,League Two,2020/2021,2020
+Zak Mills,Right-Back,1992-05-28,28,England,Port Vale FC,League Two,2020/2021,2020
+James Gibbons,Right-Back,1998-03-16,22,England,Port Vale FC,League Two,2020/2021,2020
+Mitchell Clark,Right-Back,1999-03-13,21,Wales,Port Vale FC,League Two,2020/2021,2020
+Luke Joyce,Defensive Midfield,1987-07-09,33,England,Port Vale FC,League Two,2020/2021,2020
+Scott Burgess,Central Midfield,1996-06-27,24,England,Port Vale FC,League Two,2020/2021,2020
+Emmanuel Oyeleke,Central Midfield,1992-12-24,27,England,Port Vale FC,League Two,2020/2021,2020
+Tom Conlon,Central Midfield,1996-02-03,24,England,Port Vale FC,League Two,2020/2021,2020
+Danny Whitehead,Central Midfield,1993-10-23,27,England,Port Vale FC,League Two,2020/2021,2020
+David Worrall,Right Midfield,1990-06-12,30,England,Port Vale FC,League Two,2020/2021,2020
+Cristian Montano,Left Midfield,1991-12-11,28,Colombia,Port Vale FC,League Two,2020/2021,2020
+Dan Trickett-Smith,Attacking Midfield,1995-09-10,25,England,Port Vale FC,League Two,2020/2021,2020
+Alex Hurst,Left Winger,1999-10-06,21,England,Port Vale FC,League Two,2020/2021,2020
+David Amoo,Right Winger,1991-04-13,29,England,Port Vale FC,League Two,2020/2021,2020
+Devante Rodney,Right Winger,1998-05-19,22,England,Port Vale FC,League Two,2020/2021,2020
+Tom Pope,Centre-Forward,1985-08-27,35,England,Port Vale FC,League Two,2020/2021,2020
+Theo Robinson,Centre-Forward,1989-01-22,31,Jamaica,Port Vale FC,League Two,2020/2021,2020
+Mark Cullen,Centre-Forward,1992-04-21,28,England,Port Vale FC,League Two,2020/2021,2020
+Harry McKirdy,Centre-Forward,1997-03-29,23,England,Port Vale FC,League Two,2020/2021,2020
+Scott Flinders,Goalkeeper,1986-06-12,34,England,Cheltenham Town,League Two,2020/2021,2020
+Joshua Griffiths,Goalkeeper,2001-09-05,19,England,Cheltenham Town,League Two,2020/2021,2020
+Max Harris,Goalkeeper,1999-09-14,21,England,Cheltenham Town,League Two,2020/2021,2020
+Ben Tozer,Centre-Back,1990-03-01,30,England,Cheltenham Town,League Two,2020/2021,2020
+William Boyle,Centre-Back,1995-09-01,25,England,Cheltenham Town,League Two,2020/2021,2020
+Charlie Raglan,Centre-Back,1993-04-28,27,England,Cheltenham Town,League Two,2020/2021,2020
+Dan Bowry,Centre-Back,1998-04-29,22,Antigua and Barbuda,Cheltenham Town,League Two,2020/2021,2020
+Grant Horton,Centre-Back,2001-05-18,19,England,Cheltenham Town,League Two,2020/2021,2020
+Chris Hussey,Left-Back,1989-01-02,31,England,Cheltenham Town,League Two,2020/2021,2020
+Lewis Freestone,Left-Back,1999-10-26,21,England,Cheltenham Town,League Two,2020/2021,2020
+Sean Long,Right-Back,1995-05-02,25,Ireland,Cheltenham Town,League Two,2020/2021,2020
+Conor Thomas,Defensive Midfield,1993-10-29,27,England,Cheltenham Town,League Two,2020/2021,2020
+Tom Sang,Defensive Midfield,1999-06-29,21,England,Cheltenham Town,League Two,2020/2021,2020
+Liam Sercombe,Central Midfield,1990-04-25,30,England,Cheltenham Town,League Two,2020/2021,2020
+Chris Clements,Central Midfield,1990-02-06,30,England,Cheltenham Town,League Two,2020/2021,2020
+Ellis Chapman,Central Midfield,2001-01-08,19,England,Cheltenham Town,League Two,2020/2021,2020
+Elliot Bonds,Central Midfield,2000-03-23,20,Guyana,Cheltenham Town,League Two,2020/2021,2020
+Tom Chamberlain,Central Midfield,2002-06-01,18,England,Cheltenham Town,League Two,2020/2021,2020
+Matty Blair,Right Midfield,1989-06-21,31,England,Cheltenham Town,League Two,2020/2021,2020
+Finn Azaz,Attacking Midfield,2000-09-07,20,England,Cheltenham Town,League Two,2020/2021,2020
+Reuben Reid,Centre-Forward,1988-07-26,32,England,Cheltenham Town,League Two,2020/2021,2020
+Andy Williams,Centre-Forward,1986-08-14,34,England,Cheltenham Town,League Two,2020/2021,2020
+Alfie May,Centre-Forward,1993-07-02,27,England,Cheltenham Town,League Two,2020/2021,2020
+Alex Addai,Centre-Forward,1993-12-20,26,England,Cheltenham Town,League Two,2020/2021,2020
+George Lloyd,Centre-Forward,2000-02-11,20,England,Cheltenham Town,League Two,2020/2021,2020
+Tahvon Campbell,Centre-Forward,1997-01-10,23,England,Cheltenham Town,League Two,2020/2021,2020
+Lewis Ward,Goalkeeper,1997-03-05,23,England,Exeter City,League Two,2020/2021,2020
+Jonny Maxted,Goalkeeper,1992-09-16,28,England,Exeter City,League Two,2020/2021,2020
+Jack Arthur,Goalkeeper,2002-11-14,17,England,Exeter City,League Two,2020/2021,2020
+Rory McArdle,Centre-Back,1987-05-01,33,Northern Ireland,Exeter City,League Two,2020/2021,2020
+Tom Parkes,Centre-Back,1992-01-15,28,England,Exeter City,League Two,2020/2021,2020
+Alex Hartridge,Centre-Back,1999-03-09,21,England,Exeter City,League Two,2020/2021,2020
+Will Dean,Centre-Back,2000-08-07,20,England,Exeter City,League Two,2020/2021,2020
+Lewis Page,Left-Back,1996-05-20,24,England,Exeter City,League Two,2020/2021,2020
+Jack Sparkes,Left-Back,2000-09-29,20,England,Exeter City,League Two,2020/2021,2020
+Jake Caprice,Right-Back,1992-11-11,27,England,Exeter City,League Two,2020/2021,2020
+Pierce Sweeney,Right-Back,1994-09-11,26,Ireland,Exeter City,League Two,2020/2021,2020
+Josh Key,Right-Back,1999-11-19,20,England,Exeter City,League Two,2020/2021,2020
+Nigel Atangana,Defensive Midfield,1989-09-09,31,France,Exeter City,League Two,2020/2021,2020
+Jake Taylor,Central Midfield,1991-12-01,28,Wales,Exeter City,League Two,2020/2021,2020
+Archie Collins,Central Midfield,1999-08-31,21,England,Exeter City,League Two,2020/2021,2020
+Harry Kite,Central Midfield,2000-06-29,20,England,Exeter City,League Two,2020/2021,2020
+James Dodd,Central Midfield,2000-11-01,20,England,Exeter City,League Two,2020/2021,2020
+Nicky Law,Attacking Midfield,1988-03-29,32,England,Exeter City,League Two,2020/2021,2020
+Matt Jay,Attacking Midfield,1996-02-27,24,England,Exeter City,League Two,2020/2021,2020
+Sonny Cox,Attacking Midfield,NA,NA,England,Exeter City,League Two,2020/2021,2020
+Joel Randall,Left Winger,1999-10-29,21,England,Exeter City,League Two,2020/2021,2020
+Randell Williams,Right Winger,1996-12-30,23,England,Exeter City,League Two,2020/2021,2020
+Nelson Iseguan,Right Winger,2002-12-11,17,England,Exeter City,League Two,2020/2021,2020
+Nicky Ajose,Centre-Forward,1991-10-07,29,England,Exeter City,League Two,2020/2021,2020
+Ryan Bowman,Centre-Forward,1991-11-30,28,England,Exeter City,League Two,2020/2021,2020
+Alex Fisher,Centre-Forward,1990-06-30,30,England,Exeter City,League Two,2020/2021,2020
+Ben Seymour,Centre-Forward,1999-04-16,21,England,Exeter City,League Two,2020/2021,2020
+Tom King,Goalkeeper,1995-03-09,25,Wales,Newport County,League Two,2020/2021,2020
+Nick Townsend,Goalkeeper,1994-11-01,26,England,Newport County,League Two,2020/2021,2020
+Scot Bennett,Centre-Back,1990-11-30,29,England,Newport County,League Two,2020/2021,2020
+Mickey Demetriou,Centre-Back,1990-03-12,30,England,Newport County,League Two,2020/2021,2020
+Kyle Howkins,Centre-Back,1996-05-04,24,England,Newport County,League Two,2020/2021,2020
+Brandon Cooper,Centre-Back,2000-01-14,20,Wales,Newport County,League Two,2020/2021,2020
+David Longe-King,Centre-Back,1995-01-26,25,England,Newport County,League Two,2020/2021,2020
+Bradley Webb,Centre-Back,2001-06-09,19,England,Newport County,League Two,2020/2021,2020
+Ryan Haynes,Left-Back,1995-09-27,25,England,Newport County,League Two,2020/2021,2020
+Ash Baker,Right-Back,1996-10-30,24,Wales,Newport County,League Two,2020/2021,2020
+Liam Shephard,Right-Back,1994-11-22,25,Wales,Newport County,League Two,2020/2021,2020
+Aaron Lewis,Right-Back,1998-06-26,22,Wales,Newport County,League Two,2020/2021,2020
+Matt Dolan,Defensive Midfield,1993-02-11,27,England,Newport County,League Two,2020/2021,2020
+Joss Labadie,Central Midfield,1990-08-30,30,England,Newport County,League Two,2020/2021,2020
+Josh Sheehan,Central Midfield,1995-03-30,25,Wales,Newport County,League Two,2020/2021,2020
+Robbie Willmott,Right Midfield,1990-05-16,30,England,Newport County,League Two,2020/2021,2020
+Jamie Devitt,Attacking Midfield,1990-07-06,30,Ireland,Newport County,League Two,2020/2021,2020
+Scott Twine,Attacking Midfield,1999-07-14,21,England,Newport County,League Two,2020/2021,2020
+Lewis Collins,Attacking Midfield,2001-05-09,19,Wales,Newport County,League Two,2020/2021,2020
+Kevin Ellison,Left Winger,1979-02-23,41,England,Newport County,League Two,2020/2021,2020
+Padraig Amond,Centre-Forward,1988-01-15,32,Ireland,Newport County,League Two,2020/2021,2020
+Ryan Taylor,Centre-Forward,1988-05-04,32,England,Newport County,League Two,2020/2021,2020
+Jamie Proctor,Centre-Forward,1992-03-25,28,England,Newport County,League Two,2020/2021,2020
+Tristan Abrahams,Centre-Forward,1998-12-29,21,England,Newport County,League Two,2020/2021,2020
+Saikou Janneh,Centre-Forward,2000-01-11,20,The Gambia,Newport County,League Two,2020/2021,2020
+Glenn Morris,Goalkeeper,1983-12-20,36,England,Crawley Town,League Two,2020/2021,2020
+Alfie Jones,Goalkeeper,2000-10-02,20,England,Crawley Town,League Two,2020/2021,2020
+Tom McGill,Goalkeeper,2000-03-25,20,England,Crawley Town,League Two,2020/2021,2020
+Tony Craig,Centre-Back,1985-04-20,35,England,Crawley Town,League Two,2020/2021,2020
+Tom Dallison,Centre-Back,1996-02-02,24,England,Crawley Town,League Two,2020/2021,2020
+Joe McNerney,Centre-Back,1990-01-24,30,England,Crawley Town,League Two,2020/2021,2020
+Emmanuel Adebowale,Centre-Back,1997-09-14,23,England,Crawley Town,League Two,2020/2021,2020
+Jordan Tunnicliffe,Centre-Back,1993-10-13,27,England,Crawley Town,League Two,2020/2021,2020
+Josh Doherty,Left-Back,1996-03-15,24,Northern Ireland,Crawley Town,League Two,2020/2021,2020
+Nick Tsaroulla,Left-Back,1999-03-29,21,Cyprus,Crawley Town,League Two,2020/2021,2020
+Lewis Young,Right-Back,1989-09-29,31,England,Crawley Town,League Two,2020/2021,2020
+David Sesay,Right-Back,1998-09-18,22,Kenya,Crawley Town,League Two,2020/2021,2020
+Archie Davies,Right-Back,1998-10-07,22,England,Crawley Town,League Two,2020/2021,2020
+Henry Burnett,Midfielder,NA,NA,England,Crawley Town,League Two,2020/2021,2020
+Jake Hessenthaler,Central Midfield,1994-04-20,26,England,Crawley Town,League Two,2020/2021,2020
+Jack Powell,Central Midfield,1994-01-29,26,England,Crawley Town,League Two,2020/2021,2020
+Dannie Bulman,Central Midfield,1979-01-24,41,England,Crawley Town,League Two,2020/2021,2020
+Tyler Frost,Central Midfield,1999-07-07,21,England,Crawley Town,League Two,2020/2021,2020
+Nathan Ferguson,Central Midfield,1995-10-12,25,England,Crawley Town,League Two,2020/2021,2020
+Sam Matthews,Central Midfield,1997-03-01,23,England,Crawley Town,League Two,2020/2021,2020
+George Francomb,Right Midfield,1991-09-08,29,England,Crawley Town,League Two,2020/2021,2020
+Reece Grego-Cox,Right Midfield,1996-11-12,23,Ireland,Crawley Town,League Two,2020/2021,2020
+Tarryn Allarakhia,Right Midfield,1997-10-17,23,England,Crawley Town,League Two,2020/2021,2020
+Jake Hesketh,Attacking Midfield,1996-03-27,24,England,Crawley Town,League Two,2020/2021,2020
+Zaid Al Hussaini,Attacking Midfield,2000-06-07,20,England,Crawley Town,League Two,2020/2021,2020
+Rafiq Khaleel,Attacking Midfield,2003-02-24,17,Morocco,Crawley Town,League Two,2020/2021,2020
+Tom Nichols,Centre-Forward,1993-08-28,27,England,Crawley Town,League Two,2020/2021,2020
+Ricardo German,Centre-Forward,1999-01-13,21,Grenada,Crawley Town,League Two,2020/2021,2020
+Ashley Nadesan,Centre-Forward,1995-09-09,25,England,Crawley Town,League Two,2020/2021,2020
+Sam Ashford,Centre-Forward,1995-12-21,24,England,Crawley Town,League Two,2020/2021,2020
+Brian Galach,Centre-Forward,2001-05-16,19,Poland,Crawley Town,League Two,2020/2021,2020
+Max Watters,Centre-Forward,1999-03-23,21,England,Crawley Town,League Two,2020/2021,2020
+Magnus Norman,Goalkeeper,1997-01-19,23,England,Carlisle United,League Two,2020/2021,2020
+Paul Farman,Goalkeeper,1989-11-02,31,England,Carlisle United,League Two,2020/2021,2020
+Marcus Dewhurst,Goalkeeper,2001-03-20,19,England,Carlisle United,League Two,2020/2021,2020
+Rod McDonald,Centre-Back,1992-04-11,28,England,Carlisle United,League Two,2020/2021,2020
+Max Hunt,Centre-Back,1999-05-01,21,England,Carlisle United,League Two,2020/2021,2020
+Aaron Hayden,Centre-Back,1997-01-16,23,England,Carlisle United,League Two,2020/2021,2020
+Tom Wilson,Centre-Back,2001-12-08,18,England,Carlisle United,League Two,2020/2021,2020
+Jack Armer,Left-Back,2001-04-16,19,Scotland,Carlisle United,League Two,2020/2021,2020
+Nick Anderton,Left-Back,1996-04-22,24,England,Carlisle United,League Two,2020/2021,2020
+Charlie Birch,Left-Back,2001-10-23,19,England,Carlisle United,League Two,2020/2021,2020
+George Tanner,Right-Back,1999-11-16,20,England,Carlisle United,League Two,2020/2021,2020
+Lewis Bell,Midfielder,2002-09-29,18,England,Carlisle United,League Two,2020/2021,2020
+Jon Mellish,Defensive Midfield,1997-09-19,23,England,Carlisle United,League Two,2020/2021,2020
+Dean Furman,Central Midfield,1988-06-22,32,South Africa,Carlisle United,League Two,2020/2021,2020
+Joe Riley,Central Midfield,1996-12-06,23,England,Carlisle United,League Two,2020/2021,2020
+Callum Guy,Central Midfield,1996-11-25,23,England,Carlisle United,League Two,2020/2021,2020
+Daniel Devine,Central Midfield,1997-09-04,23,England,Carlisle United,League Two,2020/2021,2020
+Connor Malley,Central Midfield,2000-03-20,20,England,Carlisle United,League Two,2020/2021,2020
+Taylor Charters,Central Midfield,2001-10-02,19,England,Carlisle United,League Two,2020/2021,2020
+Jamie Armstrong,Central Midfield,2001-10-05,19,Scotland,Carlisle United,League Two,2020/2021,2020
+Brennan Dickenson,Left Midfield,1993-02-26,27,England,Carlisle United,League Two,2020/2021,2020
+Josh Dixon,Attacking Midfield,2001-02-07,19,England,Carlisle United,League Two,2020/2021,2020
+Omari Patrick,Left Winger,1996-05-24,24,England,Carlisle United,League Two,2020/2021,2020
+Ethan Walker,Left Winger,2002-07-28,18,England,Carlisle United,League Two,2020/2021,2020
+Lewis Alessandra,Second Striker,1989-02-08,31,England,Carlisle United,League Two,2020/2021,2020
+Gavin Reilly,Centre-Forward,1993-05-10,27,Scotland,Carlisle United,League Two,2020/2021,2020
+Joshua Kayode,Centre-Forward,2000-05-04,20,Nigeria,Carlisle United,League Two,2020/2021,2020
+Gime Touré,Centre-Forward,1994-05-07,26,France,Carlisle United,League Two,2020/2021,2020
+Micah Obiero,Centre-Forward,2001-02-22,19,England,Carlisle United,League Two,2020/2021,2020
+Dimitar Mitov,Goalkeeper,1997-01-22,23,Bulgaria,Cambridge United,League Two,2020/2021,2020
+Callum Burton,Goalkeeper,1996-08-15,24,England,Cambridge United,League Two,2020/2021,2020
+Kai McKenzie-Lyle,Goalkeeper,1997-11-30,22,Guyana,Cambridge United,League Two,2020/2021,2020
+Greg Taylor,Centre-Back,1990-01-15,30,England,Cambridge United,League Two,2020/2021,2020
+Harry Darling,Centre-Back,1999-08-08,21,England,Cambridge United,League Two,2020/2021,2020
+Robbie Cundy,Centre-Back,1997-05-30,23,England,Cambridge United,League Two,2020/2021,2020
+Jack Iredale,Left-Back,1996-05-02,24,Australia,Cambridge United,League Two,2020/2021,2020
+Kyle Knoyle,Right-Back,1996-09-24,24,England,Cambridge United,League Two,2020/2021,2020
+Leon Davies,Right-Back,1999-11-22,20,England,Cambridge United,League Two,2020/2021,2020
+Hiram Boateng,Defensive Midfield,1996-01-08,24,England,Cambridge United,League Two,2020/2021,2020
+Paul Digby,Defensive Midfield,1995-02-02,25,England,Cambridge United,League Two,2020/2021,2020
+Liam O'Neil,Defensive Midfield,1993-07-31,27,England,Cambridge United,League Two,2020/2021,2020
+Ben Worman,Defensive Midfield,2001-08-30,19,England,Cambridge United,League Two,2020/2021,2020
+Adam May,Central Midfield,1997-12-06,22,England,Cambridge United,League Two,2020/2021,2020
+Lewis Simper,Central Midfield,2001-04-07,19,England,Cambridge United,League Two,2020/2021,2020
+Harrison Dunk,Left Midfield,1990-10-25,30,England,Cambridge United,League Two,2020/2021,2020
+Luke Hannant,Left Midfield,1993-11-04,27,England,Cambridge United,League Two,2020/2021,2020
+Wes Hoolahan,Attacking Midfield,1982-05-20,38,Ireland,Cambridge United,League Two,2020/2021,2020
+Idris El Mizouni,Attacking Midfield,2000-09-26,20,Tunisia,Cambridge United,League Two,2020/2021,2020
+Tom Knowles,Right Winger,1998-09-27,22,England,Cambridge United,League Two,2020/2021,2020
+Paul Mullin,Centre-Forward,1994-11-06,26,England,Cambridge United,League Two,2020/2021,2020
+Andy Dallas,Centre-Forward,1999-07-22,21,Scotland,Cambridge United,League Two,2020/2021,2020
+Joe Ironside,Centre-Forward,1993-10-16,27,England,Cambridge United,League Two,2020/2021,2020
+Harvey Knibbs,Centre-Forward,1999-04-26,21,England,Cambridge United,League Two,2020/2021,2020
+Joe Neal,Centre-Forward,2000-10-22,20,England,Cambridge United,League Two,2020/2021,2020
+Jack Rose,Goalkeeper,1995-01-31,25,England,Walsall FC,League Two,2020/2021,2020
+Liam Roberts,Goalkeeper,1994-11-24,25,England,Walsall FC,League Two,2020/2021,2020
+Joe Foulkes,Defender,NA,NA,England,Walsall FC,League Two,2020/2021,2020
+Mat Sadler,Centre-Back,1985-02-26,35,England,Walsall FC,League Two,2020/2021,2020
+Zak Jules,Centre-Back,1997-07-02,23,Scotland,Walsall FC,League Two,2020/2021,2020
+James Clarke,Centre-Back,1989-11-17,30,England,Walsall FC,League Two,2020/2021,2020
+Dan Scarr,Centre-Back,1994-12-24,25,England,Walsall FC,League Two,2020/2021,2020
+Tom Leak,Centre-Back,2000-10-31,20,England,Walsall FC,League Two,2020/2021,2020
+Callum Cockerill-Mollett,Left-Back,1999-01-15,21,Ireland,Walsall FC,League Two,2020/2021,2020
+George Nurse,Left-Back,1999-04-30,21,England,Walsall FC,League Two,2020/2021,2020
+Hayden White,Right-Back,1995-04-15,25,England,Walsall FC,League Two,2020/2021,2020
+Cameron Norman,Right-Back,1995-10-12,25,England,Walsall FC,League Two,2020/2021,2020
+Joe Willis,Midfielder,NA,NA,England,Walsall FC,League Two,2020/2021,2020
+Liam Kinsella,Defensive Midfield,1996-02-23,24,Ireland,Walsall FC,League Two,2020/2021,2020
+Danny Guthrie,Central Midfield,1987-04-18,33,England,Walsall FC,League Two,2020/2021,2020
+Stuart Sinclair,Central Midfield,1987-11-09,32,England,Walsall FC,League Two,2020/2021,2020
+Alfie Bates,Central Midfield,2001-05-03,19,England,Walsall FC,League Two,2020/2021,2020
+Sam Perry,Central Midfield,2001-12-29,18,England,Walsall FC,League Two,2020/2021,2020
+Emmanuel Osadebe,Right Midfield,1996-10-01,24,Ireland,Walsall FC,League Two,2020/2021,2020
+Jayden Campbell,Attacking Midfield,NA,NA,England,Walsall FC,League Two,2020/2021,2020
+Jack Nolan,Left Winger,2001-05-25,19,England,Walsall FC,League Two,2020/2021,2020
+Rory Holden,Right Winger,1997-08-23,23,Northern Ireland,Walsall FC,League Two,2020/2021,2020
+Wes McDonald,Right Winger,1997-05-04,23,England,Walsall FC,League Two,2020/2021,2020
+Caolan Lavery,Centre-Forward,1992-10-22,28,Northern Ireland,Walsall FC,League Two,2020/2021,2020
+Jake Scrimshaw,Centre-Forward,2000-09-13,20,England,Walsall FC,League Two,2020/2021,2020
+Adan George,Centre-Forward,2002-07-30,18,England,Walsall FC,League Two,2020/2021,2020
+Josh Gordon,Centre-Forward,1995-01-19,25,England,Walsall FC,League Two,2020/2021,2020
+Elijah Adebayo,Centre-Forward,1998-01-07,22,England,Walsall FC,League Two,2020/2021,2020
+Luke McGee,Goalkeeper,1995-09-02,25,England,Forest Green Rovers,League Two,2020/2021,2020
+Lewis Thomas,Goalkeeper,1997-09-20,23,Wales,Forest Green Rovers,League Two,2020/2021,2020
+Jordan Moore-Taylor,Centre-Back,1994-01-21,26,England,Forest Green Rovers,League Two,2020/2021,2020
+Dan Sweeney,Centre-Back,1994-04-25,26,England,Forest Green Rovers,League Two,2020/2021,2020
+Liam Kitching,Centre-Back,1999-10-01,21,England,Forest Green Rovers,League Two,2020/2021,2020
+Udoka Godwin-Malife,Centre-Back,2000-05-09,20,England,Forest Green Rovers,League Two,2020/2021,2020
+Chris Stokes,Left-Back,1991-03-08,29,England,Forest Green Rovers,League Two,2020/2021,2020
+Jack Evans,Left-Back,2000-08-10,20,England,Forest Green Rovers,League Two,2020/2021,2020
+Kane Wilson,Right-Back,2000-03-11,20,England,Forest Green Rovers,League Two,2020/2021,2020
+Dominic Bernard,Right-Back,1997-03-29,23,Ireland,Forest Green Rovers,League Two,2020/2021,2020
+Jayden Richardson,Right-Back,2000-09-04,20,England,Forest Green Rovers,League Two,2020/2021,2020
+Carl Winchester,Central Midfield,1993-04-12,27,Northern Ireland,Forest Green Rovers,League Two,2020/2021,2020
+Elliott Whitehouse,Central Midfield,1993-10-27,27,England,Forest Green Rovers,League Two,2020/2021,2020
+Ebou Adams,Central Midfield,1996-01-15,24,The Gambia,Forest Green Rovers,League Two,2020/2021,2020
+Harvey Bunker,Central Midfield,2003-04-15,17,England,Forest Green Rovers,League Two,2020/2021,2020
+Scott Wagstaff,Right Midfield,1990-03-31,30,England,Forest Green Rovers,League Two,2020/2021,2020
+Nicky Cadden,Left Midfield,1996-09-19,24,Scotland,Forest Green Rovers,League Two,2020/2021,2020
+Odin Bailey,Attacking Midfield,1999-12-08,20,England,Forest Green Rovers,League Two,2020/2021,2020
+Taylor Allen,Left Winger,2000-06-16,20,England,Forest Green Rovers,League Two,2020/2021,2020
+Jamille Matt,Centre-Forward,1989-10-20,31,Jamaica,Forest Green Rovers,League Two,2020/2021,2020
+Aaron Collins,Centre-Forward,1997-05-27,23,Wales,Forest Green Rovers,League Two,2020/2021,2020
+Mathew Stevens,Centre-Forward,1998-02-12,22,England,Forest Green Rovers,League Two,2020/2021,2020
+Jake Young,Centre-Forward,2001-07-22,19,England,Forest Green Rovers,League Two,2020/2021,2020
+Shawn McCoulsky,Centre-Forward,1997-01-06,23,England,Forest Green Rovers,League Two,2020/2021,2020
+Vaughn Covil,Centre-Forward,2003-07-26,17,United States,Forest Green Rovers,League Two,2020/2021,2020
+Josh March,Centre-Forward,1997-03-18,23,England,Forest Green Rovers,League Two,2020/2021,2020
+Jamie Cumming,Goalkeeper,1999-09-04,21,England,Stevenage FC,League Two,2020/2021,2020
+Billy Johnson,Goalkeeper,1999-09-25,21,England,Stevenage FC,League Two,2020/2021,2020
+Scott Cuthbert,Centre-Back,1987-06-15,33,Scotland,Stevenage FC,League Two,2020/2021,2020
+Luke Prosser,Centre-Back,1988-05-28,32,England,Stevenage FC,League Two,2020/2021,2020
+Ross Marshall,Centre-Back,1999-10-09,21,England,Stevenage FC,League Two,2020/2021,2020
+Ben Coker,Left-Back,1990-07-01,30,England,Stevenage FC,League Two,2020/2021,2020
+Remeao Hutton,Left-Back,1998-09-28,22,Burundi,Stevenage FC,League Two,2020/2021,2020
+Luther Wildin,Right-Back,1997-12-03,22,Antigua and Barbuda,Stevenage FC,League Two,2020/2021,2020
+Terence Vancooten,Right-Back,1997-12-29,22,Guyana,Stevenage FC,League Two,2020/2021,2020
+Romain Vincelot,Defensive Midfield,1985-10-29,35,France,Stevenage FC,League Two,2020/2021,2020
+Arthur Iontton,Defensive Midfield,2000-12-16,19,England,Stevenage FC,League Two,2020/2021,2020
+Jack Smith,Defensive Midfield,2001-09-15,19,England,Stevenage FC,League Two,2020/2021,2020
+Arthur Read,Central Midfield,1999-11-03,21,England,Stevenage FC,League Two,2020/2021,2020
+Tom Pett,Left Midfield,1991-11-30,28,England,Stevenage FC,League Two,2020/2021,2020
+Charlie Carter,Attacking Midfield,1996-10-25,24,England,Stevenage FC,League Two,2020/2021,2020
+Elliot Osborne,Attacking Midfield,1996-05-12,24,England,Stevenage FC,League Two,2020/2021,2020
+Tyrone Marsh,Left Winger,1993-12-24,26,England,Stevenage FC,League Two,2020/2021,2020
+Elliott List,Right Winger,1997-05-12,23,England,Stevenage FC,League Two,2020/2021,2020
+Femi Akinwande,Right Winger,1995-09-19,25,England,Stevenage FC,League Two,2020/2021,2020
+Aramide Oteh,Centre-Forward,1998-09-10,22,England,Stevenage FC,League Two,2020/2021,2020
+Inih Effiong,Centre-Forward,1991-03-02,29,England,Stevenage FC,League Two,2020/2021,2020
+Danny Newton,Centre-Forward,1991-03-18,29,England,Stevenage FC,League Two,2020/2021,2020
+Marcus Dinanga,Centre-Forward,1997-06-30,23,England,Stevenage FC,League Two,2020/2021,2020
+Jack Aitchison,Centre-Forward,2000-03-05,20,Scotland,Stevenage FC,League Two,2020/2021,2020
+Joe Cracknell,Goalkeeper,1994-06-05,26,England,Harrogate Town,League Two,2020/2021,2020
+James Belshaw,Goalkeeper,1990-10-12,30,England,Harrogate Town,League Two,2020/2021,2020
+Melvin Minter,Goalkeeper,1995-03-07,25,England,Harrogate Town,League Two,2020/2021,2020
+Will Smith,Centre-Back,1998-11-04,22,England,Harrogate Town,League Two,2020/2021,2020
+Jake Lawlor,Centre-Back,1991-04-08,29,England,Harrogate Town,League Two,2020/2021,2020
+Connor Hall,Centre-Back,1993-05-23,27,England,Harrogate Town,League Two,2020/2021,2020
+Kevin Lokko,Centre-Back,1995-11-03,25,England,Harrogate Town,League Two,2020/2021,2020
+Calvin Miller,Left-Back,1998-01-09,22,Scotland,Harrogate Town,League Two,2020/2021,2020
+Dan Jones,Left-Back,1994-12-14,25,England,Harrogate Town,League Two,2020/2021,2020
+Ryan Fallowfield,Right-Back,1996-01-03,24,England,Harrogate Town,League Two,2020/2021,2020
+Warren Burrell,Right-Back,1990-06-03,30,England,Harrogate Town,League Two,2020/2021,2020
+Connor Kirby,Defensive Midfield,1998-09-10,22,England,Harrogate Town,League Two,2020/2021,2020
+Josh Falkingham,Central Midfield,1990-08-25,30,England,Harrogate Town,League Two,2020/2021,2020
+Jack Emmett,Central Midfield,1993-10-22,27,England,Harrogate Town,League Two,2020/2021,2020
+Lloyd Kerry,Right Midfield,1988-07-22,32,England,Harrogate Town,League Two,2020/2021,2020
+George Thomson,Right Midfield,1992-05-19,28,England,Harrogate Town,League Two,2020/2021,2020
+Brendan Kiernan,Right Midfield,1992-11-10,27,England,Harrogate Town,League Two,2020/2021,2020
+Tom Walker,Left Midfield,1995-12-12,24,England,Harrogate Town,League Two,2020/2021,2020
+Joe Leesley,Left Midfield,1994-03-29,26,England,Harrogate Town,League Two,2020/2021,2020
+Jon Stead,Centre-Forward,1983-04-07,37,England,Harrogate Town,League Two,2020/2021,2020
+Mark Beck,Centre-Forward,1994-02-02,26,Scotland,Harrogate Town,League Two,2020/2021,2020
+Aaron Martin,Centre-Forward,1991-07-05,29,England,Harrogate Town,League Two,2020/2021,2020
+Jack Muldoon,Centre-Forward,1989-05-19,31,England,Harrogate Town,League Two,2020/2021,2020

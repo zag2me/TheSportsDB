@@ -1,0 +1,642 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Petr Cech,Goalkeeper,1982-05-20,23,Czech Republic,Chelsea FC,Premier League,2005/2006,2005
+Carlo Cudicini,Goalkeeper,1973-09-06,31,Italy,Chelsea FC,Premier League,2005/2006,2005
+Lenny Pidgeley,Goalkeeper,1984-02-07,21,England,Chelsea FC,Premier League,2005/2006,2005
+Yves Makabu-Makalambay,Goalkeeper,1986-01-31,19,DR Congo,Chelsea FC,Premier League,2005/2006,2005
+Ricardo Carvalho,Centre-Back,1978-05-18,27,Portugal,Chelsea FC,Premier League,2005/2006,2005
+John Terry,Centre-Back,1980-12-07,24,England,Chelsea FC,Premier League,2005/2006,2005
+William Gallas,Centre-Back,1977-08-17,27,France,Chelsea FC,Premier League,2005/2006,2005
+Robert Huth,Centre-Back,1984-08-18,20,Germany,Chelsea FC,Premier League,2005/2006,2005
+Asier del Horno,Left-Back,1981-01-19,24,Spain,Chelsea FC,Premier League,2005/2006,2005
+Wayne Bridge,Left-Back,1980-08-05,24,England,Chelsea FC,Premier League,2005/2006,2005
+Paulo Ferreira,Right-Back,1979-01-18,26,Portugal,Chelsea FC,Premier League,2005/2006,2005
+Glen Johnson,Right-Back,1984-08-23,20,England,Chelsea FC,Premier League,2005/2006,2005
+Michael Essien,Defensive Midfield,1982-12-03,22,Ghana,Chelsea FC,Premier League,2005/2006,2005
+Claude Makélélé,Defensive Midfield,1973-02-18,32,France,Chelsea FC,Premier League,2005/2006,2005
+Lassana Diarra,Defensive Midfield,1985-03-10,20,France,Chelsea FC,Premier League,2005/2006,2005
+Frank Lampard,Central Midfield,1978-06-20,27,England,Chelsea FC,Premier League,2005/2006,2005
+Maniche,Central Midfield,1977-11-11,27,Portugal,Chelsea FC,Premier League,2005/2006,2005
+Tiago,Central Midfield,1981-05-02,24,Portugal,Chelsea FC,Premier League,2005/2006,2005
+Jimmy Smith,Central Midfield,1987-01-07,18,England,Chelsea FC,Premier League,2005/2006,2005
+Damien Duff,Right Midfield,1979-03-02,26,Ireland,Chelsea FC,Premier League,2005/2006,2005
+Njitap Geremi,Right Midfield,1978-12-20,26,Cameroon,Chelsea FC,Premier League,2005/2006,2005
+Joe Cole,Attacking Midfield,1981-11-08,23,England,Chelsea FC,Premier League,2005/2006,2005
+Arjen Robben,Right Winger,1984-01-23,21,Netherlands,Chelsea FC,Premier League,2005/2006,2005
+Shaun Wright-Phillips,Right Winger,1981-10-25,23,England,Chelsea FC,Premier League,2005/2006,2005
+Didier Drogba,Centre-Forward,1978-03-11,27,Cote d'Ivoire,Chelsea FC,Premier League,2005/2006,2005
+Hernán Crespo,Centre-Forward,1975-07-05,29,Argentina,Chelsea FC,Premier League,2005/2006,2005
+Eidur Gudjohnsen,Centre-Forward,1978-09-15,26,Iceland,Chelsea FC,Premier League,2005/2006,2005
+Carlton Cole,Centre-Forward,1983-10-12,21,England,Chelsea FC,Premier League,2005/2006,2005
+Edwin van der Sar,Goalkeeper,1970-10-29,34,Netherlands,Manchester United,Premier League,2005/2006,2005
+Tim Howard,Goalkeeper,1979-03-06,26,United States,Manchester United,Premier League,2005/2006,2005
+Luke Steele,Goalkeeper,1984-09-24,20,England,Manchester United,Premier League,2005/2006,2005
+Rio Ferdinand,Centre-Back,1978-11-07,26,England,Manchester United,Premier League,2005/2006,2005
+Gabriel Heinze,Centre-Back,1978-04-19,27,Argentina,Manchester United,Premier League,2005/2006,2005
+Mikaël Silvestre,Centre-Back,1977-08-09,27,France,Manchester United,Premier League,2005/2006,2005
+Nemanja Vidic‎,Centre-Back,1981-10-21,23,Serbia,Manchester United,Premier League,2005/2006,2005
+John O'Shea,Centre-Back,1981-04-30,24,Ireland,Manchester United,Premier League,2005/2006,2005
+Wes Brown,Centre-Back,1979-10-13,25,England,Manchester United,Premier League,2005/2006,2005
+Gerard Piqué,Centre-Back,1987-02-02,18,Spain,Manchester United,Premier League,2005/2006,2005
+Patrice Evra,Left-Back,1981-05-15,24,France,Manchester United,Premier League,2005/2006,2005
+Kieran Richardson,Left-Back,1984-10-21,20,England,Manchester United,Premier League,2005/2006,2005
+Adam Eckersley,Left-Back,1985-09-07,19,England,Manchester United,Premier League,2005/2006,2005
+Gary Neville,Right-Back,1975-02-18,30,England,Manchester United,Premier League,2005/2006,2005
+Phil Bardsley,Right-Back,1985-06-28,20,Scotland,Manchester United,Premier League,2005/2006,2005
+Roy Keane,Defensive Midfield,1971-08-10,33,Ireland,Manchester United,Premier League,2005/2006,2005
+Paul Scholes,Central Midfield,1974-11-16,30,England,Manchester United,Premier League,2005/2006,2005
+Alan Smith,Central Midfield,1980-10-28,24,England,Manchester United,Premier League,2005/2006,2005
+Darren Fletcher,Central Midfield,1984-02-01,21,Scotland,Manchester United,Premier League,2005/2006,2005
+Quinton Fortune,Central Midfield,1977-05-21,28,South Africa,Manchester United,Premier League,2005/2006,2005
+Liam Miller,Central Midfield,1981-02-13,24,Ireland,Manchester United,Premier League,2005/2006,2005
+Ritchie Jones,Central Midfield,1986-09-26,18,England,Manchester United,Premier League,2005/2006,2005
+Darron Gibson,Central Midfield,1987-10-25,17,Ireland,Manchester United,Premier League,2005/2006,2005
+Ryan Giggs,Left Midfield,1973-11-29,31,Wales,Manchester United,Premier League,2005/2006,2005
+Ji-sung Park,Attacking Midfield,1981-02-25,24,"Korea, South",Manchester United,Premier League,2005/2006,2005
+Lee Martin,Attacking Midfield,1987-02-09,18,England,Manchester United,Premier League,2005/2006,2005
+Cristiano Ronaldo,Left Winger,1985-02-05,20,Portugal,Manchester United,Premier League,2005/2006,2005
+Ole Gunnar Solskjaer,Second Striker,1973-02-26,32,Norway,Manchester United,Premier League,2005/2006,2005
+Ruud van Nistelrooy,Centre-Forward,1976-07-01,29,Netherlands,Manchester United,Premier League,2005/2006,2005
+Wayne Rooney,Centre-Forward,1985-10-24,19,England,Manchester United,Premier League,2005/2006,2005
+Louis Saha,Centre-Forward,1978-08-08,26,France,Manchester United,Premier League,2005/2006,2005
+Giuseppe Rossi,Centre-Forward,1987-02-01,18,Italy,Manchester United,Premier League,2005/2006,2005
+Sylvan Ebanks-Blake,Centre-Forward,1986-03-29,19,England,Manchester United,Premier League,2005/2006,2005
+Fraizer Campbell,Centre-Forward,1987-09-13,17,England,Manchester United,Premier League,2005/2006,2005
+Jens Lehmann,Goalkeeper,1969-11-10,35,Germany,Arsenal FC,Premier League,2005/2006,2005
+Mart Poom,Goalkeeper,1972-02-03,33,Estonia,Arsenal FC,Premier League,2005/2006,2005
+Manuel Almunia,Goalkeeper,1977-05-19,28,Spain,Arsenal FC,Premier League,2005/2006,2005
+Mark Howard,Goalkeeper,1986-09-21,18,England,Arsenal FC,Premier League,2005/2006,2005
+Sol Campbell,Centre-Back,1974-09-18,30,England,Arsenal FC,Premier League,2005/2006,2005
+Kolo Touré,Centre-Back,1981-03-19,24,Cote d'Ivoire,Arsenal FC,Premier League,2005/2006,2005
+Pascal Cygan,Centre-Back,1974-04-29,31,France,Arsenal FC,Premier League,2005/2006,2005
+Philippe Senderos,Centre-Back,1985-02-14,20,Switzerland,Arsenal FC,Premier League,2005/2006,2005
+Matthew Connolly,Centre-Back,1987-09-24,17,England,Arsenal FC,Premier League,2005/2006,2005
+Johan Djourou,Centre-Back,1987-01-18,18,Switzerland,Arsenal FC,Premier League,2005/2006,2005
+Ashley Cole,Left-Back,1980-12-20,24,England,Arsenal FC,Premier League,2005/2006,2005
+Gaël Clichy,Left-Back,1985-07-26,19,France,Arsenal FC,Premier League,2005/2006,2005
+Laurén,Right-Back,1977-01-19,28,Cameroon,Arsenal FC,Premier League,2005/2006,2005
+Emmanuel Eboué,Right-Back,1983-06-04,22,Cote d'Ivoire,Arsenal FC,Premier League,2005/2006,2005
+Justin Hoyte,Right-Back,1984-11-20,20,Trinidad and Tobago,Arsenal FC,Premier League,2005/2006,2005
+Kerrea Gilbert,Right-Back,1987-02-28,18,England,Arsenal FC,Premier League,2005/2006,2005
+Gilberto Silva,Defensive Midfield,1976-10-07,28,Brazil,Arsenal FC,Premier League,2005/2006,2005
+Mathieu Flamini,Defensive Midfield,1984-03-07,21,France,Arsenal FC,Premier League,2005/2006,2005
+Alex Song,Defensive Midfield,1987-09-09,17,Cameroon,Arsenal FC,Premier League,2005/2006,2005
+Cesc Fàbregas,Central Midfield,1987-05-04,18,Spain,Arsenal FC,Premier League,2005/2006,2005
+Sebastian Larsson,Central Midfield,1985-06-06,20,Sweden,Arsenal FC,Premier League,2005/2006,2005
+Abou Diaby,Central Midfield,1986-05-11,19,France,Arsenal FC,Premier League,2005/2006,2005
+Patrick Cregg,Central Midfield,1986-02-21,19,Ireland,Arsenal FC,Premier League,2005/2006,2005
+Fabrice Muamba,Central Midfield,1988-04-06,17,England,Arsenal FC,Premier League,2005/2006,2005
+Robert Pirès,Left Midfield,1973-10-29,31,France,Arsenal FC,Premier League,2005/2006,2005
+Freddie Ljungberg,Attacking Midfield,1977-04-16,28,Sweden,Arsenal FC,Premier League,2005/2006,2005
+Aleksandr Hleb,Attacking Midfield,1981-05-01,24,Belarus,Arsenal FC,Premier League,2005/2006,2005
+Quincy Owusu-Abeyie,Left Winger,1986-04-15,19,Ghana,Arsenal FC,Premier League,2005/2006,2005
+José Antonio Reyes,Right Winger,1983-09-01,21,Spain,Arsenal FC,Premier League,2005/2006,2005
+Theo Walcott,Right Winger,1989-03-16,16,England,Arsenal FC,Premier League,2005/2006,2005
+Dennis Bergkamp,Second Striker,1969-05-10,36,Netherlands,Arsenal FC,Premier League,2005/2006,2005
+Thierry Henry,Centre-Forward,1977-08-17,27,France,Arsenal FC,Premier League,2005/2006,2005
+Emmanuel Adebayor,Centre-Forward,1984-02-26,21,Togo,Arsenal FC,Premier League,2005/2006,2005
+Robin van Persie,Centre-Forward,1983-08-06,21,Netherlands,Arsenal FC,Premier League,2005/2006,2005
+Arturo Lupoli,Centre-Forward,1987-06-24,18,Italy,Arsenal FC,Premier League,2005/2006,2005
+Nicklas Bendtner,Centre-Forward,1988-01-16,17,Denmark,Arsenal FC,Premier League,2005/2006,2005
+Anthony Stokes,Centre-Forward,1988-07-25,16,Ireland,Arsenal FC,Premier League,2005/2006,2005
+Jerzy Dudek,Goalkeeper,1973-03-23,32,Poland,Liverpool FC,Premier League,2005/2006,2005
+Pepe Reina,Goalkeeper,1982-08-31,22,Spain,Liverpool FC,Premier League,2005/2006,2005
+Scott Carson,Goalkeeper,1985-09-03,19,England,Liverpool FC,Premier League,2005/2006,2005
+David Martin,Goalkeeper,1986-01-22,19,England,Liverpool FC,Premier League,2005/2006,2005
+Jamie Carragher,Centre-Back,1978-01-28,27,England,Liverpool FC,Premier League,2005/2006,2005
+Sami Hyypiä,Centre-Back,1973-10-07,31,Finland,Liverpool FC,Premier League,2005/2006,2005
+Josemi,Centre-Back,1979-11-15,25,Spain,Liverpool FC,Premier League,2005/2006,2005
+Djimi Traoré,Centre-Back,1980-03-01,25,Mali,Liverpool FC,Premier League,2005/2006,2005
+Daniel Agger,Centre-Back,1984-12-12,20,Denmark,Liverpool FC,Premier League,2005/2006,2005
+Zak Whitbread,Centre-Back,1984-01-10,21,United States,Liverpool FC,Premier League,2005/2006,2005
+Miki Roqué,Centre-Back,1988-07-08,16,Spain,Liverpool FC,Premier League,2005/2006,2005
+John Arne Riise,Left-Back,1980-09-24,24,Norway,Liverpool FC,Premier League,2005/2006,2005
+Stephen Warnock,Left-Back,1981-12-12,23,England,Liverpool FC,Premier League,2005/2006,2005
+Jan Kromkamp,Right-Back,1980-08-17,24,Netherlands,Liverpool FC,Premier League,2005/2006,2005
+Steve Finnan,Right-Back,1976-04-24,29,Ireland,Liverpool FC,Premier League,2005/2006,2005
+David Raven,Right-Back,1985-03-10,20,England,Liverpool FC,Premier League,2005/2006,2005
+Antonio Barragán,Right-Back,1987-06-12,18,Spain,Liverpool FC,Premier League,2005/2006,2005
+Xabi Alonso,Defensive Midfield,1981-11-25,23,Spain,Liverpool FC,Premier League,2005/2006,2005
+Dietmar Hamann,Defensive Midfield,1973-08-27,31,Germany,Liverpool FC,Premier League,2005/2006,2005
+Salif Diao,Defensive Midfield,1977-02-10,28,Senegal,Liverpool FC,Premier League,2005/2006,2005
+Mohamed Sissoko,Defensive Midfield,1985-01-22,20,Mali,Liverpool FC,Premier League,2005/2006,2005
+Carl Medjani,Defensive Midfield,1985-05-15,20,Algeria,Liverpool FC,Premier League,2005/2006,2005
+Steven Gerrard,Central Midfield,1980-05-30,25,England,Liverpool FC,Premier League,2005/2006,2005
+David Mannix,Central Midfield,1985-08-24,19,England,Liverpool FC,Premier League,2005/2006,2005
+Darren Potter,Central Midfield,1984-12-21,20,Ireland,Liverpool FC,Premier League,2005/2006,2005
+Paul Anderson,Right Midfield,1988-07-23,16,England,Liverpool FC,Premier League,2005/2006,2005
+Harry Kewell,Left Winger,1978-09-22,26,Australia,Liverpool FC,Premier League,2005/2006,2005
+Boudewijn Zenden,Left Winger,1976-08-15,28,Netherlands,Liverpool FC,Premier League,2005/2006,2005
+Luis García,Right Winger,1978-06-24,27,Spain,Liverpool FC,Premier League,2005/2006,2005
+Florent Sinama-Pongolle,Second Striker,1984-10-20,20,France,Liverpool FC,Premier League,2005/2006,2005
+Djibril Cissé,Centre-Forward,1981-08-12,23,France,Liverpool FC,Premier League,2005/2006,2005
+Milan Baros,Centre-Forward,1981-10-28,23,Czech Republic,Liverpool FC,Premier League,2005/2006,2005
+Fernando Morientes,Centre-Forward,1976-04-05,29,Spain,Liverpool FC,Premier League,2005/2006,2005
+Robbie Fowler,Centre-Forward,1975-04-09,30,England,Liverpool FC,Premier League,2005/2006,2005
+Peter Crouch,Centre-Forward,1981-01-30,24,England,Liverpool FC,Premier League,2005/2006,2005
+Anthony Le Tallec,Centre-Forward,1984-10-03,20,France,Liverpool FC,Premier League,2005/2006,2005
+Besian Idrizaj,Centre-Forward,1987-10-12,17,Austria,Liverpool FC,Premier League,2005/2006,2005
+Paul Robinson,Goalkeeper,1979-10-15,25,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Radek Cerny,Goalkeeper,1974-02-18,31,Czech Republic,Tottenham Hotspur,Premier League,2005/2006,2005
+Ledley King,Centre-Back,1980-10-12,24,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Michael Dawson,Centre-Back,1983-11-18,21,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Noé Pamarot,Centre-Back,1979-04-14,26,France,Tottenham Hotspur,Premier League,2005/2006,2005
+Anthony Gardner,Centre-Back,1981-08-18,23,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Noureddine Naybet,Centre-Back,1970-02-10,35,Morocco,Tottenham Hotspur,Premier League,2005/2006,2005
+Calum Davenport,Centre-Back,1983-01-01,22,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Yeong-pyo Lee,Left-Back,1977-04-23,28,"Korea, South",Tottenham Hotspur,Premier League,2005/2006,2005
+Erik Edman,Left-Back,1978-11-11,26,Sweden,Tottenham Hotspur,Premier League,2005/2006,2005
+Paul Stalteri,Right-Back,1977-10-18,27,Canada,Tottenham Hotspur,Premier League,2005/2006,2005
+Stephen Kelly,Right-Back,1983-09-06,21,Ireland,Tottenham Hotspur,Premier League,2005/2006,2005
+Michael Carrick,Defensive Midfield,1981-07-28,23,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Tom Huddlestone,Defensive Midfield,1986-12-28,18,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Pedro Mendes,Defensive Midfield,1979-02-26,26,Portugal,Tottenham Hotspur,Premier League,2005/2006,2005
+Teemu Tainio,Defensive Midfield,1979-11-27,25,Finland,Tottenham Hotspur,Premier League,2005/2006,2005
+Edgar Davids,Central Midfield,1973-03-13,32,Netherlands,Tottenham Hotspur,Premier League,2005/2006,2005
+Jermaine Jenas,Central Midfield,1983-02-18,22,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Danny Murphy,Central Midfield,1977-03-18,28,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Michael Brown,Central Midfield,1977-01-25,28,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Johnnie Jackson,Central Midfield,1982-08-15,22,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Andy Reid,Left Midfield,1982-07-29,22,Ireland,Tottenham Hotspur,Premier League,2005/2006,2005
+Wayne Routledge,Left Winger,1985-01-07,20,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Aaron Lennon,Right Winger,1987-04-16,18,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Jermain Defoe,Centre-Forward,1982-10-07,22,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Robbie Keane,Centre-Forward,1980-07-08,24,Ireland,Tottenham Hotspur,Premier League,2005/2006,2005
+Frédéric Kanouté,Centre-Forward,1977-09-02,27,Mali,Tottenham Hotspur,Premier League,2005/2006,2005
+Mido,Centre-Forward,1983-02-23,22,Egypt,Tottenham Hotspur,Premier League,2005/2006,2005
+Grzegorz Rasiak,Centre-Forward,1979-01-12,26,Poland,Tottenham Hotspur,Premier League,2005/2006,2005
+Lee Barnard,Centre-Forward,1984-07-18,20,England,Tottenham Hotspur,Premier League,2005/2006,2005
+Shay Given,Goalkeeper,1976-04-20,29,Ireland,Newcastle United,Premier League,2005/2006,2005
+Steve Harper,Goalkeeper,1975-03-14,30,England,Newcastle United,Premier League,2005/2006,2005
+Jean-Alain Boumsong,Centre-Back,1979-12-14,25,France,Newcastle United,Premier League,2005/2006,2005
+Titus Bramble,Centre-Back,1981-07-31,23,England,Newcastle United,Premier League,2005/2006,2005
+Craig Moore,Centre-Back,1975-12-12,29,Australia,Newcastle United,Premier League,2005/2006,2005
+Steven Taylor,Centre-Back,1986-01-23,19,England,Newcastle United,Premier League,2005/2006,2005
+Peter Ramage,Centre-Back,1983-11-22,21,England,Newcastle United,Premier League,2005/2006,2005
+Celestine Babayaro,Left-Back,1978-08-29,26,Nigeria,Newcastle United,Premier League,2005/2006,2005
+Robbie Elliott,Left-Back,1973-12-25,31,England,Newcastle United,Premier League,2005/2006,2005
+Stephen Carr,Right-Back,1976-08-29,28,Ireland,Newcastle United,Premier League,2005/2006,2005
+Amdy Fayé,Defensive Midfield,1977-03-12,28,Senegal,Newcastle United,Premier League,2005/2006,2005
+Emre Belözoglu,Central Midfield,1980-09-07,24,Turkey,Newcastle United,Premier League,2005/2006,2005
+Scott Parker,Central Midfield,1980-10-13,24,England,Newcastle United,Premier League,2005/2006,2005
+Jermaine Jenas,Central Midfield,1983-02-18,22,England,Newcastle United,Premier League,2005/2006,2005
+Nicky Butt,Central Midfield,1975-01-21,30,England,Newcastle United,Premier League,2005/2006,2005
+James Milner,Central Midfield,1986-01-04,19,England,Newcastle United,Premier League,2005/2006,2005
+Lee Bowyer,Central Midfield,1977-01-03,28,England,Newcastle United,Premier League,2005/2006,2005
+Matthew Pattison,Central Midfield,1986-10-27,18,South Africa,Newcastle United,Premier League,2005/2006,2005
+Kieron Dyer,Right Midfield,1978-12-29,26,England,Newcastle United,Premier League,2005/2006,2005
+Nolberto Solano,Right Midfield,1974-12-12,30,Peru,Newcastle United,Premier League,2005/2006,2005
+Martin Brittain,Right Midfield,1984-12-29,20,England,Newcastle United,Premier League,2005/2006,2005
+Alan O'Brien,Left Midfield,1985-02-20,20,Ireland,Newcastle United,Premier League,2005/2006,2005
+Albert Luque,Left Winger,1978-03-11,27,Spain,Newcastle United,Premier League,2005/2006,2005
+Lee Clark,Right Winger,1972-10-27,32,England,Newcastle United,Premier League,2005/2006,2005
+Charles N'Zogbia,Right Winger,1986-05-28,19,France,Newcastle United,Premier League,2005/2006,2005
+Michael Owen,Centre-Forward,1979-12-14,25,England,Newcastle United,Premier League,2005/2006,2005
+Shola Ameobi,Centre-Forward,1981-10-12,23,Nigeria,Newcastle United,Premier League,2005/2006,2005
+Alan Shearer,Centre-Forward,1970-08-13,34,England,Newcastle United,Premier League,2005/2006,2005
+Michael Chopra,Centre-Forward,1983-12-23,21,England,Newcastle United,Premier League,2005/2006,2005
+Richard Wright,Goalkeeper,1977-11-05,27,England,Everton FC,Premier League,2005/2006,2005
+Sander Westerveld,Goalkeeper,1974-10-23,30,Netherlands,Everton FC,Premier League,2005/2006,2005
+Nigel Martyn,Goalkeeper,1966-08-11,38,England,Everton FC,Premier League,2005/2006,2005
+John Ruddy,Goalkeeper,1986-10-24,18,England,Everton FC,Premier League,2005/2006,2005
+Iain Turner,Goalkeeper,1984-01-26,21,Scotland,Everton FC,Premier League,2005/2006,2005
+Matteo Ferrari,Centre-Back,1979-12-05,25,Italy,Everton FC,Premier League,2005/2006,2005
+Per Kröldrup,Centre-Back,1979-07-31,25,Denmark,Everton FC,Premier League,2005/2006,2005
+Joseph Yobo,Centre-Back,1980-09-06,24,Nigeria,Everton FC,Premier League,2005/2006,2005
+David Weir,Centre-Back,1970-05-10,35,Scotland,Everton FC,Premier League,2005/2006,2005
+Alan Stubbs,Centre-Back,1971-10-06,33,England,Everton FC,Premier League,2005/2006,2005
+Mark Hughes,Centre-Back,1986-12-09,18,England,Everton FC,Premier League,2005/2006,2005
+Nuno Valente,Left-Back,1974-09-12,30,Portugal,Everton FC,Premier League,2005/2006,2005
+Alessandro Pistone,Left-Back,1975-07-27,29,Italy,Everton FC,Premier League,2005/2006,2005
+Gary Naysmith,Left-Back,1978-11-16,26,Scotland,Everton FC,Premier League,2005/2006,2005
+Laurence Wilson,Left-Back,1986-10-10,18,England,Everton FC,Premier League,2005/2006,2005
+Phil Neville,Right-Back,1977-01-21,28,England,Everton FC,Premier League,2005/2006,2005
+Tony Hibbert,Right-Back,1981-02-20,24,England,Everton FC,Premier League,2005/2006,2005
+Lee Carsley,Defensive Midfield,1974-02-28,31,Ireland,Everton FC,Premier League,2005/2006,2005
+Tie Li,Defensive Midfield,1977-05-18,28,China,Everton FC,Premier League,2005/2006,2005
+Mikel Arteta,Central Midfield,1982-03-26,23,Spain,Everton FC,Premier League,2005/2006,2005
+Leon Osman,Central Midfield,1981-05-17,24,England,Everton FC,Premier League,2005/2006,2005
+Simon Davies,Right Midfield,1979-10-23,25,Wales,Everton FC,Premier League,2005/2006,2005
+Kevin Kilbane,Left Midfield,1977-02-01,28,Ireland,Everton FC,Premier League,2005/2006,2005
+Tim Cahill,Attacking Midfield,1979-12-06,25,Australia,Everton FC,Premier League,2005/2006,2005
+Andy van der Meyde,Right Winger,1979-09-30,25,Netherlands,Everton FC,Premier League,2005/2006,2005
+James McFadden,Second Striker,1983-04-14,22,Scotland,Everton FC,Premier League,2005/2006,2005
+James Beattie,Centre-Forward,1978-02-27,27,England,Everton FC,Premier League,2005/2006,2005
+Duncan Ferguson,Centre-Forward,1971-12-27,33,Scotland,Everton FC,Premier League,2005/2006,2005
+Marcus Bent,Centre-Forward,1978-05-19,27,England,Everton FC,Premier League,2005/2006,2005
+James Vaughan,Centre-Forward,1988-07-14,16,England,Everton FC,Premier League,2005/2006,2005
+Victor Anichebe,Centre-Forward,1988-04-23,17,Nigeria,Everton FC,Premier League,2005/2006,2005
+Thomas Sörensen,Goalkeeper,1976-06-12,29,Denmark,Aston Villa,Premier League,2005/2006,2005
+Stuart Taylor,Goalkeeper,1980-11-28,24,England,Aston Villa,Premier League,2005/2006,2005
+Bobby Olejnik,Goalkeeper,1986-11-26,18,Austria,Aston Villa,Premier League,2005/2006,2005
+Olof Mellberg,Centre-Back,1977-09-03,27,Sweden,Aston Villa,Premier League,2005/2006,2005
+Martin Laursen,Centre-Back,1977-07-26,27,Denmark,Aston Villa,Premier League,2005/2006,2005
+Aaron Hughes,Centre-Back,1979-11-08,25,Northern Ireland,Aston Villa,Premier League,2005/2006,2005
+Liam Ridgewell,Centre-Back,1984-07-21,20,England,Aston Villa,Premier League,2005/2006,2005
+Gary Cahill,Centre-Back,1985-12-19,19,England,Aston Villa,Premier League,2005/2006,2005
+Wilfred Bouma,Left-Back,1978-06-15,27,Netherlands,Aston Villa,Premier League,2005/2006,2005
+Ulises de la Cruz,Right-Back,1974-02-08,31,Ecuador,Aston Villa,Premier League,2005/2006,2005
+Mark Delaney,Right-Back,1976-05-13,29,Wales,Aston Villa,Premier League,2005/2006,2005
+Eric Djemba Djemba,Defensive Midfield,1981-05-04,24,Cameroon,Aston Villa,Premier League,2005/2006,2005
+Gareth Barry,Defensive Midfield,1981-02-23,24,England,Aston Villa,Premier League,2005/2006,2005
+Jlloyd Samuel,Defensive Midfield,1981-03-29,24,Trinidad and Tobago,Aston Villa,Premier League,2005/2006,2005
+James Milner,Central Midfield,1986-01-04,19,England,Aston Villa,Premier League,2005/2006,2005
+Gavin McCann,Central Midfield,1978-01-10,27,England,Aston Villa,Premier League,2005/2006,2005
+Eirik Bakke,Central Midfield,1977-09-13,27,Norway,Aston Villa,Premier League,2005/2006,2005
+Peter Whittingham,Central Midfield,1984-09-08,20,England,Aston Villa,Premier League,2005/2006,2005
+Steven Davis,Central Midfield,1985-01-01,20,Northern Ireland,Aston Villa,Premier League,2005/2006,2005
+Craig Gardner,Central Midfield,1986-11-25,18,England,Aston Villa,Premier League,2005/2006,2005
+Nolberto Solano,Right Midfield,1974-12-12,30,Peru,Aston Villa,Premier League,2005/2006,2005
+Lee Hendrie,Left Midfield,1977-05-18,28,England,Aston Villa,Premier League,2005/2006,2005
+Patrik Berger,Attacking Midfield,1973-11-10,31,Czech Republic,Aston Villa,Premier League,2005/2006,2005
+Jamie Ward,Left Winger,1986-05-12,19,Northern Ireland,Aston Villa,Premier League,2005/2006,2005
+Milan Baros,Centre-Forward,1981-10-28,23,Czech Republic,Aston Villa,Premier League,2005/2006,2005
+Juan Pablo Ángel,Centre-Forward,1975-10-24,29,Colombia,Aston Villa,Premier League,2005/2006,2005
+Kevin Phillips,Centre-Forward,1973-07-25,31,England,Aston Villa,Premier League,2005/2006,2005
+Luke Moore,Centre-Forward,1986-02-13,19,England,Aston Villa,Premier League,2005/2006,2005
+Sam Williams,Centre-Forward,1987-06-09,18,England,Aston Villa,Premier League,2005/2006,2005
+Gabriel Agbonlahor,Centre-Forward,1986-10-13,18,England,Aston Villa,Premier League,2005/2006,2005
+Maik Taylor,Goalkeeper,1971-09-04,33,Northern Ireland,Birmingham City,Premier League,2005/2006,2005
+Nico Vaesen,Goalkeeper,1969-09-28,35,Belgium,Birmingham City,Premier League,2005/2006,2005
+Colin Doyle,Goalkeeper,1985-06-12,20,Ireland,Birmingham City,Premier League,2005/2006,2005
+Jiri Jarosik,Centre-Back,1977-10-27,27,Czech Republic,Birmingham City,Premier League,2005/2006,2005
+Matthew Upson,Centre-Back,1979-04-18,26,England,Birmingham City,Premier League,2005/2006,2005
+Kenny Cunningham,Centre-Back,1971-06-28,34,Ireland,Birmingham City,Premier League,2005/2006,2005
+Olivier Tébily,Centre-Back,1975-12-19,29,Cote d'Ivoire,Birmingham City,Premier League,2005/2006,2005
+Martin Taylor,Centre-Back,1979-11-09,25,England,Birmingham City,Premier League,2005/2006,2005
+Mat Sadler,Centre-Back,1985-02-26,20,England,Birmingham City,Premier League,2005/2006,2005
+Martin Latka,Centre-Back,1984-09-28,20,Czech Republic,Birmingham City,Premier League,2005/2006,2005
+Alex Bruce,Centre-Back,1984-09-28,20,Northern Ireland,Birmingham City,Premier League,2005/2006,2005
+Sam Oji,Centre-Back,1985-10-09,19,England,Birmingham City,Premier League,2005/2006,2005
+Jamie Clapham,Left-Back,1975-12-07,29,England,Birmingham City,Premier League,2005/2006,2005
+Marcos Painter,Left-Back,1986-08-17,18,England,Birmingham City,Premier League,2005/2006,2005
+Mario Melchiot,Right-Back,1976-11-04,28,Netherlands,Birmingham City,Premier League,2005/2006,2005
+Mathew Birley,Midfielder,1986-07-26,18,England,Birmingham City,Premier League,2005/2006,2005
+Mehdi Nafti,Defensive Midfield,1978-11-28,26,Tunisia,Birmingham City,Premier League,2005/2006,2005
+Neil Kilkenny,Defensive Midfield,1985-12-19,19,Australia,Birmingham City,Premier League,2005/2006,2005
+Nicky Butt,Central Midfield,1975-01-21,30,England,Birmingham City,Premier League,2005/2006,2005
+Damien Johnson,Central Midfield,1978-11-18,26,Northern Ireland,Birmingham City,Premier League,2005/2006,2005
+Muzzy Izzet,Right Midfield,1974-10-31,30,Turkey,Birmingham City,Premier League,2005/2006,2005
+Stephen Clemence,Right Midfield,1978-03-31,27,England,Birmingham City,Premier League,2005/2006,2005
+Peter Till,Right Midfield,1985-09-07,19,England,Birmingham City,Premier League,2005/2006,2005
+Stan Lazaridis,Left Midfield,1972-08-16,32,Australia,Birmingham City,Premier League,2005/2006,2005
+David Dunn,Attacking Midfield,1979-12-27,25,England,Birmingham City,Premier League,2005/2006,2005
+Jermaine Pennant,Right Winger,1983-01-15,22,England,Birmingham City,Premier League,2005/2006,2005
+Wálter Pandiani,Centre-Forward,1976-04-27,29,Uruguay,Birmingham City,Premier League,2005/2006,2005
+Emile Heskey,Centre-Forward,1978-01-11,27,England,Birmingham City,Premier League,2005/2006,2005
+Mikael Forssell,Centre-Forward,1981-03-15,24,Finland,Birmingham City,Premier League,2005/2006,2005
+Clinton Morrison,Centre-Forward,1979-05-14,26,Ireland,Birmingham City,Premier League,2005/2006,2005
+Chris Sutton,Centre-Forward,1973-03-10,32,England,Birmingham City,Premier League,2005/2006,2005
+Julian Gray,Centre-Forward,1979-09-21,25,England,Birmingham City,Premier League,2005/2006,2005
+DJ Campbell,Centre-Forward,1981-11-12,23,England,Birmingham City,Premier League,2005/2006,2005
+Mark Schwarzer,Goalkeeper,1972-10-06,32,Australia,Middlesbrough FC,Premier League,2005/2006,2005
+Brad Jones,Goalkeeper,1982-03-19,23,Australia,Middlesbrough FC,Premier League,2005/2006,2005
+Ross Turnbull,Goalkeeper,1985-01-04,20,England,Middlesbrough FC,Premier League,2005/2006,2005
+David Knight,Goalkeeper,1987-01-15,18,England,Middlesbrough FC,Premier League,2005/2006,2005
+Ugo Ehiogu,Centre-Back,1972-11-03,32,England,Middlesbrough FC,Premier League,2005/2006,2005
+Gareth Southgate,Centre-Back,1970-09-03,34,England,Middlesbrough FC,Premier League,2005/2006,2005
+Emanuel Pogatetz,Centre-Back,1983-01-16,22,Austria,Middlesbrough FC,Premier League,2005/2006,2005
+Chris Riggott,Centre-Back,1980-09-01,24,England,Middlesbrough FC,Premier League,2005/2006,2005
+Andrew Davies,Centre-Back,1984-12-17,20,England,Middlesbrough FC,Premier League,2005/2006,2005
+Matthew Bates,Centre-Back,1986-12-10,18,England,Middlesbrough FC,Premier League,2005/2006,2005
+David Wheater,Centre-Back,1987-02-14,18,England,Middlesbrough FC,Premier League,2005/2006,2005
+Rhys Williams,Centre-Back,1988-07-14,16,Australia,Middlesbrough FC,Premier League,2005/2006,2005
+Franck Queudrue,Left-Back,1978-08-27,26,France,Middlesbrough FC,Premier League,2005/2006,2005
+Colin Cooper,Left-Back,1967-02-28,38,England,Middlesbrough FC,Premier League,2005/2006,2005
+Andrew Taylor,Left-Back,1986-08-01,18,England,Middlesbrough FC,Premier League,2005/2006,2005
+Michael Reiziger,Right-Back,1973-05-03,32,Netherlands,Middlesbrough FC,Premier League,2005/2006,2005
+Abel Xavier,Right-Back,1972-11-30,32,Portugal,Middlesbrough FC,Premier League,2005/2006,2005
+Stuart Parnaby,Right-Back,1982-07-19,22,England,Middlesbrough FC,Premier League,2005/2006,2005
+Tony McMahon,Right-Back,1986-03-24,19,England,Middlesbrough FC,Premier League,2005/2006,2005
+George Boateng,Defensive Midfield,1975-09-05,29,Netherlands,Middlesbrough FC,Premier League,2005/2006,2005
+Lee Cattermole,Defensive Midfield,1988-03-21,17,England,Middlesbrough FC,Premier League,2005/2006,2005
+Fábio Rochemback,Central Midfield,1981-12-10,23,Brazil,Middlesbrough FC,Premier League,2005/2006,2005
+Ray Parlour,Central Midfield,1973-03-07,32,England,Middlesbrough FC,Premier League,2005/2006,2005
+James Morrison,Central Midfield,1986-05-25,19,Scotland,Middlesbrough FC,Premier League,2005/2006,2005
+Jason Kennedy,Central Midfield,1986-09-11,18,England,Middlesbrough FC,Premier League,2005/2006,2005
+Josh Walker,Central Midfield,1989-02-21,16,England,Middlesbrough FC,Premier League,2005/2006,2005
+Gaizka Mendieta,Right Midfield,1974-03-27,31,Spain,Middlesbrough FC,Premier League,2005/2006,2005
+Doriva,Right Midfield,1972-06-28,33,Brazil,Middlesbrough FC,Premier League,2005/2006,2005
+Stewart Downing,Left Midfield,1984-07-22,20,England,Middlesbrough FC,Premier League,2005/2006,2005
+Malcolm Christie,Right Winger,1979-04-11,26,England,Middlesbrough FC,Premier League,2005/2006,2005
+Adam Johnson,Right Winger,1987-07-14,17,England,Middlesbrough FC,Premier League,2005/2006,2005
+Szilard Nemeth,Second Striker,1977-08-08,27,Slovakia,Middlesbrough FC,Premier League,2005/2006,2005
+Yakubu Aiyegbeni,Centre-Forward,1982-11-22,22,Nigeria,Middlesbrough FC,Premier League,2005/2006,2005
+Mark Viduka,Centre-Forward,1975-10-09,29,Australia,Middlesbrough FC,Premier League,2005/2006,2005
+Jimmy Floyd Hasselbaink,Centre-Forward,1972-03-27,33,Netherlands,Middlesbrough FC,Premier League,2005/2006,2005
+Massimo Maccarone,Centre-Forward,1979-09-06,25,Italy,Middlesbrough FC,Premier League,2005/2006,2005
+Joseph-Désiré Job,Centre-Forward,1977-12-01,27,Cameroon,Middlesbrough FC,Premier League,2005/2006,2005
+Danny Graham,Centre-Forward,1985-08-12,19,England,Middlesbrough FC,Premier League,2005/2006,2005
+Tom Craddock,Centre-Forward,1986-10-14,18,England,Middlesbrough FC,Premier League,2005/2006,2005
+Sander Westerveld,Goalkeeper,1974-10-23,30,Netherlands,Portsmouth FC,Premier League,2005/2006,2005
+Dean Kiely,Goalkeeper,1970-10-10,34,Ireland,Portsmouth FC,Premier League,2005/2006,2005
+Konstantinos Chalkias,Goalkeeper,1974-05-30,31,Greece,Portsmouth FC,Premier League,2005/2006,2005
+Andrea Guatelli,Goalkeeper,1984-05-05,21,Italy,Portsmouth FC,Premier League,2005/2006,2005
+Jamie Ashdown,Goalkeeper,1980-11-30,24,England,Portsmouth FC,Premier League,2005/2006,2005
+Andrew O'Brien,Centre-Back,1979-06-29,26,Ireland,Portsmouth FC,Premier League,2005/2006,2005
+Noé Pamarot,Centre-Back,1979-04-14,26,France,Portsmouth FC,Premier League,2005/2006,2005
+Dejan Stefanovic,Centre-Back,1974-10-28,30,Serbia,Portsmouth FC,Premier League,2005/2006,2005
+Azar Karadas,Centre-Back,1981-08-09,23,Norway,Portsmouth FC,Premier League,2005/2006,2005
+Linvoy Primus,Centre-Back,1973-09-14,31,England,Portsmouth FC,Premier League,2005/2006,2005
+Grégory Vignal,Left-Back,1981-07-19,23,France,Portsmouth FC,Premier League,2005/2006,2005
+Andy Griffin,Right-Back,1979-03-17,26,England,Portsmouth FC,Premier League,2005/2006,2005
+Brian Priske,Right-Back,1977-05-14,28,Denmark,Portsmouth FC,Premier League,2005/2006,2005
+Salif Diao,Defensive Midfield,1977-02-10,28,Senegal,Portsmouth FC,Premier League,2005/2006,2005
+Sean Davis,Defensive Midfield,1979-09-20,25,England,Portsmouth FC,Premier League,2005/2006,2005
+Pedro Mendes,Defensive Midfield,1979-02-26,26,Portugal,Portsmouth FC,Premier League,2005/2006,2005
+Aliou Cissé,Defensive Midfield,1976-03-24,29,Senegal,Portsmouth FC,Premier League,2005/2006,2005
+Giannis Skopelitis,Defensive Midfield,1978-03-02,27,Greece,Portsmouth FC,Premier League,2005/2006,2005
+Richard Hughes,Defensive Midfield,1979-06-25,26,Scotland,Portsmouth FC,Premier League,2005/2006,2005
+Jhon Viáfara,Defensive Midfield,1978-10-27,26,Colombia,Portsmouth FC,Premier League,2005/2006,2005
+Gary O'Neil,Central Midfield,1983-05-18,22,England,Portsmouth FC,Premier League,2005/2006,2005
+Matthew Taylor,Left Midfield,1981-11-27,23,England,Portsmouth FC,Premier League,2005/2006,2005
+Andrés D'Alessandro,Attacking Midfield,1981-04-15,24,Argentina,Portsmouth FC,Premier League,2005/2006,2005
+Zvonimir Vukic,Attacking Midfield,1979-07-19,25,Serbia,Portsmouth FC,Premier League,2005/2006,2005
+Laurent Robert,Left Winger,1975-05-21,30,France,Portsmouth FC,Premier League,2005/2006,2005
+Wayne Routledge,Left Winger,1985-01-07,20,England,Portsmouth FC,Premier League,2005/2006,2005
+Ognjen Koroman,Right Winger,1978-09-19,26,Serbia,Portsmouth FC,Premier League,2005/2006,2005
+Franck Songo'o,Right Winger,1987-05-14,18,Cameroon,Portsmouth FC,Premier League,2005/2006,2005
+Lomana LuaLua,Second Striker,1980-12-28,24,DR Congo,Portsmouth FC,Premier League,2005/2006,2005
+Darío Silva,Centre-Forward,1972-11-02,32,Uruguay,Portsmouth FC,Premier League,2005/2006,2005
+Svetoslav Todorov,Centre-Forward,1978-08-30,26,Bulgaria,Portsmouth FC,Premier League,2005/2006,2005
+Benjani,Centre-Forward,1978-08-13,26,Zimbabwe,Portsmouth FC,Premier League,2005/2006,2005
+Emmanuel Olisadebe,Centre-Forward,1978-12-22,26,Poland,Portsmouth FC,Premier League,2005/2006,2005
+Vincent Péricard,Centre-Forward,1982-10-03,22,France,Portsmouth FC,Premier League,2005/2006,2005
+Ivica Mornar,Centre-Forward,1974-01-12,31,Croatia,Portsmouth FC,Premier League,2005/2006,2005
+Collins Mbesuma,Centre-Forward,1984-02-03,21,Zambia,Portsmouth FC,Premier League,2005/2006,2005
+David James,Goalkeeper,1970-08-01,34,England,Manchester City,Premier League,2005/2006,2005
+Geert De Vlieger,Goalkeeper,1971-10-16,33,Belgium,Manchester City,Premier League,2005/2006,2005
+Nicky Weaver,Goalkeeper,1979-03-02,26,England,Manchester City,Premier League,2005/2006,2005
+Kasper Schmeichel,Goalkeeper,1986-11-05,18,Denmark,Manchester City,Premier League,2005/2006,2005
+Sylvain Distin,Centre-Back,1977-12-16,27,France,Manchester City,Premier League,2005/2006,2005
+Richard Dunne,Centre-Back,1979-09-21,25,Ireland,Manchester City,Premier League,2005/2006,2005
+David Sommeil,Centre-Back,1974-08-10,30,Guadeloupe,Manchester City,Premier League,2005/2006,2005
+Jihai Sun,Centre-Back,1977-09-30,27,China,Manchester City,Premier League,2005/2006,2005
+Mikkel Bischoff,Centre-Back,1982-02-03,23,Denmark,Manchester City,Premier League,2005/2006,2005
+Stephen Jordan,Centre-Back,1982-03-06,23,England,Manchester City,Premier League,2005/2006,2005
+Matt Mills,Centre-Back,1986-07-14,18,England,Manchester City,Premier League,2005/2006,2005
+Nedum Onuoha,Centre-Back,1986-11-12,18,England,Manchester City,Premier League,2005/2006,2005
+Ben Thatcher,Left-Back,1975-11-30,29,Wales,Manchester City,Premier League,2005/2006,2005
+Danny Mills,Right-Back,1977-05-18,28,England,Manchester City,Premier League,2005/2006,2005
+Micah Richards,Right-Back,1988-06-24,17,England,Manchester City,Premier League,2005/2006,2005
+Tuomas Haapala,Defensive Midfield,1979-04-20,26,Finland,Manchester City,Premier League,2005/2006,2005
+Claudio Reyna,Central Midfield,1973-07-20,31,United States,Manchester City,Premier League,2005/2006,2005
+Joey Barton,Central Midfield,1982-09-02,22,England,Manchester City,Premier League,2005/2006,2005
+Willo Flood,Central Midfield,1985-04-10,20,Ireland,Manchester City,Premier League,2005/2006,2005
+Lee Croft,Right Midfield,1985-06-21,20,England,Manchester City,Premier League,2005/2006,2005
+Antoine Sibierski,Attacking Midfield,1974-08-05,30,France,Manchester City,Premier League,2005/2006,2005
+Stephen Ireland,Attacking Midfield,1986-08-22,18,Ireland,Manchester City,Premier League,2005/2006,2005
+Trevor Sinclair,Left Winger,1973-03-02,32,England,Manchester City,Premier League,2005/2006,2005
+Albert Riera,Left Winger,1982-04-15,23,Spain,Manchester City,Premier League,2005/2006,2005
+Kiki Musampa,Left Winger,1977-07-20,27,Netherlands,Manchester City,Premier League,2005/2006,2005
+Georgios Samaras,Left Winger,1985-02-21,20,Greece,Manchester City,Premier League,2005/2006,2005
+Darius Vassell,Centre-Forward,1980-06-13,25,England,Manchester City,Premier League,2005/2006,2005
+Andy Cole,Centre-Forward,1971-10-15,33,England,Manchester City,Premier League,2005/2006,2005
+Robbie Fowler,Centre-Forward,1975-04-09,30,England,Manchester City,Premier League,2005/2006,2005
+Bradley Wright-Phillips,Centre-Forward,1985-03-12,20,England,Manchester City,Premier League,2005/2006,2005
+Ishmael Miller,Centre-Forward,1987-03-05,18,England,Manchester City,Premier League,2005/2006,2005
+Dean Kiely,Goalkeeper,1970-10-10,34,Ireland,Charlton Athletic,Premier League,2005/2006,2005
+Thomas Myhre,Goalkeeper,1973-10-16,31,Norway,Charlton Athletic,Premier League,2005/2006,2005
+Stephan Andersen,Goalkeeper,1981-11-26,23,Denmark,Charlton Athletic,Premier League,2005/2006,2005
+Darren Randolph,Goalkeeper,1987-05-12,18,Ireland,Charlton Athletic,Premier League,2005/2006,2005
+Chris Perry,Centre-Back,1973-04-26,32,England,Charlton Athletic,Premier League,2005/2006,2005
+Hermann Hreidarsson,Centre-Back,1974-07-11,30,Iceland,Charlton Athletic,Premier League,2005/2006,2005
+Gonzalo Sorondo,Centre-Back,1979-10-09,25,Uruguay,Charlton Athletic,Premier League,2005/2006,2005
+Talal El Karkouri,Centre-Back,1976-07-08,28,Morocco,Charlton Athletic,Premier League,2005/2006,2005
+Jonathan Spector,Centre-Back,1986-03-01,19,United States,Charlton Athletic,Premier League,2005/2006,2005
+Jonathan Fortune,Centre-Back,1980-08-23,24,England,Charlton Athletic,Premier League,2005/2006,2005
+Gonçalo Brandão,Centre-Back,1986-10-09,18,Portugal,Charlton Athletic,Premier League,2005/2006,2005
+Chris Powell,Left-Back,1969-09-08,35,England,Charlton Athletic,Premier League,2005/2006,2005
+Nathan Ashton,Left-Back,1987-01-30,18,England,Charlton Athletic,Premier League,2005/2006,2005
+Kelly Youga,Left-Back,1985-09-22,19,Central African Republic,Charlton Athletic,Premier League,2005/2006,2005
+Luke Young,Right-Back,1979-07-19,25,England,Charlton Athletic,Premier League,2005/2006,2005
+Osei Sankofa,Right-Back,1985-03-19,20,England,Charlton Athletic,Premier League,2005/2006,2005
+Aleksey Smertin,Defensive Midfield,1975-05-01,30,Russia,Charlton Athletic,Premier League,2005/2006,2005
+Radostin Kishishev,Defensive Midfield,1974-07-30,30,Bulgaria,Charlton Athletic,Premier League,2005/2006,2005
+Danny Murphy,Central Midfield,1977-03-18,28,England,Charlton Athletic,Premier League,2005/2006,2005
+Matt Holland,Central Midfield,1974-04-11,31,Ireland,Charlton Athletic,Premier League,2005/2006,2005
+Rúrik Gíslason,Right Midfield,1988-02-25,17,Iceland,Charlton Athletic,Premier League,2005/2006,2005
+Darren Ambrose,Left Midfield,1984-02-29,21,England,Charlton Athletic,Premier League,2005/2006,2005
+Bryan Hughes,Attacking Midfield,1976-06-19,29,England,Charlton Athletic,Premier League,2005/2006,2005
+Jerome Thomas,Left Winger,1983-03-23,22,England,Charlton Athletic,Premier League,2005/2006,2005
+Dennis Rommedahl,Right Winger,1978-07-22,26,Denmark,Charlton Athletic,Premier League,2005/2006,2005
+Lloyd Sam,Right Winger,1984-09-27,20,Ghana,Charlton Athletic,Premier League,2005/2006,2005
+Jason Euell,Second Striker,1977-02-06,28,Jamaica,Charlton Athletic,Premier League,2005/2006,2005
+Jonatan Johansson,Centre-Forward,1975-08-16,29,Finland,Charlton Athletic,Premier League,2005/2006,2005
+Darren Bent,Centre-Forward,1984-02-06,21,England,Charlton Athletic,Premier League,2005/2006,2005
+Francis Jeffers,Centre-Forward,1981-01-25,24,England,Charlton Athletic,Premier League,2005/2006,2005
+Kevin Lisbie,Centre-Forward,1978-10-17,26,Jamaica,Charlton Athletic,Premier League,2005/2006,2005
+Jay Bothroyd,Centre-Forward,1982-05-05,23,England,Charlton Athletic,Premier League,2005/2006,2005
+Shaun Bartlett,Centre-Forward,1972-10-31,32,South Africa,Charlton Athletic,Premier League,2005/2006,2005
+Marcus Bent,Centre-Forward,1978-05-19,27,England,Charlton Athletic,Premier League,2005/2006,2005
+Alex Varney,Centre-Forward,1984-12-27,20,England,Charlton Athletic,Premier League,2005/2006,2005
+James Walker,Centre-Forward,1987-11-25,17,Antigua and Barbuda,Charlton Athletic,Premier League,2005/2006,2005
+Antti Niemi,Goalkeeper,1972-05-31,33,Finland,Fulham FC,Premier League,2005/2006,2005
+Mark Crossley,Goalkeeper,1969-06-16,36,Wales,Fulham FC,Premier League,2005/2006,2005
+Ricardo Batista,Goalkeeper,1986-11-19,18,Portugal,Fulham FC,Premier League,2005/2006,2005
+Jaroslav Drobny,Goalkeeper,1979-10-18,25,Czech Republic,Fulham FC,Premier League,2005/2006,2005
+Tony Warner,Goalkeeper,1974-05-11,31,Trinidad and Tobago,Fulham FC,Premier League,2005/2006,2005
+Zat Knight,Centre-Back,1980-05-02,25,England,Fulham FC,Premier League,2005/2006,2005
+Alain Goma,Centre-Back,1972-10-05,32,France,Fulham FC,Premier League,2005/2006,2005
+Carlos Bocanegra,Centre-Back,1979-05-25,26,United States,Fulham FC,Premier League,2005/2006,2005
+Ian Pearce,Centre-Back,1974-05-07,31,England,Fulham FC,Premier League,2005/2006,2005
+Philippe Christanval,Centre-Back,1978-08-31,26,France,Fulham FC,Premier League,2005/2006,2005
+Zesh Rehman,Centre-Back,1983-10-14,21,Pakistan,Fulham FC,Premier League,2005/2006,2005
+Dean Leacock,Centre-Back,1984-06-10,21,England,Fulham FC,Premier League,2005/2006,2005
+Liam Fontaine,Centre-Back,1986-01-07,19,England,Fulham FC,Premier League,2005/2006,2005
+Wayne Bridge,Left-Back,1980-08-05,24,England,Fulham FC,Premier League,2005/2006,2005
+Niclas Jensen,Left-Back,1974-08-17,30,Denmark,Fulham FC,Premier League,2005/2006,2005
+Moritz Volz,Right-Back,1983-01-21,22,Germany,Fulham FC,Premier League,2005/2006,2005
+Liam Rosenior,Right-Back,1984-07-09,20,England,Fulham FC,Premier League,2005/2006,2005
+Papa Bouba Diop,Defensive Midfield,1978-01-28,27,Senegal,Fulham FC,Premier League,2005/2006,2005
+Simon Elliott,Defensive Midfield,1974-06-10,31,New Zealand,Fulham FC,Premier League,2005/2006,2005
+Steed Malbranque,Central Midfield,1980-01-06,25,France,Fulham FC,Premier League,2005/2006,2005
+Michael Brown,Central Midfield,1977-01-25,28,England,Fulham FC,Premier League,2005/2006,2005
+Michael Timlin,Central Midfield,1985-03-19,20,Ireland,Fulham FC,Premier League,2005/2006,2005
+Ahmad Elrich,Right Midfield,1981-05-30,24,Australia,Fulham FC,Premier League,2005/2006,2005
+Sylvain Legwinski,Left Midfield,1973-06-10,32,France,Fulham FC,Premier League,2005/2006,2005
+Luís Boa Morte,Left Midfield,1977-08-04,27,Portugal,Fulham FC,Premier League,2005/2006,2005
+Mark Pembridge,Left Midfield,1970-11-29,34,Wales,Fulham FC,Premier League,2005/2006,2005
+Claus Jensen,Attacking Midfield,1977-04-29,28,Denmark,Fulham FC,Premier League,2005/2006,2005
+Tomasz Radzinski,Centre-Forward,1973-12-14,31,Canada,Fulham FC,Premier League,2005/2006,2005
+Collins John,Centre-Forward,1985-10-17,19,Netherlands,Fulham FC,Premier League,2005/2006,2005
+Brian McBride,Centre-Forward,1972-06-19,33,United States,Fulham FC,Premier League,2005/2006,2005
+Heidar Helguson,Centre-Forward,1977-08-22,27,Iceland,Fulham FC,Premier League,2005/2006,2005
+Brad Friedel,Goalkeeper,1971-05-18,34,United States,Blackburn Rovers,Premier League,2005/2006,2005
+Peter Enckelman,Goalkeeper,1977-03-10,28,Finland,Blackburn Rovers,Premier League,2005/2006,2005
+Lucas Neill,Centre-Back,1978-03-09,27,Australia,Blackburn Rovers,Premier League,2005/2006,2005
+Lorenzo Amoruso,Centre-Back,1971-06-28,34,Italy,Blackburn Rovers,Premier League,2005/2006,2005
+Zurab Khizanishvili,Centre-Back,1981-10-06,23,Georgia,Blackburn Rovers,Premier League,2005/2006,2005
+Andy Todd,Centre-Back,1974-09-21,30,England,Blackburn Rovers,Premier League,2005/2006,2005
+Ryan Nelsen,Centre-Back,1977-10-18,27,New Zealand,Blackburn Rovers,Premier League,2005/2006,2005
+Aaron Mokoena,Centre-Back,1980-11-25,24,South Africa,Blackburn Rovers,Premier League,2005/2006,2005
+Dominic Matteo,Left-Back,1974-04-04,31,Scotland,Blackburn Rovers,Premier League,2005/2006,2005
+Vratislav Gresko,Left-Back,1977-07-24,27,Slovakia,Blackburn Rovers,Premier League,2005/2006,2005
+Michael Gray,Left-Back,1974-08-03,30,England,Blackburn Rovers,Premier League,2005/2006,2005
+Steven Reid,Right-Back,1981-03-10,24,Ireland,Blackburn Rovers,Premier League,2005/2006,2005
+Tugay Kerimoglu,Defensive Midfield,1970-08-24,34,Turkey,Blackburn Rovers,Premier League,2005/2006,2005
+Garry Flitcroft,Central Midfield,1972-11-06,32,England,Blackburn Rovers,Premier League,2005/2006,2005
+Robbie Savage,Central Midfield,1974-10-18,30,Wales,Blackburn Rovers,Premier League,2005/2006,2005
+Morten Gamst Pedersen,Central Midfield,1981-09-08,23,Norway,Blackburn Rovers,Premier League,2005/2006,2005
+Paul Gallagher,Central Midfield,1984-08-09,20,Scotland,Blackburn Rovers,Premier League,2005/2006,2005
+Brett Emerton,Right Midfield,1979-02-22,26,Australia,Blackburn Rovers,Premier League,2005/2006,2005
+David Thompson,Right Midfield,1977-09-12,27,England,Blackburn Rovers,Premier League,2005/2006,2005
+David Bentley,Right Midfield,1984-08-27,20,England,Blackburn Rovers,Premier League,2005/2006,2005
+Sergio Peter,Left Midfield,1986-10-12,18,Germany,Blackburn Rovers,Premier League,2005/2006,2005
+Craig Bellamy,Left Winger,1979-07-13,25,Wales,Blackburn Rovers,Premier League,2005/2006,2005
+Jemal Johnson,Right Winger,1985-05-03,20,United States,Blackburn Rovers,Premier League,2005/2006,2005
+Florent Sinama-Pongolle,Second Striker,1984-10-20,20,France,Blackburn Rovers,Premier League,2005/2006,2005
+Paul Dickov,Centre-Forward,1972-11-01,32,Scotland,Blackburn Rovers,Premier League,2005/2006,2005
+Matt Jansen,Centre-Forward,1977-10-20,27,England,Blackburn Rovers,Premier League,2005/2006,2005
+Shefki Kuqi,Centre-Forward,1976-11-10,28,Finland,Blackburn Rovers,Premier League,2005/2006,2005
+Jussi Jääskeläinen,Goalkeeper,1975-04-19,30,Finland,Bolton Wanderers,Premier League,2005/2006,2005
+Ian Walker,Goalkeeper,1971-10-31,33,England,Bolton Wanderers,Premier League,2005/2006,2005
+Ali Al-Habsi,Goalkeeper,1981-12-30,23,Oman,Bolton Wanderers,Premier League,2005/2006,2005
+Chris Howarth,Goalkeeper,1986-05-23,19,England,Bolton Wanderers,Premier League,2005/2006,2005
+Sam Ashton,Goalkeeper,1986-10-09,18,England,Bolton Wanderers,Premier League,2005/2006,2005
+Bruno N'Gotty,Centre-Back,1971-06-10,34,France,Bolton Wanderers,Premier League,2005/2006,2005
+Radhi Jaidi,Centre-Back,1975-08-30,29,Tunisia,Bolton Wanderers,Premier League,2005/2006,2005
+Martin Djetou,Centre-Back,1974-12-15,30,France,Bolton Wanderers,Premier League,2005/2006,2005
+Abdoulaye Fayé,Centre-Back,1978-02-26,27,Senegal,Bolton Wanderers,Premier League,2005/2006,2005
+Tal Ben Haim,Centre-Back,1982-03-31,23,Israel,Bolton Wanderers,Premier League,2005/2006,2005
+Jaroslaw Fojut,Centre-Back,1987-10-17,17,Poland,Bolton Wanderers,Premier League,2005/2006,2005
+Ricardo Gardner,Left-Back,1978-09-25,26,Jamaica,Bolton Wanderers,Premier League,2005/2006,2005
+Nicky Hunt,Right-Back,1983-09-03,21,England,Bolton Wanderers,Premier League,2005/2006,2005
+Joey O'Brien,Right-Back,1986-02-17,19,Ireland,Bolton Wanderers,Premier League,2005/2006,2005
+Iván Campo,Defensive Midfield,1974-02-21,31,Spain,Bolton Wanderers,Premier League,2005/2006,2005
+Robert Sissons,Central Midfield,1988-09-29,16,England,Bolton Wanderers,Premier League,2005/2006,2005
+Gary Speed,Left Midfield,1969-09-08,35,Wales,Bolton Wanderers,Premier League,2005/2006,2005
+Jay-Jay Okocha,Attacking Midfield,1973-08-14,31,Nigeria,Bolton Wanderers,Premier League,2005/2006,2005
+Hidetoshi Nakata,Attacking Midfield,1977-01-22,28,Japan,Bolton Wanderers,Premier League,2005/2006,2005
+Kevin Nolan,Attacking Midfield,1982-06-24,23,England,Bolton Wanderers,Premier League,2005/2006,2005
+El Hadji Diouf,Attacking Midfield,1988-08-20,16,Senegal,Bolton Wanderers,Premier League,2005/2006,2005
+Khalilou Fadiga,Left Winger,1974-12-30,30,Senegal,Bolton Wanderers,Premier League,2005/2006,2005
+Fabrice Fernandes,Left Winger,1979-10-29,25,France,Bolton Wanderers,Premier League,2005/2006,2005
+Stelios Giannakopoulos,Right Winger,1974-07-12,30,Greece,Bolton Wanderers,Premier League,2005/2006,2005
+Ricardo Vaz Tê,Right Winger,1986-10-01,18,Portugal,Bolton Wanderers,Premier League,2005/2006,2005
+El-Hadji Diouf,Centre-Forward,1981-01-15,24,Senegal,Bolton Wanderers,Premier League,2005/2006,2005
+Kevin Davies,Centre-Forward,1977-03-26,28,England,Bolton Wanderers,Premier League,2005/2006,2005
+Henrik Pedersen,Centre-Forward,1975-06-10,30,Denmark,Bolton Wanderers,Premier League,2005/2006,2005
+Jared Borgetti,Centre-Forward,1973-08-14,31,Mexico,Bolton Wanderers,Premier League,2005/2006,2005
+Matt Jansen,Centre-Forward,1977-10-20,27,England,Bolton Wanderers,Premier League,2005/2006,2005
+Chris Kirkland,Goalkeeper,1981-05-02,24,England,West Bromwich Albion,Premier League,2005/2006,2005
+Russell Hoult,Goalkeeper,1972-11-22,32,England,West Bromwich Albion,Premier League,2005/2006,2005
+Tomasz Kuszczak,Goalkeeper,1982-03-20,23,Poland,West Bromwich Albion,Premier League,2005/2006,2005
+Martin Albrechtsen,Centre-Back,1980-03-31,25,Denmark,West Bromwich Albion,Premier League,2005/2006,2005
+Riccardo Scimeca,Centre-Back,1975-06-13,30,England,West Bromwich Albion,Premier League,2005/2006,2005
+Darren Moore,Centre-Back,1974-04-22,31,Jamaica,West Bromwich Albion,Premier League,2005/2006,2005
+Neil Clement,Centre-Back,1978-10-03,26,England,West Bromwich Albion,Premier League,2005/2006,2005
+Paul Robinson,Centre-Back,1978-12-14,26,England,West Bromwich Albion,Premier League,2005/2006,2005
+Thomas Gaardsöe,Centre-Back,1979-01-23,26,Denmark,West Bromwich Albion,Premier League,2005/2006,2005
+Curtis Davies,Centre-Back,1985-03-15,20,England,West Bromwich Albion,Premier League,2005/2006,2005
+Williams Martínez,Centre-Back,1982-12-18,22,Uruguay,West Bromwich Albion,Premier League,2005/2006,2005
+Jared Hodgkiss,Right-Back,1986-11-15,18,England,West Bromwich Albion,Premier League,2005/2006,2005
+Junichi Inamoto,Defensive Midfield,1979-09-18,25,Japan,West Bromwich Albion,Premier League,2005/2006,2005
+Jonathan Greening,Central Midfield,1979-01-02,26,England,West Bromwich Albion,Premier League,2005/2006,2005
+Zoltán Gera,Central Midfield,1979-04-22,26,Hungary,West Bromwich Albion,Premier League,2005/2006,2005
+Nigel Quashie,Central Midfield,1978-07-20,26,Scotland,West Bromwich Albion,Premier League,2005/2006,2005
+Richard Chaplow,Central Midfield,1985-02-02,20,England,West Bromwich Albion,Premier League,2005/2006,2005
+Darren Carter,Central Midfield,1983-12-18,21,England,West Bromwich Albion,Premier League,2005/2006,2005
+Ronnie Wallwork,Central Midfield,1977-09-10,27,England,West Bromwich Albion,Premier League,2005/2006,2005
+Rob Davies,Central Midfield,1987-03-24,18,Wales,West Bromwich Albion,Premier League,2005/2006,2005
+Steve Watson,Right Midfield,1974-04-01,31,England,West Bromwich Albion,Premier League,2005/2006,2005
+Lloyd Dyer,Left Midfield,1982-09-13,22,England,West Bromwich Albion,Premier League,2005/2006,2005
+Andy Johnson,Attacking Midfield,1974-05-02,31,Wales,West Bromwich Albion,Premier League,2005/2006,2005
+Jan Kozak,Attacking Midfield,1980-04-22,25,Slovakia,West Bromwich Albion,Premier League,2005/2006,2005
+Diomansy Kamara,Right Winger,1980-11-08,24,Senegal,West Bromwich Albion,Premier League,2005/2006,2005
+Robert Earnshaw,Centre-Forward,1981-04-06,24,Wales,West Bromwich Albion,Premier League,2005/2006,2005
+Nwankwo Kanu,Centre-Forward,1976-08-01,28,Nigeria,West Bromwich Albion,Premier League,2005/2006,2005
+Nathan Ellington,Centre-Forward,1981-07-02,23,England,West Bromwich Albion,Premier League,2005/2006,2005
+Kevin Campbell,Centre-Forward,1970-02-04,35,England,West Bromwich Albion,Premier League,2005/2006,2005
+Geoff Horsfield,Centre-Forward,1973-11-01,31,England,West Bromwich Albion,Premier League,2005/2006,2005
+Stuart Nicholson,Centre-Forward,1987-02-03,18,England,West Bromwich Albion,Premier League,2005/2006,2005
+Roy Carroll,Goalkeeper,1977-09-30,27,Northern Ireland,West Ham United,Premier League,2005/2006,2005
+Stephen Bywater,Goalkeeper,1981-06-07,24,England,West Ham United,Premier League,2005/2006,2005
+Shaka Hislop,Goalkeeper,1969-02-22,36,Trinidad and Tobago,West Ham United,Premier League,2005/2006,2005
+Jimmy Walker,Goalkeeper,1973-07-09,31,England,West Ham United,Premier League,2005/2006,2005
+Matthew Reed,Goalkeeper,1986-12-24,18,England,West Ham United,Premier League,2005/2006,2005
+Christian Dailly,Centre-Back,1973-10-23,31,Scotland,West Ham United,Premier League,2005/2006,2005
+Tomás Repka,Centre-Back,1974-01-02,31,Czech Republic,West Ham United,Premier League,2005/2006,2005
+Danny Gabbidon,Centre-Back,1979-08-08,25,Wales,West Ham United,Premier League,2005/2006,2005
+James Collins,Centre-Back,1983-08-23,21,Wales,West Ham United,Premier League,2005/2006,2005
+Anton Ferdinand,Centre-Back,1985-02-18,20,England,West Ham United,Premier League,2005/2006,2005
+Elliott Ward,Centre-Back,1985-01-19,20,England,West Ham United,Premier League,2005/2006,2005
+Paul Konchesky,Left-Back,1981-05-15,24,England,West Ham United,Premier League,2005/2006,2005
+Clive Clarke,Left-Back,1980-01-14,25,Ireland,West Ham United,Premier League,2005/2006,2005
+Lionel Scaloni,Right-Back,1978-05-16,27,Argentina,West Ham United,Premier League,2005/2006,2005
+Nigel Reo-Coker,Defensive Midfield,1984-05-14,21,England,West Ham United,Premier League,2005/2006,2005
+Carl Fletcher,Defensive Midfield,1980-04-07,25,Wales,West Ham United,Premier League,2005/2006,2005
+Hayden Mullins,Defensive Midfield,1979-03-27,26,England,West Ham United,Premier League,2005/2006,2005
+Mark Noble,Central Midfield,1987-05-08,18,England,West Ham United,Premier League,2005/2006,2005
+Chris Cohen,Central Midfield,1987-03-05,18,England,West Ham United,Premier League,2005/2006,2005
+Tony Stokes,Central Midfield,1987-01-07,18,England,West Ham United,Premier League,2005/2006,2005
+Shaun Newton,Right Midfield,1975-08-20,29,England,West Ham United,Premier League,2005/2006,2005
+Matthew Etherington,Left Midfield,1981-08-14,23,England,West Ham United,Premier League,2005/2006,2005
+Hogan Ephraim,Left Midfield,1988-03-31,17,England,West Ham United,Premier League,2005/2006,2005
+Gavin Williams,Attacking Midfield,1980-07-20,24,Wales,West Ham United,Premier League,2005/2006,2005
+Yaniv Katan,Attacking Midfield,1981-01-27,24,Israel,West Ham United,Premier League,2005/2006,2005
+Kyel Reid,Left Winger,1987-11-26,17,England,West Ham United,Premier League,2005/2006,2005
+Yossi Benayoun,Right Winger,1980-05-05,25,Israel,West Ham United,Premier League,2005/2006,2005
+Dean Ashton,Centre-Forward,1983-11-24,21,England,West Ham United,Premier League,2005/2006,2005
+Bobby Zamora,Centre-Forward,1981-01-16,24,England,West Ham United,Premier League,2005/2006,2005
+Marlon Harewood,Centre-Forward,1979-08-25,25,England,West Ham United,Premier League,2005/2006,2005
+David Bellion,Centre-Forward,1982-11-27,22,France,West Ham United,Premier League,2005/2006,2005
+Jérémie Aliadière,Centre-Forward,1983-03-30,22,France,West Ham United,Premier League,2005/2006,2005
+Teddy Sheringham,Centre-Forward,1966-04-02,39,England,West Ham United,Premier League,2005/2006,2005
+John Filan,Goalkeeper,1970-02-08,35,Australia,Wigan Athletic,Premier League,2005/2006,2005
+Gary Walsh,Goalkeeper,1968-03-21,37,England,Wigan Athletic,Premier League,2005/2006,2005
+Mike Pollitt,Goalkeeper,1972-02-29,33,England,Wigan Athletic,Premier League,2005/2006,2005
+Stéphane Henchoz,Centre-Back,1974-09-07,30,Switzerland,Wigan Athletic,Premier League,2005/2006,2005
+Reto Ziegler,Centre-Back,1986-01-16,19,Switzerland,Wigan Athletic,Premier League,2005/2006,2005
+Arjan de Zeeuw,Centre-Back,1970-04-16,35,Netherlands,Wigan Athletic,Premier League,2005/2006,2005
+Paul Scharner,Centre-Back,1980-03-11,25,Austria,Wigan Athletic,Premier League,2005/2006,2005
+Émerson Thome,Centre-Back,1972-03-30,33,Portugal,Wigan Athletic,Premier League,2005/2006,2005
+Lee McCulloch,Centre-Back,1978-05-14,27,Scotland,Wigan Athletic,Premier League,2005/2006,2005
+Steve McMillan,Left-Back,1976-01-19,29,Scotland,Wigan Athletic,Premier League,2005/2006,2005
+Leighton Baines,Left-Back,1984-12-11,20,England,Wigan Athletic,Premier League,2005/2006,2005
+Pascal Chimbonda,Right-Back,1979-02-21,26,Guadeloupe,Wigan Athletic,Premier League,2005/2006,2005
+Matt Jackson,Right-Back,1971-10-19,33,England,Wigan Athletic,Premier League,2005/2006,2005
+Ryan Taylor,Right-Back,1984-08-19,20,England,Wigan Athletic,Premier League,2005/2006,2005
+David Wright,Defensive Midfield,1980-05-01,25,England,Wigan Athletic,Premier League,2005/2006,2005
+Luke Joyce,Defensive Midfield,1987-07-09,17,England,Wigan Athletic,Premier League,2005/2006,2005
+Josip Skoko,Central Midfield,1975-12-10,29,Australia,Wigan Athletic,Premier League,2005/2006,2005
+Graham Kavanagh,Central Midfield,1973-12-02,31,Ireland,Wigan Athletic,Premier League,2005/2006,2005
+Andreas Johansson,Central Midfield,1978-07-05,26,Sweden,Wigan Athletic,Premier League,2005/2006,2005
+Damien Francis,Central Midfield,1979-02-27,26,Jamaica,Wigan Athletic,Premier League,2005/2006,2005
+Jimmy Bullard,Central Midfield,1978-10-23,26,England,Wigan Athletic,Premier League,2005/2006,2005
+David Thompson,Right Midfield,1977-09-12,27,England,Wigan Athletic,Premier League,2005/2006,2005
+Alan Mahon,Left Midfield,1978-04-04,27,Ireland,Wigan Athletic,Premier League,2005/2006,2005
+Gary Teale,Right Winger,1978-07-21,26,Scotland,Wigan Athletic,Premier League,2005/2006,2005
+Henri Camara,Centre-Forward,1977-05-10,28,Senegal,Wigan Athletic,Premier League,2005/2006,2005
+Jason Roberts,Centre-Forward,1978-01-25,27,Grenada,Wigan Athletic,Premier League,2005/2006,2005
+David Connolly,Centre-Forward,1977-06-06,28,Ireland,Wigan Athletic,Premier League,2005/2006,2005
+Neil Mellor,Centre-Forward,1982-11-04,22,England,Wigan Athletic,Premier League,2005/2006,2005
+Kelvin Davis,Goalkeeper,1976-09-29,28,England,Sunderland AFC,Premier League,2005/2006,2005
+Joe Murphy,Goalkeeper,1981-08-21,23,Ireland,Sunderland AFC,Premier League,2005/2006,2005
+Ben Alnwick,Goalkeeper,1987-01-01,18,England,Sunderland AFC,Premier League,2005/2006,2005
+Gary Breen,Centre-Back,1973-12-12,31,Ireland,Sunderland AFC,Premier League,2005/2006,2005
+Steven Caldwell,Centre-Back,1980-09-12,24,Scotland,Sunderland AFC,Premier League,2005/2006,2005
+Christian Bassila,Centre-Back,1977-10-05,27,France,Sunderland AFC,Premier League,2005/2006,2005
+Alan Stubbs,Centre-Back,1971-10-06,33,England,Sunderland AFC,Premier League,2005/2006,2005
+Neill Collins,Centre-Back,1983-09-02,21,Scotland,Sunderland AFC,Premier League,2005/2006,2005
+Nyron Nosworthy,Centre-Back,1980-10-11,24,Jamaica,Sunderland AFC,Premier League,2005/2006,2005
+Danny Collins,Centre-Back,1980-08-06,24,Wales,Sunderland AFC,Premier League,2005/2006,2005
+George McCartney,Left-Back,1981-04-29,24,Northern Ireland,Sunderland AFC,Premier League,2005/2006,2005
+Daniel Smith,Left-Back,1986-10-05,18,England,Sunderland AFC,Premier League,2005/2006,2005
+Stephen Wright,Right-Back,1980-02-08,25,England,Sunderland AFC,Premier League,2005/2006,2005
+Justin Hoyte,Right-Back,1984-11-20,20,Trinidad and Tobago,Sunderland AFC,Premier League,2005/2006,2005
+Rory Delap,Central Midfield,1976-07-06,28,Ireland,Sunderland AFC,Premier League,2005/2006,2005
+Julio Arca,Central Midfield,1981-01-31,24,Argentina,Sunderland AFC,Premier League,2005/2006,2005
+Carl Robinson,Central Midfield,1976-10-13,28,Wales,Sunderland AFC,Premier League,2005/2006,2005
+Tommy Miller,Central Midfield,1979-01-08,26,England,Sunderland AFC,Premier League,2005/2006,2005
+Dean Whitehead,Central Midfield,1982-01-21,23,England,Sunderland AFC,Premier League,2005/2006,2005
+Grant Leadbitter,Central Midfield,1986-01-07,19,England,Sunderland AFC,Premier League,2005/2006,2005
+Martin Woods,Central Midfield,1986-01-01,19,Scotland,Sunderland AFC,Premier League,2005/2006,2005
+Andy Welsh,Left Midfield,1983-11-24,21,Scotland,Sunderland AFC,Premier League,2005/2006,2005
+Liam Lawrence,Attacking Midfield,1981-12-14,23,Ireland,Sunderland AFC,Premier League,2005/2006,2005
+Jon Stead,Centre-Forward,1983-04-07,22,England,Sunderland AFC,Premier League,2005/2006,2005
+Anthony Le Tallec,Centre-Forward,1984-10-03,20,France,Sunderland AFC,Premier League,2005/2006,2005
+Kevin Kyle,Centre-Forward,1981-06-07,24,Scotland,Sunderland AFC,Premier League,2005/2006,2005
+Andy Gray,Centre-Forward,1977-11-15,27,Scotland,Sunderland AFC,Premier League,2005/2006,2005
+Stephen Elliott,Centre-Forward,1984-01-06,21,Ireland,Sunderland AFC,Premier League,2005/2006,2005
+Daryl Murphy,Centre-Forward,1983-03-15,22,Ireland,Sunderland AFC,Premier League,2005/2006,2005
+Chris Brown,Centre-Forward,1984-12-11,20,England,Sunderland AFC,Premier League,2005/2006,2005

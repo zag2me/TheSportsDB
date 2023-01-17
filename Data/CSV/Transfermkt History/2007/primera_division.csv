@@ -1,0 +1,628 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Víctor Valdés,Goalkeeper,1982-01-14,25,Spain,FC Barcelona,LaLiga,2007/2008,2007
+José Manuel Pinto,Goalkeeper,1975-11-08,31,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Albert Jorquera,Goalkeeper,1979-03-03,28,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Oier Olazábal,Goalkeeper,1989-09-14,17,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Carles Puyol,Centre-Back,1978-04-13,29,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Gabriel Milito,Centre-Back,1980-09-07,26,Argentina,FC Barcelona,LaLiga,2007/2008,2007
+Rafael Márquez,Centre-Back,1979-02-13,28,Mexico,FC Barcelona,LaLiga,2007/2008,2007
+Lilian Thuram,Centre-Back,1972-01-01,35,France,FC Barcelona,LaLiga,2007/2008,2007
+Oleguer,Centre-Back,1980-02-02,27,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Alberto Botía,Centre-Back,1989-01-27,18,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Marc Valiente,Centre-Back,1987-03-29,20,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Éric Abidal,Left-Back,1979-09-11,27,France,FC Barcelona,LaLiga,2007/2008,2007
+Sylvinho,Left-Back,1974-04-12,33,Brazil,FC Barcelona,LaLiga,2007/2008,2007
+Víctor Espasandín,Left-Back,1985-03-16,22,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Gianluca Zambrotta,Right-Back,1977-02-19,30,Italy,FC Barcelona,LaLiga,2007/2008,2007
+Fali,Right-Back,1986-02-22,21,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Edmílson,Defensive Midfield,1976-07-10,30,Brazil,FC Barcelona,LaLiga,2007/2008,2007
+Marc Crosas,Defensive Midfield,1988-01-09,19,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Xavi,Central Midfield,1980-01-25,27,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Andrés Iniesta,Central Midfield,1984-05-11,23,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Yaya Touré,Central Midfield,1983-05-13,24,Cote d'Ivoire,FC Barcelona,LaLiga,2007/2008,2007
+Víctor Sánchez,Central Midfield,1987-09-08,19,Spain,FC Barcelona,LaLiga,2007/2008,2007
+José Manuel Rueda,Central Midfield,1988-01-30,19,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Ronaldinho,Attacking Midfield,1980-03-21,27,Brazil,FC Barcelona,LaLiga,2007/2008,2007
+Deco,Attacking Midfield,1977-08-27,29,Portugal,FC Barcelona,LaLiga,2007/2008,2007
+Víctor Vázquez,Attacking Midfield,1987-01-20,20,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Lionel Messi,Right Winger,1987-06-24,20,Argentina,FC Barcelona,LaLiga,2007/2008,2007
+Pedro,Right Winger,1987-07-28,19,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Bojan Krkic,Second Striker,1990-08-28,16,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Giovani dos Santos,Second Striker,1989-05-11,18,Mexico,FC Barcelona,LaLiga,2007/2008,2007
+Thierry Henry,Centre-Forward,1977-08-17,29,France,FC Barcelona,LaLiga,2007/2008,2007
+Samuel Eto'o,Centre-Forward,1981-03-10,26,Cameroon,FC Barcelona,LaLiga,2007/2008,2007
+Eidur Gudjohnsen,Centre-Forward,1978-09-15,28,Iceland,FC Barcelona,LaLiga,2007/2008,2007
+Santiago Ezquerro,Centre-Forward,1976-12-14,30,Spain,FC Barcelona,LaLiga,2007/2008,2007
+Iker Casillas,Goalkeeper,1981-05-20,26,Spain,Real Madrid,LaLiga,2007/2008,2007
+Jerzy Dudek,Goalkeeper,1973-03-23,34,Poland,Real Madrid,LaLiga,2007/2008,2007
+Jordi Codina,Goalkeeper,1982-04-27,25,Spain,Real Madrid,LaLiga,2007/2008,2007
+Sergio Ramos,Centre-Back,1986-03-30,21,Spain,Real Madrid,LaLiga,2007/2008,2007
+Fabio Cannavaro,Centre-Back,1973-09-13,33,Italy,Real Madrid,LaLiga,2007/2008,2007
+Gabriel Heinze,Centre-Back,1978-04-19,29,Argentina,Real Madrid,LaLiga,2007/2008,2007
+Pepe,Centre-Back,1983-02-26,24,Portugal,Real Madrid,LaLiga,2007/2008,2007
+Christoph Metzelder,Centre-Back,1980-11-05,26,Germany,Real Madrid,LaLiga,2007/2008,2007
+Marcelo,Left-Back,1988-05-12,19,Brazil,Real Madrid,LaLiga,2007/2008,2007
+Miguel Torres,Right-Back,1986-01-28,21,Spain,Real Madrid,LaLiga,2007/2008,2007
+Míchel Salgado,Right-Back,1975-10-22,31,Spain,Real Madrid,LaLiga,2007/2008,2007
+Mahamadou Diarra,Defensive Midfield,1981-05-18,26,Mali,Real Madrid,LaLiga,2007/2008,2007
+Fernando Gago,Defensive Midfield,1986-04-10,21,Argentina,Real Madrid,LaLiga,2007/2008,2007
+Guti,Central Midfield,1976-10-31,30,Spain,Real Madrid,LaLiga,2007/2008,2007
+Rubén de la Red,Central Midfield,1985-06-05,22,Spain,Real Madrid,LaLiga,2007/2008,2007
+Royston Drenthe,Left Midfield,1987-04-08,20,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+Wesley Sneijder,Attacking Midfield,1984-06-09,23,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+Júlio Baptista,Attacking Midfield,1981-10-01,25,Brazil,Real Madrid,LaLiga,2007/2008,2007
+Arjen Robben,Right Winger,1984-01-23,23,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+Javier Balboa,Right Winger,1985-05-13,22,Equatorial Guinea,Real Madrid,LaLiga,2007/2008,2007
+Robinho,Second Striker,1984-01-25,23,Brazil,Real Madrid,LaLiga,2007/2008,2007
+Raúl,Second Striker,1977-06-27,30,Spain,Real Madrid,LaLiga,2007/2008,2007
+Javier Saviola,Second Striker,1981-12-11,25,Argentina,Real Madrid,LaLiga,2007/2008,2007
+Ruud van Nistelrooy,Centre-Forward,1976-07-01,31,Netherlands,Real Madrid,LaLiga,2007/2008,2007
+Gonzalo Higuaín,Centre-Forward,1987-12-10,19,Argentina,Real Madrid,LaLiga,2007/2008,2007
+Roberto Soldado,Centre-Forward,1985-05-27,22,Spain,Real Madrid,LaLiga,2007/2008,2007
+Timo Hildebrand,Goalkeeper,1979-04-05,28,Germany,Valencia CF,LaLiga,2007/2008,2007
+Santiago Cañizares,Goalkeeper,1969-12-18,37,Spain,Valencia CF,LaLiga,2007/2008,2007
+Juan Luis Mora,Goalkeeper,1973-07-12,33,Spain,Valencia CF,LaLiga,2007/2008,2007
+Vicente Guaita,Goalkeeper,1987-01-10,20,Spain,Valencia CF,LaLiga,2007/2008,2007
+Raúl Albiol,Centre-Back,1985-09-04,21,Spain,Valencia CF,LaLiga,2007/2008,2007
+Carlos Marchena,Centre-Back,1979-07-31,27,Spain,Valencia CF,LaLiga,2007/2008,2007
+Alexis,Centre-Back,1985-08-04,21,Spain,Valencia CF,LaLiga,2007/2008,2007
+Emiliano Moretti,Centre-Back,1981-06-11,26,Italy,Valencia CF,LaLiga,2007/2008,2007
+Iván Helguera,Centre-Back,1975-03-28,32,Spain,Valencia CF,LaLiga,2007/2008,2007
+Marco Caneira,Centre-Back,1979-02-09,28,Portugal,Valencia CF,LaLiga,2007/2008,2007
+David Lombán,Centre-Back,1987-06-05,20,Spain,Valencia CF,LaLiga,2007/2008,2007
+Miguel,Right-Back,1980-01-04,27,Portugal,Valencia CF,LaLiga,2007/2008,2007
+David Albelda,Defensive Midfield,1977-09-01,29,Spain,Valencia CF,LaLiga,2007/2008,2007
+Hedwiges Maduro,Defensive Midfield,1985-02-13,22,Netherlands,Valencia CF,LaLiga,2007/2008,2007
+Sunny,Defensive Midfield,1988-09-17,18,Nigeria,Valencia CF,LaLiga,2007/2008,2007
+Rubén Baraja,Central Midfield,1975-07-11,31,Spain,Valencia CF,LaLiga,2007/2008,2007
+Edú Gaspar,Central Midfield,1978-05-15,29,Brazil,Valencia CF,LaLiga,2007/2008,2007
+Ángel Montoro,Central Midfield,1988-06-25,19,Spain,Valencia CF,LaLiga,2007/2008,2007
+Éver Banega,Central Midfield,1988-06-29,19,Argentina,Valencia CF,LaLiga,2007/2008,2007
+David Silva,Attacking Midfield,1986-01-08,21,Spain,Valencia CF,LaLiga,2007/2008,2007
+Manuel Fernandes,Attacking Midfield,1986-02-05,21,Portugal,Valencia CF,LaLiga,2007/2008,2007
+Juan Mata,Attacking Midfield,1988-04-28,19,Spain,Valencia CF,LaLiga,2007/2008,2007
+Vicente,Left Winger,1981-07-16,25,Spain,Valencia CF,LaLiga,2007/2008,2007
+Jaime Gavilán,Left Winger,1985-05-12,22,Spain,Valencia CF,LaLiga,2007/2008,2007
+Joaquín,Right Winger,1981-07-21,25,Spain,Valencia CF,LaLiga,2007/2008,2007
+Miguel Ángel Angulo,Second Striker,1977-06-23,30,Spain,Valencia CF,LaLiga,2007/2008,2007
+David Villa,Centre-Forward,1981-12-03,25,Spain,Valencia CF,LaLiga,2007/2008,2007
+Fernando Morientes,Centre-Forward,1976-04-05,31,Spain,Valencia CF,LaLiga,2007/2008,2007
+Nikola Zigic,Centre-Forward,1980-09-25,26,Serbia,Valencia CF,LaLiga,2007/2008,2007
+Javier Arizmendi,Centre-Forward,1984-03-03,23,Spain,Valencia CF,LaLiga,2007/2008,2007
+Leo Franco,Goalkeeper,1977-05-20,30,Argentina,Atlético Madrid,LaLiga,2007/2008,2007
+Christian Abbiati,Goalkeeper,1977-07-08,29,Italy,Atlético Madrid,LaLiga,2007/2008,2007
+Ismael Falcón,Goalkeeper,1984-04-24,23,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Luis Perea,Centre-Back,1979-01-30,28,Colombia,Atlético Madrid,LaLiga,2007/2008,2007
+Pablo Ibáñez,Centre-Back,1981-08-03,25,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Zé Castro,Centre-Back,1983-01-13,24,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+Fabiano Eller,Centre-Back,1977-11-16,29,Brazil,Atlético Madrid,LaLiga,2007/2008,2007
+David Fernández,Centre-Back,1985-04-06,22,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Álvaro Domínguez,Centre-Back,1989-05-16,18,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+César Ortiz,Centre-Back,1989-01-30,18,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Antonio López,Left-Back,1981-09-13,25,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Mariano Pernía,Left-Back,1977-05-04,30,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Georgios Seitaridis,Right-Back,1981-06-04,26,Greece,Atlético Madrid,LaLiga,2007/2008,2007
+Juan Valera,Right-Back,1984-12-21,22,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Costinha,Defensive Midfield,1974-12-01,32,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+Thiago Motta,Defensive Midfield,1982-08-28,24,Italy,Atlético Madrid,LaLiga,2007/2008,2007
+Peter Luccin,Defensive Midfield,1979-04-09,28,France,Atlético Madrid,LaLiga,2007/2008,2007
+Ignacio Camacho,Defensive Midfield,1990-05-04,17,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Maniche,Central Midfield,1977-11-11,29,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+Cléber Santana,Central Midfield,1981-06-27,26,Brazil,Atlético Madrid,LaLiga,2007/2008,2007
+Álex Quillo,Central Midfield,1986-10-07,20,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Joshua Zapata,Central Midfield,1989-01-28,18,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Raúl García,Attacking Midfield,1986-07-11,20,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+José Manuel Jurado,Attacking Midfield,1986-06-29,21,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Simão,Left Winger,1979-10-31,27,Portugal,Atlético Madrid,LaLiga,2007/2008,2007
+Maxi Rodríguez,Left Winger,1981-01-02,26,Argentina,Atlético Madrid,LaLiga,2007/2008,2007
+Martin Petrov,Left Winger,1979-01-15,28,Bulgaria,Atlético Madrid,LaLiga,2007/2008,2007
+José Antonio Reyes,Right Winger,1983-09-01,23,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Luis García,Right Winger,1978-06-24,29,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Miguel de las Cuevas,Right Winger,1986-06-19,21,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Didi Rodríguez,Right Winger,1985-02-20,22,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Diego Forlán,Second Striker,1979-05-19,28,Uruguay,Atlético Madrid,LaLiga,2007/2008,2007
+Sergio Agüero,Centre-Forward,1988-06-02,19,Argentina,Atlético Madrid,LaLiga,2007/2008,2007
+Mista,Centre-Forward,1978-11-12,28,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Braulio Nóbrega,Centre-Forward,1985-09-18,21,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Borja Rubiato,Centre-Forward,1984-11-13,22,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Roberto Batres,Centre-Forward,1986-01-08,21,Spain,Atlético Madrid,LaLiga,2007/2008,2007
+Morgan De Sanctis,Goalkeeper,1977-03-26,30,Italy,Sevilla FC,LaLiga,2007/2008,2007
+Andrés Palop,Goalkeeper,1973-10-22,33,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Pablo Vargas,Goalkeeper,1984-02-16,23,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Khalid Boulahrouz,Centre-Back,1981-12-28,25,Netherlands,Sevilla FC,LaLiga,2007/2008,2007
+Julien Escudé,Centre-Back,1979-08-17,27,France,Sevilla FC,LaLiga,2007/2008,2007
+Javi Navarro,Centre-Back,1974-02-06,33,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Ivica Dragutinovic,Centre-Back,1975-11-13,31,Serbia,Sevilla FC,LaLiga,2007/2008,2007
+José Crespo,Centre-Back,1987-02-09,20,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Federico Fazio,Centre-Back,1987-03-17,20,Argentina,Sevilla FC,LaLiga,2007/2008,2007
+David Prieto,Centre-Back,1983-01-02,24,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Aquivaldo Mosquera,Centre-Back,1981-06-22,26,Colombia,Sevilla FC,LaLiga,2007/2008,2007
+Adriano,Left-Back,1984-10-26,22,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+Antonio Puerta,Left-Back,1984-11-26,NA,Spain,Sevilla FC,LaLiga,2007/2008,2007
+José Manuel Casado,Left-Back,1986-08-09,20,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Dani Alves,Right-Back,1983-05-06,24,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+Jesús Navas,Right-Back,1985-11-21,21,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Andreas Hinkel,Right-Back,1982-03-26,25,Germany,Sevilla FC,LaLiga,2007/2008,2007
+Dani Salas,Right-Back,1988-02-23,19,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Christian Poulsen,Defensive Midfield,1980-02-28,27,Denmark,Sevilla FC,LaLiga,2007/2008,2007
+Josep Lluís Martí,Defensive Midfield,1975-04-28,32,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Lolo,Defensive Midfield,1984-08-22,22,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Seydou Keita,Central Midfield,1980-01-16,27,Mali,Sevilla FC,LaLiga,2007/2008,2007
+Renato,Central Midfield,1979-05-15,28,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+Enzo Maresca,Central Midfield,1980-02-10,27,Italy,Sevilla FC,LaLiga,2007/2008,2007
+Tom De Mul,Right Midfield,1986-03-04,21,Belgium,Sevilla FC,LaLiga,2007/2008,2007
+Duda,Left Midfield,1980-06-27,27,Portugal,Sevilla FC,LaLiga,2007/2008,2007
+Alejandro Alfaro,Left Winger,1986-11-23,20,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Diego Capel,Left Winger,1988-02-16,19,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Frédéric Kanouté,Centre-Forward,1977-09-02,29,Mali,Sevilla FC,LaLiga,2007/2008,2007
+Luís Fabiano,Centre-Forward,1980-11-08,26,Brazil,Sevilla FC,LaLiga,2007/2008,2007
+Arouna Koné,Centre-Forward,1983-11-11,23,Cote d'Ivoire,Sevilla FC,LaLiga,2007/2008,2007
+Aleksandr Kerzhakov,Centre-Forward,1982-11-27,24,Russia,Sevilla FC,LaLiga,2007/2008,2007
+Javier Chevantón,Centre-Forward,1980-08-12,26,Uruguay,Sevilla FC,LaLiga,2007/2008,2007
+Juanjo Expósito,Centre-Forward,1985-10-28,21,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Antonio Moreno,Centre-Forward,1983-02-01,24,Spain,Sevilla FC,LaLiga,2007/2008,2007
+Javier López Vallejo,Goalkeeper,1975-09-25,31,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+César Sánchez,Goalkeeper,1971-09-02,35,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Miguel Martínez,Goalkeeper,1981-11-25,25,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Roberto Ayala,Centre-Back,1973-04-14,34,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+Sergio,Centre-Back,1977-05-23,30,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Francisco Pavón,Centre-Back,1980-01-09,27,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Chus Herrero,Centre-Back,1984-02-10,23,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Raúl Goni,Centre-Back,1988-10-12,18,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Jorge Gotor,Centre-Back,1987-04-14,20,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Juanfran,Left-Back,1976-07-15,30,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Javier Paredes,Left-Back,1982-07-05,24,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Víctor Fernández,Left-Back,1987-08-25,19,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Carlos Diogo,Right-Back,1983-07-18,23,Uruguay,Real Zaragoza,LaLiga,2007/2008,2007
+Carlos Cuartero,Right-Back,1975-08-17,31,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Alberto Montejo,Midfielder,1988-01-19,19,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Matuzalém,Defensive Midfield,1980-06-10,27,Brazil,Real Zaragoza,LaLiga,2007/2008,2007
+Peter Luccin,Defensive Midfield,1979-04-09,28,France,Real Zaragoza,LaLiga,2007/2008,2007
+Alberto Zapater,Defensive Midfield,1985-06-13,22,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Albert Celades,Defensive Midfield,1975-09-29,31,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Gabi,Defensive Midfield,1983-07-10,23,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+David Generelo,Central Midfield,1982-08-11,24,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Óscar Valero,Central Midfield,1985-08-28,21,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Guillermo Grande,Central Midfield,1985-07-18,21,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Burbu Romero,Central Midfield,1987-03-21,20,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Pablo Aimar,Attacking Midfield,1979-11-03,27,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+Andrés D'Alessandro,Attacking Midfield,1981-04-15,26,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+Óscar González,Attacking Midfield,1982-11-12,24,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Diego Milito,Centre-Forward,1979-06-12,28,Argentina,Real Zaragoza,LaLiga,2007/2008,2007
+Ricardo Oliveira,Centre-Forward,1980-05-06,27,Brazil,Real Zaragoza,LaLiga,2007/2008,2007
+Sergio García,Centre-Forward,1983-06-09,24,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Vicente Pascual,Centre-Forward,1986-08-21,20,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Esaú,Centre-Forward,1987-01-02,20,Spain,Real Zaragoza,LaLiga,2007/2008,2007
+Diego López,Goalkeeper,1981-11-03,25,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Sebastián Viera,Goalkeeper,1983-03-07,24,Uruguay,Villarreal CF,LaLiga,2007/2008,2007
+Juan Carlos,Goalkeeper,1987-07-27,19,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Gonzalo Rodríguez,Centre-Back,1984-04-10,23,Argentina,Villarreal CF,LaLiga,2007/2008,2007
+Josemi,Centre-Back,1979-11-15,27,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Pascal Cygan,Centre-Back,1974-04-29,33,France,Villarreal CF,LaLiga,2007/2008,2007
+Fabricio Fuentes,Centre-Back,1976-10-13,30,Argentina,Villarreal CF,LaLiga,2007/2008,2007
+Diego Godín,Centre-Back,1986-02-16,21,Uruguay,Villarreal CF,LaLiga,2007/2008,2007
+Kiko Olivas,Centre-Back,1988-08-21,18,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Joan Capdevila,Left-Back,1978-02-03,29,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Javi Venta,Right-Back,1975-12-13,31,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Ángel López,Right-Back,1981-03-10,26,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Rio Mavuba,Defensive Midfield,1984-03-08,23,France,Villarreal CF,LaLiga,2007/2008,2007
+Marcos Senna,Defensive Midfield,1976-07-17,30,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Josico,Defensive Midfield,1975-01-06,32,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Sebastián Eguren,Defensive Midfield,1981-01-08,26,Uruguay,Villarreal CF,LaLiga,2007/2008,2007
+Bruno Soriano,Defensive Midfield,1984-06-12,23,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Santi Cazorla,Central Midfield,1984-12-13,22,Spain,Villarreal CF,LaLiga,2007/2008,2007
+David Rocha,Central Midfield,1985-02-07,22,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Robert Pirès,Left Midfield,1973-10-29,33,France,Villarreal CF,LaLiga,2007/2008,2007
+Juan Román Riquelme,Attacking Midfield,1978-06-24,29,Argentina,Villarreal CF,LaLiga,2007/2008,2007
+Cani,Attacking Midfield,1981-08-03,25,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Matías Fernández,Attacking Midfield,1986-05-15,21,Chile,Villarreal CF,LaLiga,2007/2008,2007
+Feliciano Condesso,Attacking Midfield,1987-04-06,20,Portugal,Villarreal CF,LaLiga,2007/2008,2007
+Rubén Sánchez,Left Winger,1989-01-21,18,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Xisco Nadal,Right Winger,1986-06-27,21,Spain,Villarreal CF,LaLiga,2007/2008,2007
+Nihat Kahveci,Centre-Forward,1979-11-23,27,Turkey,Villarreal CF,LaLiga,2007/2008,2007
+Giuseppe Rossi,Centre-Forward,1987-02-01,20,Italy,Villarreal CF,LaLiga,2007/2008,2007
+Jon Dahl Tomasson,Centre-Forward,1976-08-29,30,Denmark,Villarreal CF,LaLiga,2007/2008,2007
+Guillermo Franco,Centre-Forward,1976-11-03,30,Mexico,Villarreal CF,LaLiga,2007/2008,2007
+Ricardo,Goalkeeper,1976-02-11,31,Portugal,Real Betis Balompié,LaLiga,2007/2008,2007
+Toni Doblas,Goalkeeper,1980-08-05,26,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Casto,Goalkeeper,1982-06-18,25,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+René,Goalkeeper,1983-12-15,23,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Juanito,Centre-Back,1976-07-23,30,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Melli,Centre-Back,1984-06-06,23,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Branko Ilic,Centre-Back,1983-02-06,24,Slovenia,Real Betis Balompié,LaLiga,2007/2008,2007
+Nano,Centre-Back,1980-07-07,26,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+David Rivas,Centre-Back,1978-12-02,28,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Lima,Centre-Back,1985-02-10,22,Brazil,Real Betis Balompié,LaLiga,2007/2008,2007
+Alejandro Zamora,Centre-Back,1984-04-22,23,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Álex Ortiz,Centre-Back,1985-09-25,21,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Fernando Vega,Left-Back,1984-07-03,22,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Toni Sánchez,Left-Back,1985-02-07,22,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Damià,Right-Back,1982-04-15,25,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Isidoro,Right-Back,1986-08-01,20,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Leandro Somoza,Defensive Midfield,1981-01-26,26,Argentina,Real Betis Balompié,LaLiga,2007/2008,2007
+Juande,Defensive Midfield,1986-08-12,20,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Arzu,Defensive Midfield,1981-03-17,26,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Alberto Rivera,Central Midfield,1978-02-16,29,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Rodri,Right Midfield,1986-03-07,21,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Marko Babic,Left Midfield,1981-01-28,26,Croatia,Real Betis Balompié,LaLiga,2007/2008,2007
+Juan Pablo Caffa,Left Midfield,1984-09-30,22,Argentina,Real Betis Balompié,LaLiga,2007/2008,2007
+Capi,Attacking Midfield,1977-03-26,30,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Fernando,Attacking Midfield,1979-06-02,28,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Mark González,Left Winger,1984-07-10,22,Chile,Real Betis Balompié,LaLiga,2007/2008,2007
+David Odonkor,Right Winger,NA,23,Germany,Real Betis Balompié,LaLiga,2007/2008,2007
+Xisco,Second Striker,1980-09-05,26,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Edú,Second Striker,1979-01-10,28,Brazil,Real Betis Balompié,LaLiga,2007/2008,2007
+Rafael Sóbis,Centre-Forward,1985-06-17,22,Brazil,Real Betis Balompié,LaLiga,2007/2008,2007
+José Mari,Centre-Forward,1978-12-10,28,Spain,Real Betis Balompié,LaLiga,2007/2008,2007
+Mariano Pavone,Centre-Forward,1982-05-27,25,Argentina,Real Betis Balompié,LaLiga,2007/2008,2007
+Dudu Aouate,Goalkeeper,1977-10-17,29,Israel,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Gustavo Munúa,Goalkeeper,1978-01-27,29,Uruguay,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Fabri,Goalkeeper,1987-12-31,19,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Manu Fernández,Goalkeeper,1986-05-09,21,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Fabricio Coloccini,Centre-Back,1982-01-22,25,Argentina,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Rodri,Centre-Back,1984-08-17,22,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Alberto Lopo,Centre-Back,1980-05-05,27,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Pablo Amo,Centre-Back,1978-01-15,29,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Chapi,Centre-Back,1985-04-12,22,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Aythami Artiles,Centre-Back,1986-04-02,21,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Adrián López,Centre-Back,1987-02-25,20,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Filipe Luís,Left-Back,1985-08-09,21,Brazil,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Manuel Pablo,Right-Back,1976-01-25,31,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Antonio Barragán,Right-Back,1987-06-12,20,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Laure,Right-Back,1985-03-22,22,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Julian de Guzmán,Defensive Midfield,1981-03-25,26,Canada,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Juan Rodríguez,Defensive Midfield,1982-04-01,25,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Sergio,Central Midfield,1976-11-10,30,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Andrés Guardado,Central Midfield,1986-09-28,20,Mexico,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Antonio Tomás,Central Midfield,1985-01-13,22,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Adrián López,Left Midfield,1988-01-08,19,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Juan Carlos Valerón,Attacking Midfield,1975-06-17,32,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Joan Verdú,Attacking Midfield,1983-05-05,24,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Iván Carril,Attacking Midfield,1985-02-13,22,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Ángel Lafita,Left Winger,1984-08-07,22,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Cristian Hidalgo,Left Winger,1983-09-21,23,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Christian Wilhelmsson,Right Winger,1979-12-08,27,Sweden,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Pablo Álvarez,Right Winger,1980-05-14,27,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Riki,Centre-Forward,1980-08-11,26,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Sebastián Taborda,Centre-Forward,1981-05-22,26,Uruguay,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Rodolfo Bodipo,Centre-Forward,1977-10-25,29,Equatorial Guinea,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Rubén Castro,Centre-Forward,1981-06-27,26,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Xisco,Centre-Forward,1986-06-26,21,Spain,Deportivo de La Coruña,LaLiga,2007/2008,2007
+Ricardo,Goalkeeper,1971-12-30,35,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Juantxo Elía,Goalkeeper,1979-01-24,28,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Andrés Fernández,Goalkeeper,1986-12-17,20,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Miguel Flaño,Centre-Back,1984-08-19,22,Spain,CA Osasuna,LaLiga,2007/2008,2007
+César Cruchaga,Centre-Back,1974-01-26,33,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Josetxo,Centre-Back,1977-02-25,30,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Igotz Garde,Centre-Back,1981-10-31,25,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Jon Echaide,Centre-Back,1988-01-05,19,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Enrique Corrales,Left-Back,1982-03-01,25,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Nacho Monreal,Left-Back,1986-02-26,21,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Javier Flaño,Right-Back,1984-08-19,22,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Juanfran,Right-Back,1985-01-09,22,Spain,CA Osasuna,LaLiga,2007/2008,2007
+José Izquierdo,Right-Back,1980-08-03,26,Spain,CA Osasuna,LaLiga,2007/2008,2007
+César Azpilicueta,Right-Back,1989-08-28,17,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Javad Nekounam,Defensive Midfield,1980-09-07,26,Iran,CA Osasuna,LaLiga,2007/2008,2007
+Patxi Puñal,Defensive Midfield,1975-09-06,31,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Javi García,Defensive Midfield,1987-02-08,20,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Oier,Defensive Midfield,1986-05-25,21,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Hugo Viana,Central Midfield,1983-01-15,24,Portugal,CA Osasuna,LaLiga,2007/2008,2007
+Jaroslav Plasil,Central Midfield,1982-01-05,25,Czech Republic,CA Osasuna,LaLiga,2007/2008,2007
+Martín Astudillo,Central Midfield,1977-07-10,29,Argentina,CA Osasuna,LaLiga,2007/2008,2007
+Héctor Font,Central Midfield,1984-06-15,23,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Jon Erice,Central Midfield,1986-11-03,20,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Xavier Margairaz,Attacking Midfield,1984-01-07,23,Switzerland,CA Osasuna,LaLiga,2007/2008,2007
+Ludovic Delporte,Left Winger,1980-02-06,27,France,CA Osasuna,LaLiga,2007/2008,2007
+Jokin Esparza,Left Winger,1988-06-15,19,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Carlos Vela,Right Winger,1989-03-01,18,Mexico,CA Osasuna,LaLiga,2007/2008,2007
+Wálter Pandiani,Centre-Forward,1976-04-27,31,Uruguay,CA Osasuna,LaLiga,2007/2008,2007
+Javier Portillo,Centre-Forward,1982-03-30,25,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Dady,Centre-Forward,1981-08-13,25,Cape Verde,CA Osasuna,LaLiga,2007/2008,2007
+Kike Sola,Centre-Forward,1986-02-25,21,Spain,CA Osasuna,LaLiga,2007/2008,2007
+Daniel Aranzubia,Goalkeeper,1979-09-18,27,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Armando,Goalkeeper,1971-01-16,36,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Gorka Iraizoz,Goalkeeper,1981-03-06,26,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Raúl Fernández,Goalkeeper,1988-03-13,19,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Carlos Gurpegi,Centre-Back,1980-08-19,26,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Aitor Ocio,Centre-Back,1976-11-28,30,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Ander Murillo,Centre-Back,1983-07-22,23,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Luis Prieto,Centre-Back,1979-02-19,28,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Ustaritz,Centre-Back,1983-02-16,24,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Fernando Amorebieta,Centre-Back,1985-03-29,22,Venezuela,Athletic Bilbao,LaLiga,2007/2008,2007
+Asier del Horno,Left-Back,1981-01-19,26,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Javi Casas,Left-Back,1982-05-09,25,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Koikili,Left-Back,1980-12-23,26,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Andoni Iraola,Right-Back,1982-06-22,25,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Unai Expósito,Right-Back,1980-01-23,27,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Iban Zubiaurre,Right-Back,1983-01-22,24,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Javi Martínez,Defensive Midfield,1988-09-02,18,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Pablo Orbaiz,Defensive Midfield,1979-02-06,28,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Iñaki Muñoz,Defensive Midfield,1978-07-02,28,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+David López,Central Midfield,1982-09-10,24,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Tiko,Central Midfield,1976-09-10,30,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+David Cuéllar,Right Midfield,1979-11-01,27,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Igor Gabilondo,Left Midfield,1979-02-10,28,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Fran Yeste,Attacking Midfield,1979-12-06,27,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Joseba Garmendia,Attacking Midfield,1985-10-04,21,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Urko Arroyo,Left Winger,1987-05-14,20,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Joseba Etxeberria,Right Winger,1977-09-05,29,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Markel Susaeta,Right Winger,1987-12-14,19,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Aitor Ramos,Right Winger,1985-06-11,22,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Aritz Aduriz,Centre-Forward,1981-02-11,26,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Fernando Llorente,Centre-Forward,1985-02-26,22,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Ion Vélez,Centre-Forward,1985-02-17,22,Spain,Athletic Bilbao,LaLiga,2007/2008,2007
+Carlos Kameni,Goalkeeper,1984-02-18,23,Cameroon,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Iñaki Lafuente,Goalkeeper,1976-01-24,31,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Kiko Casilla,Goalkeeper,1986-10-02,20,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Javi Ruiz,Goalkeeper,1980-03-15,27,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Isaac Becerra,Goalkeeper,1988-06-18,19,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Dani Jarque,Centre-Back,1983-01-01,24,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Marc Torrejón,Centre-Back,1986-02-18,21,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Albert Serrán,Centre-Back,1984-07-17,22,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Clemente Rodríguez,Left-Back,1981-07-31,25,Argentina,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+David García,Left-Back,1981-01-16,26,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Fede Bessone,Left-Back,1984-01-23,23,Argentina,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Pablo Zabaleta,Right-Back,1985-01-16,22,Argentina,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Mari Lacruz,Right-Back,1978-04-25,29,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Javi Chica,Right-Back,1985-05-17,22,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Milan Smiljanic,Defensive Midfield,1986-11-19,20,Serbia,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Frédson,Defensive Midfield,1981-02-22,26,Brazil,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Moisés Hurtado,Defensive Midfield,1981-02-20,26,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Luis García,Central Midfield,1981-02-06,26,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Jônatas,Central Midfield,1982-07-29,24,Brazil,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Jordi Gómez,Central Midfield,1985-05-24,22,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Ángel Martínez,Central Midfield,1986-01-31,21,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Iván de la Peña,Attacking Midfield,1976-05-06,31,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Moha,Attacking Midfield,1977-09-12,29,Morocco,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Albert Riera,Left Winger,1982-04-15,25,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Francisco Rufete,Right Winger,1976-11-20,30,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Valdo,Right Winger,1981-04-23,26,Cape Verde,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Ewerthon,Centre-Forward,1981-06-10,26,Brazil,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Raúl Tamudo,Centre-Forward,1977-10-19,29,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Jonathan Soriano,Centre-Forward,1985-09-24,21,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Coro,Centre-Forward,1983-01-05,24,Spain,RCD Espanyol Barcelona,LaLiga,2007/2008,2007
+Óscar Ustari,Goalkeeper,1986-07-03,20,Argentina,Getafe CF,LaLiga,2007/2008,2007
+Roberto Abbondanzieri,Goalkeeper,1972-08-19,34,Argentina,Getafe CF,LaLiga,2007/2008,2007
+Francisco Galán,Goalkeeper,1985-01-09,22,Spain,Getafe CF,LaLiga,2007/2008,2007
+Mario Álvarez,Centre-Back,1982-02-02,25,Spain,Getafe CF,LaLiga,2007/2008,2007
+David Belenguer,Centre-Back,1972-12-17,34,Spain,Getafe CF,LaLiga,2007/2008,2007
+Alberto Aguilar,Centre-Back,1984-07-12,22,Spain,Getafe CF,LaLiga,2007/2008,2007
+Manuel Tena,Centre-Back,1978-02-03,29,Spain,Getafe CF,LaLiga,2007/2008,2007
+Cata Díaz,Centre-Back,1979-07-13,27,Argentina,Getafe CF,LaLiga,2007/2008,2007
+Víctor Mesa,Centre-Back,1985-04-16,22,Spain,Getafe CF,LaLiga,2007/2008,2007
+Franck Signorino,Left-Back,1981-09-19,25,France,Getafe CF,LaLiga,2007/2008,2007
+Nacho,Left-Back,1980-06-24,27,Spain,Getafe CF,LaLiga,2007/2008,2007
+Lucas Licht,Left-Back,1981-04-06,26,Argentina,Getafe CF,LaLiga,2007/2008,2007
+David Cortés,Right-Back,1979-08-29,27,Spain,Getafe CF,LaLiga,2007/2008,2007
+Cosmin Contra,Right-Back,1975-12-15,31,Romania,Getafe CF,LaLiga,2007/2008,2007
+Richi de Souza,Right-Back,1989-09-22,17,Spain,Getafe CF,LaLiga,2007/2008,2007
+Juanfran,Right-Back,1988-09-11,18,Spain,Getafe CF,LaLiga,2007/2008,2007
+Fabio Celestini,Defensive Midfield,1975-10-31,31,Switzerland,Getafe CF,LaLiga,2007/2008,2007
+Javier Casquero,Defensive Midfield,1976-03-11,31,Spain,Getafe CF,LaLiga,2007/2008,2007
+Manu Hervás,Defensive Midfield,1986-06-06,21,Spain,Getafe CF,LaLiga,2007/2008,2007
+Rubén de la Red,Central Midfield,1985-06-05,22,Spain,Getafe CF,LaLiga,2007/2008,2007
+Miguel Pallardó,Central Midfield,1986-09-05,20,Spain,Getafe CF,LaLiga,2007/2008,2007
+Esteban Granero,Central Midfield,1987-07-02,19,Spain,Getafe CF,LaLiga,2007/2008,2007
+Mario Cotelo,Right Midfield,1975-02-10,32,Spain,Getafe CF,LaLiga,2007/2008,2007
+Pablo Redondo,Attacking Midfield,1982-04-17,25,Spain,Getafe CF,LaLiga,2007/2008,2007
+David Sousa,Attacking Midfield,1980-02-03,27,Spain,Getafe CF,LaLiga,2007/2008,2007
+Juan Ángel Albín,Attacking Midfield,1986-07-17,20,Uruguay,Getafe CF,LaLiga,2007/2008,2007
+Jaime Gavilán,Left Winger,1985-05-12,22,Spain,Getafe CF,LaLiga,2007/2008,2007
+Pablo Hernández,Right Winger,1985-04-11,22,Spain,Getafe CF,LaLiga,2007/2008,2007
+Kepa Blanco,Centre-Forward,1984-01-13,23,Spain,Getafe CF,LaLiga,2007/2008,2007
+Ikechukwu Uche,Centre-Forward,1984-01-05,23,Nigeria,Getafe CF,LaLiga,2007/2008,2007
+Manu del Moral,Centre-Forward,1984-02-25,23,Spain,Getafe CF,LaLiga,2007/2008,2007
+Braulio Nóbrega,Centre-Forward,1985-09-18,21,Spain,Getafe CF,LaLiga,2007/2008,2007
+Toño,Goalkeeper,1979-12-17,27,Spain,Racing Santander,LaLiga,2007/2008,2007
+Fabio Coltorti,Goalkeeper,1980-12-03,26,Switzerland,Racing Santander,LaLiga,2007/2008,2007
+Juan Calatayud,Goalkeeper,1979-12-21,27,Spain,Racing Santander,LaLiga,2007/2008,2007
+Mario Fernández,Goalkeeper,1988-04-30,19,Spain,Racing Santander,LaLiga,2007/2008,2007
+Ángel Díez,Goalkeeper,1991-01-09,16,Spain,Racing Santander,LaLiga,2007/2008,2007
+Ezequiel Garay,Centre-Back,1986-10-10,20,Argentina,Racing Santander,LaLiga,2007/2008,2007
+Oriol Lozano,Centre-Back,1981-05-23,26,Spain,Racing Santander,LaLiga,2007/2008,2007
+César Navas,Centre-Back,1980-02-14,27,Spain,Racing Santander,LaLiga,2007/2008,2007
+José Moratón,Centre-Back,1979-07-14,27,Spain,Racing Santander,LaLiga,2007/2008,2007
+Sergio Sánchez,Centre-Back,1986-04-03,21,Spain,Racing Santander,LaLiga,2007/2008,2007
+Samuel San José,Centre-Back,1984-03-01,23,Spain,Racing Santander,LaLiga,2007/2008,2007
+Christian Fernández,Centre-Back,1985-10-15,21,Spain,Racing Santander,LaLiga,2007/2008,2007
+Iván Marcano,Centre-Back,1987-06-23,20,Spain,Racing Santander,LaLiga,2007/2008,2007
+Luis Fernández,Left-Back,1972-09-29,34,Spain,Racing Santander,LaLiga,2007/2008,2007
+Ayoze Díaz,Left-Back,1982-05-25,25,Spain,Racing Santander,LaLiga,2007/2008,2007
+Pablo Pinillos,Right-Back,1974-07-09,32,Spain,Racing Santander,LaLiga,2007/2008,2007
+Aldo Duscher,Defensive Midfield,1979-03-22,28,Argentina,Racing Santander,LaLiga,2007/2008,2007
+Gonzalo Colsa,Defensive Midfield,1979-04-02,28,Spain,Racing Santander,LaLiga,2007/2008,2007
+Sergio Ortemán,Defensive Midfield,1978-09-29,28,Uruguay,Racing Santander,LaLiga,2007/2008,2007
+Jordi López,Central Midfield,1981-02-28,26,Spain,Racing Santander,LaLiga,2007/2008,2007
+Cristian Portilla,Central Midfield,1988-08-28,18,Spain,Racing Santander,LaLiga,2007/2008,2007
+Daniel Szetela,Central Midfield,1987-06-17,20,United States,Racing Santander,LaLiga,2007/2008,2007
+Óscar Serrano,Left Midfield,1981-09-30,25,Spain,Racing Santander,LaLiga,2007/2008,2007
+Jonathan Valle,Attacking Midfield,1984-12-30,22,Spain,Racing Santander,LaLiga,2007/2008,2007
+Brian Sarmiento,Attacking Midfield,1990-04-22,17,Argentina,Racing Santander,LaLiga,2007/2008,2007
+Damián Ísmodes,Attacking Midfield,1989-03-10,18,Peru,Racing Santander,LaLiga,2007/2008,2007
+Luisma Villa,Attacking Midfield,1989-08-11,17,Spain,Racing Santander,LaLiga,2007/2008,2007
+Jorge López,Right Winger,1978-09-19,28,Spain,Racing Santander,LaLiga,2007/2008,2007
+Pablo Álvarez,Right Winger,1980-05-14,27,Spain,Racing Santander,LaLiga,2007/2008,2007
+Pedro Munitis,Second Striker,1975-06-19,32,Spain,Racing Santander,LaLiga,2007/2008,2007
+Mémé Tchité,Centre-Forward,1984-01-31,23,Burundi,Racing Santander,LaLiga,2007/2008,2007
+Ebi Smolarek,Centre-Forward,1981-01-09,26,Poland,Racing Santander,LaLiga,2007/2008,2007
+Iván Bolado,Centre-Forward,1989-07-03,17,Equatorial Guinea,Racing Santander,LaLiga,2007/2008,2007
+Miguel Ángel Moyà,Goalkeeper,1984-04-02,23,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Germán Lux,Goalkeeper,1982-07-06,24,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+Ioné Puga,Goalkeeper,1987-08-07,19,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+David Navarro,Centre-Back,1980-05-25,27,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Iván Ramis,Centre-Back,1984-10-25,22,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+José Nunes,Centre-Back,1977-03-07,30,Portugal,RCD Mallorca,LaLiga,2007/2008,2007
+Sergio Ballesteros,Centre-Back,1975-09-04,31,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Antonio del Castillo,Centre-Back,1987-01-11,20,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Fernando Navarro,Left-Back,1982-06-25,25,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Javier Dorado,Left-Back,1977-02-17,30,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Héctor Berenguel,Right-Back,1974-10-11,32,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Lionel Scaloni,Right-Back,1978-05-16,29,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+Fernando Varela,Right-Back,1979-09-01,27,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Francisco Molinero,Right-Back,1985-07-26,21,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Emilio Nsue,Right-Back,1989-09-30,17,Equatorial Guinea,RCD Mallorca,LaLiga,2007/2008,2007
+Angelos Basinas,Defensive Midfield,1976-01-03,31,Greece,RCD Mallorca,LaLiga,2007/2008,2007
+Javi Castellano,Defensive Midfield,1987-11-02,19,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Guillermo Pereyra,Central Midfield,1980-02-20,27,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+Jonás Gutiérrez,Central Midfield,1983-07-05,23,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+Borja Valero,Central Midfield,1985-01-12,22,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Juan Arango,Left Midfield,1980-05-17,27,Venezuela,RCD Mallorca,LaLiga,2007/2008,2007
+Ariel Ibagaza,Attacking Midfield,1976-10-27,30,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+Óscar Trejo,Attacking Midfield,1988-04-26,19,Argentina,RCD Mallorca,LaLiga,2007/2008,2007
+Chory Castro,Left Winger,1984-09-14,22,Uruguay,RCD Mallorca,LaLiga,2007/2008,2007
+Tuni,Right Winger,1982-06-14,25,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Alberto López,Right Winger,1988-03-09,19,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Pierre Webó,Centre-Forward,1982-01-20,25,Cameroon,RCD Mallorca,LaLiga,2007/2008,2007
+Dani Güiza,Centre-Forward,1980-08-17,26,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Víctor Casadesús,Centre-Forward,1985-02-28,22,Spain,RCD Mallorca,LaLiga,2007/2008,2007
+Stefano Sorrentino,Goalkeeper,1979-03-28,28,Italy,Recreativo Huelva,LaLiga,2007/2008,2007
+Mariano Barbosa,Goalkeeper,1984-07-27,22,Argentina,Recreativo Huelva,LaLiga,2007/2008,2007
+José Antonio Luque,Goalkeeper,1974-02-16,33,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Beto,Centre-Back,1976-05-03,31,Portugal,Recreativo Huelva,LaLiga,2007/2008,2007
+Quique Álvarez,Centre-Back,1975-07-20,31,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Iago Bouzón,Centre-Back,1983-06-16,24,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Martín Cáceres,Centre-Back,1987-04-07,20,Uruguay,Recreativo Huelva,LaLiga,2007/2008,2007
+Daniel Bautista,Left-Back,1981-02-25,26,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Aitor Tornavaca,Left-Back,1976-03-24,31,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Poli,Left-Back,1977-03-20,30,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Edu Moya,Right-Back,1981-01-03,26,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+José Calvo,Right-Back,1981-07-15,25,Argentina,Recreativo Huelva,LaLiga,2007/2008,2007
+Pablo Oliveira,Right-Back,1987-03-08,20,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Pablo Bernal,Midfielder,1989-11-30,17,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+José Ignacio Zahinos,Defensive Midfield,1977-12-01,29,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Gerard López,Central Midfield,1979-03-12,28,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Rafa Barber,Central Midfield,1980-10-02,26,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Carlos Martins,Attacking Midfield,1982-04-29,25,Portugal,Recreativo Huelva,LaLiga,2007/2008,2007
+Jesús Vázquez,Attacking Midfield,1980-01-18,27,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Marquitos,Attacking Midfield,1987-03-21,20,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Joselito,Attacking Midfield,1985-01-23,22,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Laurentiu Rosu,Forward,1975-10-26,31,Romania,Recreativo Huelva,LaLiga,2007/2008,2007
+Silvestre Varela,Left Winger,1985-02-02,22,Portugal,Recreativo Huelva,LaLiga,2007/2008,2007
+Javier Camuñas,Right Winger,1980-07-17,26,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Florent Sinama-Pongolle,Second Striker,1984-10-20,22,France,Recreativo Huelva,LaLiga,2007/2008,2007
+Ersen Martin,Centre-Forward,1979-05-23,28,Turkey,Recreativo Huelva,LaLiga,2007/2008,2007
+Javi Guerrero,Centre-Forward,1976-10-22,30,Spain,Recreativo Huelva,LaLiga,2007/2008,2007
+Edwin Congo,Centre-Forward,1976-10-07,30,Colombia,Recreativo Huelva,LaLiga,2007/2008,2007
+Marco Ruben,Centre-Forward,1986-10-26,20,Argentina,Recreativo Huelva,LaLiga,2007/2008,2007
+Pablo Cavallero,Goalkeeper,1974-04-13,33,Argentina,Levante UD,LaLiga,2007/2008,2007
+Marco Storari,Goalkeeper,1977-01-07,30,Italy,Levante UD,LaLiga,2007/2008,2007
+Vladan Kujovic,Goalkeeper,1978-08-23,28,Serbia,Levante UD,LaLiga,2007/2008,2007
+Juan Tejera,Goalkeeper,1988-03-08,19,Spain,Levante UD,LaLiga,2007/2008,2007
+Manolo Reina,Goalkeeper,1985-04-01,22,Spain,Levante UD,LaLiga,2007/2008,2007
+Álvaro,Centre-Back,1977-11-01,29,Brazil,Levante UD,LaLiga,2007/2008,2007
+Bruno Cirillo,Centre-Back,1977-03-21,30,Italy,Levante UD,LaLiga,2007/2008,2007
+José Serrano,Centre-Back,1981-03-17,26,Spain,Levante UD,LaLiga,2007/2008,2007
+Miquel Robusté,Centre-Back,1985-05-20,22,Spain,Levante UD,LaLiga,2007/2008,2007
+Armando Lozano,Centre-Back,1984-12-16,22,Spain,Levante UD,LaLiga,2007/2008,2007
+Héctor Rodas,Centre-Back,1988-03-07,19,Spain,Levante UD,LaLiga,2007/2008,2007
+David Castedo,Left-Back,1974-01-26,33,Spain,Levante UD,LaLiga,2007/2008,2007
+Luis Rubiales,Left-Back,1977-08-23,29,Spain,Levante UD,LaLiga,2007/2008,2007
+Pepe Plá,Left-Back,1987-01-25,20,Spain,Levante UD,LaLiga,2007/2008,2007
+Miguel Ángel Riau,Left-Back,1989-01-27,18,Spain,Levante UD,LaLiga,2007/2008,2007
+Iñaki Descarga,Right-Back,1976-08-25,30,Spain,Levante UD,LaLiga,2007/2008,2007
+Manolo Gaspar,Right-Back,1981-02-03,26,Spain,Levante UD,LaLiga,2007/2008,2007
+Mathieu Berson,Defensive Midfield,1980-02-23,27,France,Levante UD,LaLiga,2007/2008,2007
+Miguel Ángel,Defensive Midfield,1978-09-16,28,Spain,Levante UD,LaLiga,2007/2008,2007
+Damiano Tommasi,Defensive Midfield,1974-05-17,33,Italy,Levante UD,LaLiga,2007/2008,2007
+Javi Fuego,Defensive Midfield,1984-01-04,23,Spain,Levante UD,LaLiga,2007/2008,2007
+Vicente Iborra,Defensive Midfield,1988-01-16,19,Spain,Levante UD,LaLiga,2007/2008,2007
+Emilio José Viqueira,Central Midfield,1974-09-20,32,Spain,Levante UD,LaLiga,2007/2008,2007
+Félix Ettien,Right Midfield,1979-09-26,27,Cote d'Ivoire,Levante UD,LaLiga,2007/2008,2007
+Laurent Courtois,Left Midfield,1978-09-11,28,France,Levante UD,LaLiga,2007/2008,2007
+Saúl,Attacking Midfield,1985-04-09,22,Spain,Levante UD,LaLiga,2007/2008,2007
+Laurent Robert,Left Winger,1975-05-21,32,France,Levante UD,LaLiga,2007/2008,2007
+Sávio,Left Winger,1974-01-09,33,Brazil,Levante UD,LaLiga,2007/2008,2007
+Aarón Bueno,Left Winger,1983-08-21,23,Spain,Levante UD,LaLiga,2007/2008,2007
+Riga Mustapha,Right Winger,1981-10-10,25,Netherlands,Levante UD,LaLiga,2007/2008,2007
+Juanma,Right Winger,1981-05-29,26,Spain,Levante UD,LaLiga,2007/2008,2007
+Pedro León,Right Winger,1986-11-24,20,Spain,Levante UD,LaLiga,2007/2008,2007
+Shota Arveladze,Centre-Forward,1973-02-22,34,Georgia,Levante UD,LaLiga,2007/2008,2007
+Meyong,Centre-Forward,1980-10-19,26,Cameroon,Levante UD,LaLiga,2007/2008,2007
+Christian Riganó,Centre-Forward,1974-05-25,33,Italy,Levante UD,LaLiga,2007/2008,2007
+Álex Geijo,Centre-Forward,1982-03-11,25,Spain,Levante UD,LaLiga,2007/2008,2007
+Nacho Verdés,Centre-Forward,1989-09-30,17,Spain,Levante UD,LaLiga,2007/2008,2007
+Antonio Notario,Goalkeeper,1972-11-19,34,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Fabián Carini,Goalkeeper,1979-12-26,27,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+Alberto García,Goalkeeper,1985-02-09,22,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Álvaro Mejía,Centre-Back,1982-01-18,25,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+César Arzo,Centre-Back,1986-01-21,21,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Juan Ochoa,Centre-Back,1979-03-04,28,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Ibán Cuadrado,Centre-Back,1979-02-21,28,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Paco Peña,Left-Back,1978-07-25,28,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Alejandro Marañón,Left-Back,1980-05-15,27,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Curro Torres,Right-Back,1976-12-27,30,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Stéphane Pignol,Right-Back,1977-01-03,30,France,Real Murcia CF,LaLiga,2007/2008,2007
+David de Coz,Right-Back,1980-02-06,27,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Juan Pedro Pina,Right-Back,1985-06-29,22,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Pablo García,Defensive Midfield,1977-05-11,30,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+José María Movilla,Defensive Midfield,1975-02-08,32,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Abderrahman Kabous,Defensive Midfield,1983-04-24,24,Morocco,Real Murcia CF,LaLiga,2007/2008,2007
+Rosinei,Defensive Midfield,1983-05-03,24,Brazil,Real Murcia CF,LaLiga,2007/2008,2007
+Bruno Herrero,Central Midfield,1985-02-13,22,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Abel Gómez,Central Midfield,1982-02-20,25,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Paco Gallardo,Right Midfield,1980-01-13,27,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Enrique de Lucas,Attacking Midfield,1978-08-17,28,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Mario Regueiro,Left Winger,1978-09-09,28,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+Jofre,Left Winger,1980-01-24,27,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Fernando Baiano,Centre-Forward,1979-03-18,28,Brazil,Real Murcia CF,LaLiga,2007/2008,2007
+Henok Goitom,Centre-Forward,1984-09-22,22,Eritrea,Real Murcia CF,LaLiga,2007/2008,2007
+Richi,Centre-Forward,1977-04-14,30,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Iván Alonso,Centre-Forward,1979-04-10,28,Uruguay,Real Murcia CF,LaLiga,2007/2008,2007
+Iñigo Vélez,Centre-Forward,1982-03-15,25,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+Dani Aquino,Centre-Forward,1990-07-27,16,Spain,Real Murcia CF,LaLiga,2007/2008,2007
+David Cobeño,Goalkeeper,1982-04-06,25,Spain,UD Almería,LaLiga,2007/2008,2007
+Diego Alves,Goalkeeper,1985-06-24,22,Brazil,UD Almería,LaLiga,2007/2008,2007
+Aitor Alcalde,Goalkeeper,1985-05-22,22,Spain,UD Almería,LaLiga,2007/2008,2007
+Rubén Pulido,Centre-Back,1979-02-02,28,Spain,UD Almería,LaLiga,2007/2008,2007
+Santiago Acasiete,Centre-Back,1977-11-22,29,Peru,UD Almería,LaLiga,2007/2008,2007
+Carlos García,Centre-Back,1984-04-29,23,Spain,UD Almería,LaLiga,2007/2008,2007
+Guilherme Santos,Left-Back,1988-02-05,19,Brazil,UD Almería,LaLiga,2007/2008,2007
+Domingo Cisma,Left-Back,1982-02-09,25,Spain,UD Almería,LaLiga,2007/2008,2007
+Mané,Left-Back,1981-12-21,25,Spain,UD Almería,LaLiga,2007/2008,2007
+Aitor López Rekarte,Right-Back,1975-08-18,31,Spain,UD Almería,LaLiga,2007/2008,2007
+Juanma Ortiz,Right-Back,1982-03-01,25,Spain,UD Almería,LaLiga,2007/2008,2007
+Bruno,Right-Back,1980-10-01,26,Spain,UD Almería,LaLiga,2007/2008,2007
+Juanito,Defensive Midfield,1980-02-17,27,Spain,UD Almería,LaLiga,2007/2008,2007
+Felipe Melo,Defensive Midfield,1983-06-26,24,Brazil,UD Almería,LaLiga,2007/2008,2007
+Corona,Central Midfield,1981-02-12,26,Spain,UD Almería,LaLiga,2007/2008,2007
+Iriney,Central Midfield,1981-04-23,26,Brazil,UD Almería,LaLiga,2007/2008,2007
+Julio dos Santos,Central Midfield,1983-05-07,24,Paraguay,UD Almería,LaLiga,2007/2008,2007
+José Luis Cabrera,Central Midfield,1982-05-10,25,Spain,UD Almería,LaLiga,2007/2008,2007
+Fernando Soriano,Attacking Midfield,1979-09-24,27,Spain,UD Almería,LaLiga,2007/2008,2007
+Mathías Vidangossy,Attacking Midfield,1987-05-25,20,Chile,UD Almería,LaLiga,2007/2008,2007
+Albert Crusat,Left Winger,1982-05-13,25,Spain,UD Almería,LaLiga,2007/2008,2007
+Natalio,Right Winger,1984-09-18,22,Spain,UD Almería,LaLiga,2007/2008,2007
+José Ortiz,Right Winger,1977-08-04,29,Spain,UD Almería,LaLiga,2007/2008,2007
+Kalu Uche,Centre-Forward,1982-11-15,24,Nigeria,UD Almería,LaLiga,2007/2008,2007
+Veljko Paunovic,Centre-Forward,1977-08-21,29,Serbia,UD Almería,LaLiga,2007/2008,2007
+Álvaro Negredo,Centre-Forward,1985-08-20,21,Spain,UD Almería,LaLiga,2007/2008,2007
+Ludovic Butelle,Goalkeeper,1983-04-03,24,France,Real Valladolid CF,LaLiga,2007/2008,2007
+Alberto López,Goalkeeper,1969-05-20,38,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Sergio Asenjo,Goalkeeper,1989-06-28,18,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+García Calvo,Centre-Back,1975-04-01,32,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Alexis,Centre-Back,1974-03-08,33,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Rafa López,Centre-Back,1985-04-09,22,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Iñaki Bea,Centre-Back,1978-06-27,29,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Jesús Rueda,Centre-Back,1987-02-19,20,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Alberto Marcos,Left-Back,1974-02-15,33,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Daniel Cifuentes,Right-Back,1980-07-13,26,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Pedro López,Right-Back,1983-11-01,23,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Óscar Sánchez,Right-Back,1979-12-19,27,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Kike López,Right-Back,1988-01-12,19,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Asier Arranz,Right-Back,1987-03-28,20,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Borja Fernández,Defensive Midfield,1981-01-14,26,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Álvaro Rubio,Defensive Midfield,1979-04-18,28,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Diego Camacho,Defensive Midfield,1976-10-03,30,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Javier Baraja,Defensive Midfield,1980-08-24,26,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Fabián Estoyanoff,Right Midfield,1982-09-27,24,Uruguay,Real Valladolid CF,LaLiga,2007/2008,2007
+Marcos Aguirre,Right Midfield,1984-03-30,23,Argentina,Real Valladolid CF,LaLiga,2007/2008,2007
+Ángel Vivar Dorado,Attacking Midfield,1974-02-12,33,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Álvaro Antón,Attacking Midfield,1983-12-28,23,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Sisinio,Attacking Midfield,1986-04-22,21,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Jonathan Sesma,Left Winger,1978-11-14,28,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+José Luis Capdevila,Left Winger,1981-02-12,26,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Daniel Komé,Right Winger,1980-05-19,27,Cameroon,Real Valladolid CF,LaLiga,2007/2008,2007
+Vladimir Manchev,Centre-Forward,1977-10-06,29,Bulgaria,Real Valladolid CF,LaLiga,2007/2008,2007
+Bartholomew Ogbeche,Centre-Forward,1984-10-01,22,Nigeria,Real Valladolid CF,LaLiga,2007/2008,2007
+Joseba Llorente,Centre-Forward,1979-11-24,27,Spain,Real Valladolid CF,LaLiga,2007/2008,2007
+Víctor,Centre-Forward,1974-04-17,33,Spain,Real Valladolid CF,LaLiga,2007/2008,2007

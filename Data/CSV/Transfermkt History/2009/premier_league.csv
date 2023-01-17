@@ -1,0 +1,754 @@
+player_name,position,date_of_birth,age,nationality,club_name,league_name,season,year
+Petr Cech,Goalkeeper,1982-05-20,27,Czech Republic,Chelsea FC,Premier League,2009/2010,2009
+Ross Turnbull,Goalkeeper,1985-01-04,24,England,Chelsea FC,Premier League,2009/2010,2009
+Henrique Hilário,Goalkeeper,1975-10-21,33,Portugal,Chelsea FC,Premier League,2009/2010,2009
+Rhys Taylor,Goalkeeper,1990-04-07,19,Wales,Chelsea FC,Premier League,2009/2010,2009
+Jan Sebek,Goalkeeper,1991-03-31,18,Czech Republic,Chelsea FC,Premier League,2009/2010,2009
+John Terry,Centre-Back,1980-12-07,28,England,Chelsea FC,Premier League,2009/2010,2009
+Ricardo Carvalho,Centre-Back,1978-05-18,31,Portugal,Chelsea FC,Premier League,2009/2010,2009
+Alex,Centre-Back,1982-06-17,27,Brazil,Chelsea FC,Premier League,2009/2010,2009
+Branislav Ivanovic,Centre-Back,1984-02-22,25,Serbia,Chelsea FC,Premier League,2009/2010,2009
+Michael Mancienne,Centre-Back,1988-01-08,21,England,Chelsea FC,Premier League,2009/2010,2009
+Jeffrey Bruma,Centre-Back,1991-11-13,17,Netherlands,Chelsea FC,Premier League,2009/2010,2009
+Ashley Cole,Left-Back,1980-12-20,28,England,Chelsea FC,Premier League,2009/2010,2009
+Patrick van Aanholt,Left-Back,1990-08-29,18,Netherlands,Chelsea FC,Premier League,2009/2010,2009
+Bosingwa,Right-Back,1982-08-24,26,Portugal,Chelsea FC,Premier League,2009/2010,2009
+Juliano Belletti,Right-Back,1976-06-20,33,Brazil,Chelsea FC,Premier League,2009/2010,2009
+Paulo Ferreira,Right-Back,1979-01-18,30,Portugal,Chelsea FC,Premier League,2009/2010,2009
+Michael Essien,Defensive Midfield,1982-12-03,26,Ghana,Chelsea FC,Premier League,2009/2010,2009
+John Mikel Obi,Defensive Midfield,1987-04-22,22,Nigeria,Chelsea FC,Premier League,2009/2010,2009
+Nemanja Matic,Defensive Midfield,1988-08-01,20,Serbia,Chelsea FC,Premier League,2009/2010,2009
+Sam Hutchinson,Defensive Midfield,1989-08-03,19,England,Chelsea FC,Premier League,2009/2010,2009
+Frank Lampard,Central Midfield,1978-06-20,31,England,Chelsea FC,Premier League,2009/2010,2009
+Michael Ballack,Central Midfield,1976-09-26,32,Germany,Chelsea FC,Premier League,2009/2010,2009
+Yuri Zhirkov,Left Midfield,1983-08-20,25,Russia,Chelsea FC,Premier League,2009/2010,2009
+Scott Sinclair,Left Midfield,1989-03-25,20,England,Chelsea FC,Premier League,2009/2010,2009
+Joe Cole,Attacking Midfield,1981-11-08,27,England,Chelsea FC,Premier League,2009/2010,2009
+Deco,Attacking Midfield,1977-08-27,31,Portugal,Chelsea FC,Premier League,2009/2010,2009
+Florent Malouda,Left Winger,1980-06-13,29,French Guiana,Chelsea FC,Premier League,2009/2010,2009
+Salomon Kalou,Left Winger,1985-08-05,23,Cote d'Ivoire,Chelsea FC,Premier League,2009/2010,2009
+Gaël Kakuta,Left Winger,1991-06-21,18,DR Congo,Chelsea FC,Premier League,2009/2010,2009
+Fabio Borini,Left Winger,1991-03-29,18,Italy,Chelsea FC,Premier League,2009/2010,2009
+Danny Philliskirk,Second Striker,1991-04-10,18,England,Chelsea FC,Premier League,2009/2010,2009
+Didier Drogba,Centre-Forward,1978-03-11,31,Cote d'Ivoire,Chelsea FC,Premier League,2009/2010,2009
+Nicolas Anelka,Centre-Forward,1979-03-14,30,France,Chelsea FC,Premier League,2009/2010,2009
+Andrii Shevchenko,Centre-Forward,1976-09-29,32,Ukraine,Chelsea FC,Premier League,2009/2010,2009
+Daniel Sturridge,Centre-Forward,1989-09-01,19,England,Chelsea FC,Premier League,2009/2010,2009
+Franco Di Santo,Centre-Forward,1989-04-07,20,Argentina,Chelsea FC,Premier League,2009/2010,2009
+Edwin van der Sar,Goalkeeper,1970-10-29,38,Netherlands,Manchester United,Premier League,2009/2010,2009
+Tomasz Kuszczak,Goalkeeper,1982-03-20,27,Poland,Manchester United,Premier League,2009/2010,2009
+Ben Foster,Goalkeeper,1983-04-03,26,England,Manchester United,Premier League,2009/2010,2009
+Ben Amos,Goalkeeper,1990-04-10,19,England,Manchester United,Premier League,2009/2010,2009
+Rio Ferdinand,Centre-Back,1978-11-07,30,England,Manchester United,Premier League,2009/2010,2009
+Nemanja Vidic‎,Centre-Back,1981-10-21,27,Serbia,Manchester United,Premier League,2009/2010,2009
+Wes Brown,Centre-Back,1979-10-13,29,England,Manchester United,Premier League,2009/2010,2009
+John O'Shea,Centre-Back,1981-04-30,28,Ireland,Manchester United,Premier League,2009/2010,2009
+Jonny Evans,Centre-Back,1988-01-03,21,Northern Ireland,Manchester United,Premier League,2009/2010,2009
+Oliver Gill,Centre-Back,1990-09-15,18,England,Manchester United,Premier League,2009/2010,2009
+Patrice Evra,Left-Back,1981-05-15,28,France,Manchester United,Premier League,2009/2010,2009
+Antonio Valencia,Right-Back,1985-08-04,23,Ecuador,Manchester United,Premier League,2009/2010,2009
+Rafael,Right-Back,1990-07-09,18,Brazil,Manchester United,Premier League,2009/2010,2009
+Gary Neville,Right-Back,1975-02-18,34,England,Manchester United,Premier League,2009/2010,2009
+Fábio,Right-Back,1990-07-09,18,Brazil,Manchester United,Premier League,2009/2010,2009
+Ritchie De Laet,Right-Back,1988-11-28,20,Belgium,Manchester United,Premier League,2009/2010,2009
+Michael Carrick,Defensive Midfield,1981-07-28,27,England,Manchester United,Premier League,2009/2010,2009
+Owen Hargreaves,Defensive Midfield,1981-01-20,28,England,Manchester United,Premier League,2009/2010,2009
+Matthew Gill,Defensive Midfield,1980-11-08,28,England,Manchester United,Premier League,2009/2010,2009
+Anderson,Central Midfield,1988-04-13,21,Brazil,Manchester United,Premier League,2009/2010,2009
+Darren Fletcher,Central Midfield,1984-02-01,25,Scotland,Manchester United,Premier League,2009/2010,2009
+Paul Scholes,Central Midfield,1974-11-16,34,England,Manchester United,Premier League,2009/2010,2009
+Darron Gibson,Central Midfield,1987-10-25,21,Ireland,Manchester United,Premier League,2009/2010,2009
+Rodrigo Possebon,Central Midfield,1989-02-13,20,Italy,Manchester United,Premier League,2009/2010,2009
+Magnus Wolff Eikrem,Central Midfield,1990-08-08,18,Norway,Manchester United,Premier League,2009/2010,2009
+Corry Evans,Central Midfield,1990-07-30,18,Northern Ireland,Manchester United,Premier League,2009/2010,2009
+Matty James,Central Midfield,1991-07-22,17,England,Manchester United,Premier League,2009/2010,2009
+Ryan Giggs,Left Midfield,1973-11-29,35,Wales,Manchester United,Premier League,2009/2010,2009
+Ji-sung Park,Attacking Midfield,1981-02-25,28,"Korea, South",Manchester United,Premier League,2009/2010,2009
+Nani,Left Winger,1986-11-17,22,Portugal,Manchester United,Premier League,2009/2010,2009
+Cameron Stewart,Left Winger,1991-04-08,18,England,Manchester United,Premier League,2009/2010,2009
+Zoran Tosic,Right Winger,1987-04-28,22,Serbia,Manchester United,Premier League,2009/2010,2009
+Gabriel Obertan,Right Winger,1989-02-26,20,France,Manchester United,Premier League,2009/2010,2009
+Joshua King,Second Striker,1992-01-15,17,Norway,Manchester United,Premier League,2009/2010,2009
+Wayne Rooney,Centre-Forward,1985-10-24,23,England,Manchester United,Premier League,2009/2010,2009
+Dimitar Berbatov,Centre-Forward,1981-01-30,28,Bulgaria,Manchester United,Premier League,2009/2010,2009
+Michael Owen,Centre-Forward,1979-12-14,29,England,Manchester United,Premier League,2009/2010,2009
+Danny Welbeck,Centre-Forward,1990-11-26,18,England,Manchester United,Premier League,2009/2010,2009
+Mame Diouf,Centre-Forward,1987-12-16,21,Senegal,Manchester United,Premier League,2009/2010,2009
+Federico Macheda,Centre-Forward,1991-08-22,17,Italy,Manchester United,Premier League,2009/2010,2009
+Pepe Reina,Goalkeeper,1982-08-31,26,Spain,Liverpool FC,Premier League,2009/2010,2009
+Diego Cavalieri,Goalkeeper,1982-12-01,26,Brazil,Liverpool FC,Premier League,2009/2010,2009
+Péter Gulácsi,Goalkeeper,1990-05-06,19,Hungary,Liverpool FC,Premier League,2009/2010,2009
+Jamie Carragher,Centre-Back,1978-01-28,31,England,Liverpool FC,Premier League,2009/2010,2009
+Martin Skrtel,Centre-Back,1984-12-15,24,Slovakia,Liverpool FC,Premier League,2009/2010,2009
+Daniel Agger,Centre-Back,1984-12-12,24,Denmark,Liverpool FC,Premier League,2009/2010,2009
+Sotiris Kyrgiakos,Centre-Back,1979-07-23,29,Greece,Liverpool FC,Premier League,2009/2010,2009
+Daniel Ayala,Centre-Back,1990-11-07,18,Spain,Liverpool FC,Premier League,2009/2010,2009
+Fábio Aurélio,Left-Back,1979-09-24,29,Brazil,Liverpool FC,Premier League,2009/2010,2009
+Emiliano Insúa,Left-Back,1989-01-07,20,Argentina,Liverpool FC,Premier League,2009/2010,2009
+Robbie Threlfall,Left-Back,1988-11-28,20,England,Liverpool FC,Premier League,2009/2010,2009
+Jack Robinson,Left-Back,1993-09-01,15,England,Liverpool FC,Premier League,2009/2010,2009
+Glen Johnson,Right-Back,1984-08-23,24,England,Liverpool FC,Premier League,2009/2010,2009
+Philipp Degen,Right-Back,1983-02-15,26,Switzerland,Liverpool FC,Premier League,2009/2010,2009
+Stephen Darby,Right-Back,1988-10-06,20,England,Liverpool FC,Premier League,2009/2010,2009
+Martin Kelly,Right-Back,1990-04-27,19,England,Liverpool FC,Premier League,2009/2010,2009
+Javier Mascherano,Defensive Midfield,1984-06-08,25,Argentina,Liverpool FC,Premier League,2009/2010,2009
+Lucas Leiva,Defensive Midfield,1987-01-09,22,Brazil,Liverpool FC,Premier League,2009/2010,2009
+Damien Plessis,Defensive Midfield,1988-03-05,21,France,Liverpool FC,Premier League,2009/2010,2009
+Jay Spearing,Defensive Midfield,1988-11-25,20,England,Liverpool FC,Premier League,2009/2010,2009
+Steven Gerrard,Central Midfield,1980-05-30,29,England,Liverpool FC,Premier League,2009/2010,2009
+Alberto Aquilani,Central Midfield,1984-07-07,24,Italy,Liverpool FC,Premier League,2009/2010,2009
+Andrea Dossena,Left Midfield,1981-09-11,27,Italy,Liverpool FC,Premier League,2009/2010,2009
+Maxi Rodríguez,Left Winger,1981-01-02,28,Argentina,Liverpool FC,Premier League,2009/2010,2009
+Albert Riera,Left Winger,1982-04-15,27,Spain,Liverpool FC,Premier League,2009/2010,2009
+Ryan Babel,Left Winger,1986-12-19,22,Netherlands,Liverpool FC,Premier League,2009/2010,2009
+Dani Pacheco,Left Winger,1991-01-05,18,Spain,Liverpool FC,Premier League,2009/2010,2009
+Dirk Kuyt,Right Winger,1980-07-22,28,Netherlands,Liverpool FC,Premier League,2009/2010,2009
+Yossi Benayoun,Right Winger,1980-05-05,29,Israel,Liverpool FC,Premier League,2009/2010,2009
+Nabil El Zhar,Right Winger,1986-08-27,22,Morocco,Liverpool FC,Premier League,2009/2010,2009
+Andrii Voronin,Second Striker,1979-07-21,29,Ukraine,Liverpool FC,Premier League,2009/2010,2009
+Fernando Torres,Centre-Forward,1984-03-20,25,Spain,Liverpool FC,Premier League,2009/2010,2009
+David N'Gog,Centre-Forward,1989-04-01,20,France,Liverpool FC,Premier League,2009/2010,2009
+Nathan Eccleston,Centre-Forward,1990-12-30,18,England,Liverpool FC,Premier League,2009/2010,2009
+Shay Given,Goalkeeper,1976-04-20,33,Ireland,Manchester City,Premier League,2009/2010,2009
+Joe Hart,Goalkeeper,1987-04-19,22,England,Manchester City,Premier League,2009/2010,2009
+Márton Fülöp,Goalkeeper,1983-05-03,26,Hungary,Manchester City,Premier League,2009/2010,2009
+Stuart Taylor,Goalkeeper,1980-11-28,28,England,Manchester City,Premier League,2009/2010,2009
+Gunnar Nielsen,Goalkeeper,1986-10-07,22,Faroe Island,Manchester City,Premier League,2009/2010,2009
+Kolo Touré,Centre-Back,1981-03-19,28,Cote d'Ivoire,Manchester City,Premier League,2009/2010,2009
+Joleon Lescott,Centre-Back,1982-08-16,26,England,Manchester City,Premier League,2009/2010,2009
+Vincent Kompany,Centre-Back,1986-04-10,23,Belgium,Manchester City,Premier League,2009/2010,2009
+Richard Dunne,Centre-Back,1979-09-21,29,Ireland,Manchester City,Premier League,2009/2010,2009
+Nedum Onuoha,Centre-Back,1986-11-12,22,England,Manchester City,Premier League,2009/2010,2009
+Dedryck Boyata,Centre-Back,1990-11-28,18,Belgium,Manchester City,Premier League,2009/2010,2009
+Wayne Bridge,Left-Back,1980-08-05,28,England,Manchester City,Premier League,2009/2010,2009
+Javier Garrido,Left-Back,1985-03-15,24,Spain,Manchester City,Premier League,2009/2010,2009
+Sylvinho,Left-Back,1974-04-12,35,Brazil,Manchester City,Premier League,2009/2010,2009
+Greg Cunningham,Left-Back,1991-01-31,18,Ireland,Manchester City,Premier League,2009/2010,2009
+Micah Richards,Right-Back,1988-06-24,21,England,Manchester City,Premier League,2009/2010,2009
+Pablo Zabaleta,Right-Back,1985-01-16,24,Argentina,Manchester City,Premier League,2009/2010,2009
+Javan Vidal,Right-Back,1989-05-10,20,England,Manchester City,Premier League,2009/2010,2009
+Kieran Trippier,Right-Back,1990-09-19,18,England,Manchester City,Premier League,2009/2010,2009
+Gareth Barry,Defensive Midfield,1981-02-23,28,England,Manchester City,Premier League,2009/2010,2009
+Patrick Vieira,Defensive Midfield,1976-06-23,33,France,Manchester City,Premier League,2009/2010,2009
+Nigel de Jong,Defensive Midfield,1984-11-30,24,Netherlands,Manchester City,Premier League,2009/2010,2009
+Michael Johnson,Defensive Midfield,1988-02-24,21,England,Manchester City,Premier League,2009/2010,2009
+Kelvin Etuhu,Defensive Midfield,1988-05-30,21,Nigeria,Manchester City,Premier League,2009/2010,2009
+Andrew Tutte,Central Midfield,1990-09-21,18,England,Manchester City,Premier League,2009/2010,2009
+Scott Kay,Central Midfield,1989-09-18,19,England,Manchester City,Premier League,2009/2010,2009
+Abdisalam Ibrahim,Central Midfield,1991-05-04,18,Norway,Manchester City,Premier League,2009/2010,2009
+Stephen Ireland,Attacking Midfield,1986-08-22,22,Ireland,Manchester City,Premier League,2009/2010,2009
+Martin Petrov,Left Winger,1979-01-15,30,Bulgaria,Manchester City,Premier League,2009/2010,2009
+Craig Bellamy,Left Winger,1979-07-13,29,Wales,Manchester City,Premier League,2009/2010,2009
+Vladimir Weiss,Left Winger,1989-11-30,19,Slovakia,Manchester City,Premier League,2009/2010,2009
+Shaun Wright-Phillips,Right Winger,1981-10-25,27,England,Manchester City,Premier League,2009/2010,2009
+Adam Johnson,Right Winger,1987-07-14,21,England,Manchester City,Premier League,2009/2010,2009
+Robinho,Second Striker,1984-01-25,25,Brazil,Manchester City,Premier League,2009/2010,2009
+Carlos Tévez,Second Striker,1984-02-05,25,Argentina,Manchester City,Premier League,2009/2010,2009
+Emmanuel Adebayor,Centre-Forward,1984-02-26,25,Togo,Manchester City,Premier League,2009/2010,2009
+Roque Santa Cruz,Centre-Forward,1981-08-16,27,Paraguay,Manchester City,Premier League,2009/2010,2009
+Benjani,Centre-Forward,1978-08-13,30,Zimbabwe,Manchester City,Premier League,2009/2010,2009
+David Ball,Centre-Forward,1989-12-14,19,England,Manchester City,Premier League,2009/2010,2009
+Alex Nimely,Centre-Forward,1991-05-11,18,England,Manchester City,Premier League,2009/2010,2009
+Manuel Almunia,Goalkeeper,1977-05-19,32,Spain,Arsenal FC,Premier League,2009/2010,2009
+Lukasz Fabianski,Goalkeeper,1985-04-18,24,Poland,Arsenal FC,Premier League,2009/2010,2009
+Vito Mannone,Goalkeeper,1988-03-02,21,Italy,Arsenal FC,Premier League,2009/2010,2009
+Wojciech Szczesny,Goalkeeper,1990-04-18,19,Poland,Arsenal FC,Premier League,2009/2010,2009
+James Shea,Goalkeeper,1991-06-16,18,England,Arsenal FC,Premier League,2009/2010,2009
+William Gallas,Centre-Back,1977-08-17,31,France,Arsenal FC,Premier League,2009/2010,2009
+Thomas Vermaelen,Centre-Back,1985-11-14,23,Belgium,Arsenal FC,Premier League,2009/2010,2009
+Philippe Senderos,Centre-Back,1985-02-14,24,Switzerland,Arsenal FC,Premier League,2009/2010,2009
+Johan Djourou,Centre-Back,1987-01-18,22,Switzerland,Arsenal FC,Premier League,2009/2010,2009
+Sol Campbell,Centre-Back,1974-09-18,34,England,Arsenal FC,Premier League,2009/2010,2009
+Mikaël Silvestre,Centre-Back,1977-08-09,31,France,Arsenal FC,Premier League,2009/2010,2009
+Kyle Bartley,Centre-Back,1991-05-22,18,England,Arsenal FC,Premier League,2009/2010,2009
+Thomas Cruise,Centre-Back,1991-03-09,18,England,Arsenal FC,Premier League,2009/2010,2009
+Gaël Clichy,Left-Back,1985-07-26,23,France,Arsenal FC,Premier League,2009/2010,2009
+Kieran Gibbs,Left-Back,1989-09-26,19,England,Arsenal FC,Premier League,2009/2010,2009
+Armand Traoré,Left-Back,1989-10-08,19,Senegal,Arsenal FC,Premier League,2009/2010,2009
+Bacary Sagna,Right-Back,1983-02-14,26,France,Arsenal FC,Premier League,2009/2010,2009
+Emmanuel Eboué,Right-Back,1983-06-04,26,Cote d'Ivoire,Arsenal FC,Premier League,2009/2010,2009
+Kerrea Gilbert,Right-Back,1987-02-28,22,England,Arsenal FC,Premier League,2009/2010,2009
+Luke Ayling,Right-Back,1991-08-25,17,England,Arsenal FC,Premier League,2009/2010,2009
+Denílson,Defensive Midfield,1988-02-16,21,Brazil,Arsenal FC,Premier League,2009/2010,2009
+Alex Song,Defensive Midfield,1987-09-09,21,Cameroon,Arsenal FC,Premier League,2009/2010,2009
+Craig Eastmond,Defensive Midfield,1990-12-09,18,England,Arsenal FC,Premier League,2009/2010,2009
+Emmanuel Frimpong,Defensive Midfield,1992-01-10,17,Ghana,Arsenal FC,Premier League,2009/2010,2009
+Francis Coquelin,Defensive Midfield,1991-05-13,18,France,Arsenal FC,Premier League,2009/2010,2009
+Cesc Fàbregas,Central Midfield,1987-05-04,22,Spain,Arsenal FC,Premier League,2009/2010,2009
+Abou Diaby,Central Midfield,1986-05-11,23,France,Arsenal FC,Premier League,2009/2010,2009
+Aaron Ramsey,Central Midfield,1990-12-26,18,Wales,Arsenal FC,Premier League,2009/2010,2009
+Jack Wilshere,Central Midfield,1992-01-01,17,England,Arsenal FC,Premier League,2009/2010,2009
+Fran Mérida,Central Midfield,1990-03-04,19,Spain,Arsenal FC,Premier League,2009/2010,2009
+Mark Randall,Central Midfield,1989-09-28,19,England,Arsenal FC,Premier League,2009/2010,2009
+Henri Lansbury,Central Midfield,1990-10-12,18,England,Arsenal FC,Premier League,2009/2010,2009
+Conor Henderson,Central Midfield,1991-09-08,17,Ireland,Arsenal FC,Premier League,2009/2010,2009
+Samir Nasri,Attacking Midfield,1987-06-26,22,France,Arsenal FC,Premier League,2009/2010,2009
+Tomas Rosicky,Attacking Midfield,1980-10-04,28,Czech Republic,Arsenal FC,Premier League,2009/2010,2009
+Nacer Barazite,Attacking Midfield,1990-05-27,19,Netherlands,Arsenal FC,Premier League,2009/2010,2009
+Sanchez Watt,Left Winger,1991-02-14,18,England,Arsenal FC,Premier League,2009/2010,2009
+Theo Walcott,Right Winger,1989-03-16,20,England,Arsenal FC,Premier League,2009/2010,2009
+Carlos Vela,Right Winger,1989-03-01,20,Mexico,Arsenal FC,Premier League,2009/2010,2009
+Andrey Arshavin,Second Striker,1981-05-29,28,Russia,Arsenal FC,Premier League,2009/2010,2009
+Robin van Persie,Centre-Forward,1983-08-06,25,Netherlands,Arsenal FC,Premier League,2009/2010,2009
+Eduardo,Centre-Forward,1983-02-25,26,Croatia,Arsenal FC,Premier League,2009/2010,2009
+Nicklas Bendtner,Centre-Forward,1988-01-16,21,Denmark,Arsenal FC,Premier League,2009/2010,2009
+Jay Emmanuel-Thomas,Centre-Forward,1990-12-27,18,England,Arsenal FC,Premier League,2009/2010,2009
+Gilles Sunu,Centre-Forward,1991-03-30,18,Togo,Arsenal FC,Premier League,2009/2010,2009
+Heurelho Gomes,Goalkeeper,1981-02-15,28,Brazil,Tottenham Hotspur,Premier League,2009/2010,2009
+Carlo Cudicini,Goalkeeper,1973-09-06,35,Italy,Tottenham Hotspur,Premier League,2009/2010,2009
+Ben Alnwick,Goalkeeper,1987-01-01,22,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Jimmy Walker,Goalkeeper,1973-07-09,35,England,Tottenham Hotspur,Premier League,2009/2010,2009
+David Button,Goalkeeper,1989-02-27,20,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Vedran Corluka,Centre-Back,1986-02-05,23,Croatia,Tottenham Hotspur,Premier League,2009/2010,2009
+Jonathan Woodgate,Centre-Back,1980-01-22,29,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Ledley King,Centre-Back,1980-10-12,28,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Michael Dawson,Centre-Back,1983-11-18,25,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Younès Kaboul,Centre-Back,1986-01-04,23,France,Tottenham Hotspur,Premier League,2009/2010,2009
+Sébastien Bassong,Centre-Back,1986-07-09,22,Cameroon,Tottenham Hotspur,Premier League,2009/2010,2009
+Dorian Dervite,Centre-Back,1988-07-25,20,France,Tottenham Hotspur,Premier League,2009/2010,2009
+Benoît Assou-Ekotto,Left-Back,1984-03-24,25,Cameroon,Tottenham Hotspur,Premier League,2009/2010,2009
+Danny Rose,Left-Back,1990-07-02,18,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Alan Hutton,Right-Back,1984-11-30,24,Scotland,Tottenham Hotspur,Premier League,2009/2010,2009
+Pascal Chimbonda,Right-Back,1979-02-21,30,Guadeloupe,Tottenham Hotspur,Premier League,2009/2010,2009
+Kyle Naughton,Right-Back,1988-11-11,20,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Kyle Walker,Right-Back,1990-05-28,19,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Ryan Fredericks,Right-Back,1992-10-10,16,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Wilson Palacios,Defensive Midfield,1984-07-29,24,Honduras,Tottenham Hotspur,Premier League,2009/2010,2009
+Tom Huddlestone,Defensive Midfield,1986-12-28,22,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Jake Livermore,Defensive Midfield,1989-11-14,19,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Luka Modric,Central Midfield,1985-09-09,23,Croatia,Tottenham Hotspur,Premier League,2009/2010,2009
+Jermaine Jenas,Central Midfield,1983-02-18,26,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Jamie O'Hara,Central Midfield,1986-09-25,22,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Dean Parrett,Central Midfield,1991-11-16,17,England,Tottenham Hotspur,Premier League,2009/2010,2009
+David Bentley,Right Midfield,1984-08-27,24,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Niko Kranjcar,Attacking Midfield,1984-08-13,24,Croatia,Tottenham Hotspur,Premier League,2009/2010,2009
+Adel Taarabt,Attacking Midfield,1989-05-24,20,Morocco,Tottenham Hotspur,Premier League,2009/2010,2009
+Paul-José Mpoku,Left Winger,1992-04-19,17,DR Congo,Tottenham Hotspur,Premier League,2009/2010,2009
+Aaron Lennon,Right Winger,1987-04-16,22,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Gareth Bale,Right Winger,1989-07-16,19,Wales,Tottenham Hotspur,Premier League,2009/2010,2009
+Andros Townsend,Right Winger,1991-07-16,17,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Giovani dos Santos,Second Striker,1989-05-11,20,Mexico,Tottenham Hotspur,Premier League,2009/2010,2009
+Robbie Keane,Centre-Forward,1980-07-08,28,Ireland,Tottenham Hotspur,Premier League,2009/2010,2009
+Jermain Defoe,Centre-Forward,1982-10-07,26,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Roman Pavlyuchenko,Centre-Forward,1981-12-15,27,Russia,Tottenham Hotspur,Premier League,2009/2010,2009
+Peter Crouch,Centre-Forward,1981-01-30,28,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Eidur Gudjohnsen,Centre-Forward,1978-09-15,30,Iceland,Tottenham Hotspur,Premier League,2009/2010,2009
+Kevin-Prince Boateng,Centre-Forward,1987-03-06,22,Ghana,Tottenham Hotspur,Premier League,2009/2010,2009
+Harry Kane,Centre-Forward,1993-07-28,15,England,Tottenham Hotspur,Premier League,2009/2010,2009
+Tim Howard,Goalkeeper,1979-03-06,30,United States,Everton FC,Premier League,2009/2010,2009
+Iain Turner,Goalkeeper,1984-01-26,25,Scotland,Everton FC,Premier League,2009/2010,2009
+John Ruddy,Goalkeeper,1986-10-24,22,England,Everton FC,Premier League,2009/2010,2009
+Carlo Nash,Goalkeeper,1973-09-13,35,England,Everton FC,Premier League,2009/2010,2009
+Joleon Lescott,Centre-Back,1982-08-16,26,England,Everton FC,Premier League,2009/2010,2009
+Phil Jagielka,Centre-Back,1982-08-17,26,England,Everton FC,Premier League,2009/2010,2009
+Joseph Yobo,Centre-Back,1980-09-06,28,Nigeria,Everton FC,Premier League,2009/2010,2009
+Sylvain Distin,Centre-Back,1977-12-16,31,France,Everton FC,Premier League,2009/2010,2009
+Johnny Heitinga,Centre-Back,1983-11-15,25,Netherlands,Everton FC,Premier League,2009/2010,2009
+Philippe Senderos,Centre-Back,1985-02-14,24,Switzerland,Everton FC,Premier League,2009/2010,2009
+Lucas Neill,Centre-Back,1978-03-09,31,Australia,Everton FC,Premier League,2009/2010,2009
+Shane Duffy,Centre-Back,1992-01-01,17,Ireland,Everton FC,Premier League,2009/2010,2009
+Toto Nsiala,Centre-Back,1992-03-25,17,DR Congo,Everton FC,Premier League,2009/2010,2009
+Shkodran Mustafi,Centre-Back,1992-04-17,17,Germany,Everton FC,Premier League,2009/2010,2009
+Leighton Baines,Left-Back,1984-12-11,24,England,Everton FC,Premier League,2009/2010,2009
+Jake Bidwell,Left-Back,1993-03-21,16,England,Everton FC,Premier League,2009/2010,2009
+Luke Garbutt,Left-Back,1993-05-21,16,England,Everton FC,Premier League,2009/2010,2009
+Phil Neville,Right-Back,1977-01-21,32,England,Everton FC,Premier League,2009/2010,2009
+Tony Hibbert,Right-Back,1981-02-20,28,England,Everton FC,Premier League,2009/2010,2009
+Seamus Coleman,Right-Back,1988-10-11,20,Ireland,Everton FC,Premier League,2009/2010,2009
+Jack Rodwell,Defensive Midfield,1991-03-11,18,England,Everton FC,Premier League,2009/2010,2009
+Mikel Arteta,Central Midfield,1982-03-26,27,Spain,Everton FC,Premier League,2009/2010,2009
+Marouane Fellaini,Central Midfield,1987-11-22,21,Belgium,Everton FC,Premier League,2009/2010,2009
+Leon Osman,Central Midfield,1981-05-17,28,England,Everton FC,Premier League,2009/2010,2009
+Dan Gosling,Central Midfield,1990-02-01,19,England,Everton FC,Premier League,2009/2010,2009
+Adam Forshaw,Central Midfield,1991-10-08,17,England,Everton FC,Premier League,2009/2010,2009
+James Wallace,Central Midfield,1991-12-19,17,England,Everton FC,Premier League,2009/2010,2009
+Hope Akpan,Central Midfield,1991-08-14,17,Nigeria,Everton FC,Premier League,2009/2010,2009
+Nathan Craig,Left Midfield,1991-10-25,17,Wales,Everton FC,Premier League,2009/2010,2009
+Tim Cahill,Attacking Midfield,1979-12-06,29,Australia,Everton FC,Premier League,2009/2010,2009
+Diniyar Bilyaletdinov,Attacking Midfield,1985-02-27,24,Russia,Everton FC,Premier League,2009/2010,2009
+Jose Baxter,Attacking Midfield,1992-02-07,17,England,Everton FC,Premier League,2009/2010,2009
+Steven Pienaar,Left Winger,1982-03-17,27,South Africa,Everton FC,Premier League,2009/2010,2009
+Landon Donovan,Second Striker,1982-03-04,27,United States,Everton FC,Premier League,2009/2010,2009
+Yakubu Aiyegbeni,Centre-Forward,1982-11-22,26,Nigeria,Everton FC,Premier League,2009/2010,2009
+Jô,Centre-Forward,1987-03-20,22,Brazil,Everton FC,Premier League,2009/2010,2009
+Louis Saha,Centre-Forward,1978-08-08,30,France,Everton FC,Premier League,2009/2010,2009
+Victor Anichebe,Centre-Forward,1988-04-23,21,Nigeria,Everton FC,Premier League,2009/2010,2009
+James Vaughan,Centre-Forward,1988-07-14,20,England,Everton FC,Premier League,2009/2010,2009
+Lukas Jutkiewicz,Centre-Forward,1989-03-28,20,England,Everton FC,Premier League,2009/2010,2009
+Kieran Agard,Centre-Forward,1989-10-10,19,England,Everton FC,Premier League,2009/2010,2009
+Conor McAleny,Centre-Forward,1992-08-12,16,England,Everton FC,Premier League,2009/2010,2009
+Brad Friedel,Goalkeeper,1971-05-18,38,United States,Aston Villa,Premier League,2009/2010,2009
+Brad Guzan,Goalkeeper,1984-09-09,24,United States,Aston Villa,Premier League,2009/2010,2009
+Andy Marshall,Goalkeeper,1975-04-14,34,England,Aston Villa,Premier League,2009/2010,2009
+Richard Dunne,Centre-Back,1979-09-21,29,Ireland,Aston Villa,Premier League,2009/2010,2009
+Carlos Cuéllar,Centre-Back,1981-08-23,27,Spain,Aston Villa,Premier League,2009/2010,2009
+Curtis Davies,Centre-Back,1985-03-15,24,England,Aston Villa,Premier League,2009/2010,2009
+James Collins,Centre-Back,1983-08-23,25,Wales,Aston Villa,Premier League,2009/2010,2009
+Shane Lowry,Centre-Back,1989-06-12,20,Australia,Aston Villa,Premier League,2009/2010,2009
+Ciaran Clark,Centre-Back,1989-09-26,19,Ireland,Aston Villa,Premier League,2009/2010,2009
+Ashley Young,Left-Back,1985-07-09,23,England,Aston Villa,Premier League,2009/2010,2009
+Nicky Shorey,Left-Back,1981-02-19,28,England,Aston Villa,Premier League,2009/2010,2009
+Stephen Warnock,Left-Back,1981-12-12,27,England,Aston Villa,Premier League,2009/2010,2009
+Wilfred Bouma,Left-Back,1978-06-15,31,Netherlands,Aston Villa,Premier League,2009/2010,2009
+Luke Young,Right-Back,1979-07-19,29,England,Aston Villa,Premier League,2009/2010,2009
+Habib Bèye,Right-Back,1977-10-19,31,Senegal,Aston Villa,Premier League,2009/2010,2009
+Nigel Reo-Coker,Defensive Midfield,1984-05-14,25,England,Aston Villa,Premier League,2009/2010,2009
+Isaiah Osbourne,Defensive Midfield,1987-11-05,21,England,Aston Villa,Premier League,2009/2010,2009
+James Milner,Central Midfield,1986-01-04,23,England,Aston Villa,Premier League,2009/2010,2009
+Stiliyan Petrov,Central Midfield,1979-07-05,29,Bulgaria,Aston Villa,Premier League,2009/2010,2009
+Steve Sidwell,Central Midfield,1982-12-14,26,England,Aston Villa,Premier League,2009/2010,2009
+Craig Gardner,Central Midfield,1986-11-25,22,England,Aston Villa,Premier League,2009/2010,2009
+Fabian Delph,Central Midfield,1989-11-21,19,England,Aston Villa,Premier League,2009/2010,2009
+Barry Bannan,Central Midfield,1989-12-01,19,Scotland,Aston Villa,Premier League,2009/2010,2009
+Marc Albrighton,Right Midfield,1989-11-18,19,England,Aston Villa,Premier League,2009/2010,2009
+Stewart Downing,Left Midfield,1984-07-22,24,England,Aston Villa,Premier League,2009/2010,2009
+Moustapha Salifou,Attacking Midfield,1983-06-01,26,Togo,Aston Villa,Premier League,2009/2010,2009
+Gabriel Agbonlahor,Centre-Forward,1986-10-13,22,England,Aston Villa,Premier League,2009/2010,2009
+John Carew,Centre-Forward,1979-09-05,29,Norway,Aston Villa,Premier League,2009/2010,2009
+Emile Heskey,Centre-Forward,1978-01-11,31,England,Aston Villa,Premier League,2009/2010,2009
+Marlon Harewood,Centre-Forward,1979-08-25,29,England,Aston Villa,Premier League,2009/2010,2009
+Nathan Delfouneso,Centre-Forward,1991-02-02,18,England,Aston Villa,Premier League,2009/2010,2009
+Craig Gordon,Goalkeeper,1982-12-31,26,Scotland,Sunderland AFC,Premier League,2009/2010,2009
+Márton Fülöp,Goalkeeper,1983-05-03,26,Hungary,Sunderland AFC,Premier League,2009/2010,2009
+Trevor Carson,Goalkeeper,1988-03-05,21,Northern Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Lorik Cana,Centre-Back,1983-07-27,25,Albania,Sunderland AFC,Premier League,2009/2010,2009
+Anton Ferdinand,Centre-Back,1985-02-18,24,England,Sunderland AFC,Premier League,2009/2010,2009
+John Mensah,Centre-Back,1982-11-29,26,Ghana,Sunderland AFC,Premier League,2009/2010,2009
+Michael Turner,Centre-Back,1983-11-09,25,England,Sunderland AFC,Premier League,2009/2010,2009
+Paulo da Silva,Centre-Back,1980-02-01,29,Paraguay,Sunderland AFC,Premier League,2009/2010,2009
+Danny Collins,Centre-Back,1980-08-06,28,Wales,Sunderland AFC,Premier League,2009/2010,2009
+Nyron Nosworthy,Centre-Back,1980-10-11,28,Jamaica,Sunderland AFC,Premier League,2009/2010,2009
+Matthew Kilgallon,Centre-Back,1984-01-08,25,England,Sunderland AFC,Premier League,2009/2010,2009
+Russell Anderson,Centre-Back,1978-10-25,30,Scotland,Sunderland AFC,Premier League,2009/2010,2009
+Jean-Yves M'voto,Centre-Back,1988-09-06,20,France,Sunderland AFC,Premier League,2009/2010,2009
+Kieran Richardson,Left-Back,1984-10-21,24,England,Sunderland AFC,Premier League,2009/2010,2009
+George McCartney,Left-Back,1981-04-29,28,Northern Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Michael Liddle,Left-Back,1989-12-25,19,Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Alan Hutton,Right-Back,1984-11-30,24,Scotland,Sunderland AFC,Premier League,2009/2010,2009
+Phil Bardsley,Right-Back,1985-06-28,24,Scotland,Sunderland AFC,Premier League,2009/2010,2009
+Carlos Edwards,Right-Back,1978-10-24,30,Trinidad and Tobago,Sunderland AFC,Premier League,2009/2010,2009
+Lee Cattermole,Defensive Midfield,1988-03-21,21,England,Sunderland AFC,Premier League,2009/2010,2009
+Teemu Tainio,Defensive Midfield,1979-11-27,29,Finland,Sunderland AFC,Premier League,2009/2010,2009
+Jack Colback,Defensive Midfield,1989-10-24,19,England,Sunderland AFC,Premier League,2009/2010,2009
+Adam Reed,Defensive Midfield,1991-05-08,18,Philippines,Sunderland AFC,Premier League,2009/2010,2009
+Steed Malbranque,Central Midfield,1980-01-06,29,France,Sunderland AFC,Premier League,2009/2010,2009
+Grant Leadbitter,Central Midfield,1986-01-07,23,England,Sunderland AFC,Premier League,2009/2010,2009
+Jordan Henderson,Central Midfield,1990-06-17,19,England,Sunderland AFC,Premier League,2009/2010,2009
+David Meyler,Central Midfield,1989-05-29,20,Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Liam Noble,Central Midfield,1991-05-08,18,England,Sunderland AFC,Premier League,2009/2010,2009
+Andy Reid,Left Midfield,1982-07-29,26,Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Boudewijn Zenden,Left Winger,1976-08-15,32,Netherlands,Sunderland AFC,Premier League,2009/2010,2009
+Darren Bent,Centre-Forward,1984-02-06,25,England,Sunderland AFC,Premier League,2009/2010,2009
+Kenwyne Jones,Centre-Forward,1984-10-05,24,Trinidad and Tobago,Sunderland AFC,Premier League,2009/2010,2009
+Benjani,Centre-Forward,1978-08-13,30,Zimbabwe,Sunderland AFC,Premier League,2009/2010,2009
+Fraizer Campbell,Centre-Forward,1987-09-13,21,England,Sunderland AFC,Premier League,2009/2010,2009
+David Healy,Centre-Forward,1979-08-05,29,Northern Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Daryl Murphy,Centre-Forward,1983-03-15,26,Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Roy O'Donovan,Centre-Forward,1985-08-10,23,Ireland,Sunderland AFC,Premier League,2009/2010,2009
+Ryan Noble,Centre-Forward,1991-06-11,18,England,Sunderland AFC,Premier League,2009/2010,2009
+Rob Green,Goalkeeper,1980-01-18,29,England,West Ham United,Premier League,2009/2010,2009
+Marek Stech,Goalkeeper,1990-01-28,19,Czech Republic,West Ham United,Premier League,2009/2010,2009
+Péter Kurucz,Goalkeeper,1988-05-30,21,Hungary,West Ham United,Premier League,2009/2010,2009
+Matthew Upson,Centre-Back,1979-04-18,30,England,West Ham United,Premier League,2009/2010,2009
+Radoslav Kovac,Centre-Back,1979-11-27,29,Czech Republic,West Ham United,Premier League,2009/2010,2009
+James Tomkins,Centre-Back,1989-03-29,20,England,West Ham United,Premier League,2009/2010,2009
+James Collins,Centre-Back,1983-08-23,25,Wales,West Ham United,Premier League,2009/2010,2009
+Jonathan Spector,Centre-Back,1986-03-01,23,United States,West Ham United,Premier League,2009/2010,2009
+Manuel da Costa,Centre-Back,1986-05-06,23,Morocco,West Ham United,Premier League,2009/2010,2009
+Danny Gabbidon,Centre-Back,1979-08-08,29,Wales,West Ham United,Premier League,2009/2010,2009
+Fabio Daprelà,Centre-Back,1991-02-19,18,Switzerland,West Ham United,Premier League,2009/2010,2009
+Bondz N'Gala,Centre-Back,1989-09-13,19,England,West Ham United,Premier League,2009/2010,2009
+Hérita Ilunga,Left-Back,1982-02-25,27,DR Congo,West Ham United,Premier League,2009/2010,2009
+Jordan Spence,Right-Back,1990-05-24,19,England,West Ham United,Premier League,2009/2010,2009
+Valon Behrami,Defensive Midfield,1985-04-19,24,Switzerland,West Ham United,Premier League,2009/2010,2009
+Julien Faubert,Defensive Midfield,1983-08-01,25,Martinique,West Ham United,Premier League,2009/2010,2009
+Josh Payne,Defensive Midfield,1990-11-25,18,England,West Ham United,Premier League,2009/2010,2009
+Scott Parker,Central Midfield,1980-10-13,28,England,West Ham United,Premier League,2009/2010,2009
+Mark Noble,Central Midfield,1987-05-08,22,England,West Ham United,Premier League,2009/2010,2009
+Jack Collison,Central Midfield,1988-10-02,20,Wales,West Ham United,Premier League,2009/2010,2009
+Olly Lee,Central Midfield,1991-07-11,17,England,West Ham United,Premier League,2009/2010,2009
+Kieron Dyer,Right Midfield,1978-12-29,30,England,West Ham United,Premier League,2009/2010,2009
+Luís Boa Morte,Left Midfield,1977-08-04,31,Portugal,West Ham United,Premier League,2009/2010,2009
+Luis Jiménez,Attacking Midfield,1984-06-17,25,Chile,West Ham United,Premier League,2009/2010,2009
+Junior Stanislas,Left Winger,1989-11-26,19,England,West Ham United,Premier League,2009/2010,2009
+Anthony Edgar,Left Winger,1990-09-30,18,England,West Ham United,Premier League,2009/2010,2009
+Zavon Hines,Right Winger,1988-12-27,20,England,West Ham United,Premier League,2009/2010,2009
+Alessandro Diamanti,Second Striker,1983-05-02,26,Italy,West Ham United,Premier League,2009/2010,2009
+Freddie Sears,Second Striker,1989-11-27,19,England,West Ham United,Premier League,2009/2010,2009
+Benni McCarthy,Centre-Forward,1977-11-12,31,South Africa,West Ham United,Premier League,2009/2010,2009
+Carlton Cole,Centre-Forward,1983-10-12,25,England,West Ham United,Premier League,2009/2010,2009
+Mido,Centre-Forward,1983-02-23,26,Egypt,West Ham United,Premier League,2009/2010,2009
+Guillermo Franco,Centre-Forward,1976-11-03,32,Mexico,West Ham United,Premier League,2009/2010,2009
+Ilan,Centre-Forward,1980-09-18,28,Brazil,West Ham United,Premier League,2009/2010,2009
+Frank Nouble,Centre-Forward,1991-09-24,17,England,West Ham United,Premier League,2009/2010,2009
+David James,Goalkeeper,1970-08-01,38,England,Portsmouth FC,Premier League,2009/2010,2009
+Jamie Ashdown,Goalkeeper,1980-11-30,28,England,Portsmouth FC,Premier League,2009/2010,2009
+Asmir Begovic,Goalkeeper,1987-06-20,22,Bosnia-Herzegovina,Portsmouth FC,Premier League,2009/2010,2009
+Antti Niemi,Goalkeeper,1972-05-31,37,Finland,Portsmouth FC,Premier League,2009/2010,2009
+Liam O'Brien,Goalkeeper,1991-11-03,17,England,Portsmouth FC,Premier League,2009/2010,2009
+Sylvain Distin,Centre-Back,1977-12-16,31,France,Portsmouth FC,Premier League,2009/2010,2009
+Younès Kaboul,Centre-Back,1986-01-04,23,France,Portsmouth FC,Premier League,2009/2010,2009
+Tal Ben Haim,Centre-Back,1982-03-31,27,Israel,Portsmouth FC,Premier League,2009/2010,2009
+Hermann Hreidarsson,Centre-Back,1974-07-11,34,Iceland,Portsmouth FC,Premier League,2009/2010,2009
+Aaron Mokoena,Centre-Back,1980-11-25,28,South Africa,Portsmouth FC,Premier League,2009/2010,2009
+Dusko Tosic,Centre-Back,1985-01-19,24,Serbia,Portsmouth FC,Premier League,2009/2010,2009
+Ricardo Rocha,Centre-Back,1978-10-03,30,Portugal,Portsmouth FC,Premier League,2009/2010,2009
+Linvoy Primus,Centre-Back,1973-09-14,35,England,Portsmouth FC,Premier League,2009/2010,2009
+Marc Wilson,Centre-Back,1987-08-17,21,Ireland,Portsmouth FC,Premier League,2009/2010,2009
+Mike Williamson,Centre-Back,1983-11-08,25,England,Portsmouth FC,Premier League,2009/2010,2009
+Joel Edwards,Centre-Back,1991-08-18,17,England,Portsmouth FC,Premier League,2009/2010,2009
+Luke Wilkinson,Centre-Back,1991-12-02,17,England,Portsmouth FC,Premier League,2009/2010,2009
+Nadir Belhadj,Left-Back,1982-06-18,27,Algeria,Portsmouth FC,Premier League,2009/2010,2009
+Lennard Sowah,Left-Back,1992-08-23,16,Germany,Portsmouth FC,Premier League,2009/2010,2009
+Steve Finnan,Right-Back,1976-04-24,33,Ireland,Portsmouth FC,Premier League,2009/2010,2009
+Anthony Vanden Borre,Right-Back,1987-10-24,21,Belgium,Portsmouth FC,Premier League,2009/2010,2009
+Joel Ward,Right-Back,1989-10-29,19,England,Portsmouth FC,Premier League,2009/2010,2009
+James Hurst,Right-Back,1992-01-31,17,England,Portsmouth FC,Premier League,2009/2010,2009
+Papa Bouba Diop,Defensive Midfield,1978-01-28,31,Senegal,Portsmouth FC,Premier League,2009/2010,2009
+Hayden Mullins,Defensive Midfield,1979-03-27,30,England,Portsmouth FC,Premier League,2009/2010,2009
+Angelos Basinas,Defensive Midfield,1976-01-03,33,Greece,Portsmouth FC,Premier League,2009/2010,2009
+Richard Hughes,Defensive Midfield,1979-06-25,30,Scotland,Portsmouth FC,Premier League,2009/2010,2009
+Gauthier Mahoto,Defensive Midfield,1992-02-02,17,France,Portsmouth FC,Premier League,2009/2010,2009
+Hassan Yebda,Central Midfield,1984-05-14,25,Algeria,Portsmouth FC,Premier League,2009/2010,2009
+Jamie O'Hara,Central Midfield,1986-09-25,22,England,Portsmouth FC,Premier League,2009/2010,2009
+Michael Brown,Central Midfield,1977-01-25,32,England,Portsmouth FC,Premier League,2009/2010,2009
+Marlon Pack,Central Midfield,1991-03-25,18,England,Portsmouth FC,Premier League,2009/2010,2009
+Matt Ritchie,Right Midfield,1989-09-10,19,Scotland,Portsmouth FC,Premier League,2009/2010,2009
+Niko Kranjcar,Attacking Midfield,1984-08-13,24,Croatia,Portsmouth FC,Premier League,2009/2010,2009
+John Utaka,Left Winger,1982-01-08,27,Nigeria,Portsmouth FC,Premier League,2009/2010,2009
+Quincy Owusu-Abeyie,Left Winger,1986-04-15,23,Ghana,Portsmouth FC,Premier League,2009/2010,2009
+Gaël N'Lundulu,Left Winger,1992-04-29,17,France,Portsmouth FC,Premier League,2009/2010,2009
+Nadir Ciftci,Left Winger,1992-02-12,17,Turkey,Portsmouth FC,Premier League,2009/2010,2009
+Aruna Dindane,Second Striker,1980-11-26,28,Cote d'Ivoire,Portsmouth FC,Premier League,2009/2010,2009
+Frédéric Piquionne,Centre-Forward,1978-12-08,30,Martinique,Portsmouth FC,Premier League,2009/2010,2009
+David Nugent,Centre-Forward,1985-05-02,24,England,Portsmouth FC,Premier League,2009/2010,2009
+Kevin-Prince Boateng,Centre-Forward,1987-03-06,22,Ghana,Portsmouth FC,Premier League,2009/2010,2009
+Tommy Smith,Centre-Forward,1980-05-22,29,England,Portsmouth FC,Premier League,2009/2010,2009
+Nwankwo Kanu,Centre-Forward,1976-08-01,32,Nigeria,Portsmouth FC,Premier League,2009/2010,2009
+Danny Webber,Centre-Forward,1981-12-28,27,England,Portsmouth FC,Premier League,2009/2010,2009
+Mark Schwarzer,Goalkeeper,1972-10-06,36,Australia,Fulham FC,Premier League,2009/2010,2009
+Pascal Zuberbühler,Goalkeeper,1971-01-08,38,Switzerland,Fulham FC,Premier League,2009/2010,2009
+David Stockdale,Goalkeeper,1985-09-20,23,England,Fulham FC,Premier League,2009/2010,2009
+Adam Watts,Defender,1988-03-04,21,England,Fulham FC,Premier League,2009/2010,2009
+Brede Hangeland,Centre-Back,1981-06-20,28,Norway,Fulham FC,Premier League,2009/2010,2009
+Aaron Hughes,Centre-Back,1979-11-08,29,Northern Ireland,Fulham FC,Premier League,2009/2010,2009
+Toni Kallio,Centre-Back,1978-08-09,30,Finland,Fulham FC,Premier League,2009/2010,2009
+Chris Smalling,Centre-Back,1989-11-22,19,England,Fulham FC,Premier League,2009/2010,2009
+Nicky Shorey,Left-Back,1981-02-19,28,England,Fulham FC,Premier League,2009/2010,2009
+Paul Konchesky,Left-Back,1981-05-15,28,England,Fulham FC,Premier League,2009/2010,2009
+Matthew Briggs,Left-Back,1991-03-06,18,Guyana,Fulham FC,Premier League,2009/2010,2009
+Joe Anderson,Left-Back,1989-10-13,19,England,Fulham FC,Premier League,2009/2010,2009
+John Paintsil,Right-Back,1981-06-15,28,Ghana,Fulham FC,Premier League,2009/2010,2009
+Fredrik Stoor,Right-Back,1984-02-28,25,Sweden,Fulham FC,Premier League,2009/2010,2009
+Stephen Kelly,Right-Back,1983-09-06,25,Ireland,Fulham FC,Premier League,2009/2010,2009
+Dickson Etuhu,Defensive Midfield,1982-06-08,27,Nigeria,Fulham FC,Premier League,2009/2010,2009
+Chris Baird,Defensive Midfield,1982-02-25,27,Northern Ireland,Fulham FC,Premier League,2009/2010,2009
+Andranik Teymourian,Defensive Midfield,1983-03-06,26,Iran,Fulham FC,Premier League,2009/2010,2009
+King Gyan,Defensive Midfield,1988-12-22,20,Ghana,Fulham FC,Premier League,2009/2010,2009
+Daniel Owusu,Defensive Midfield,1989-07-13,19,Ghana,Fulham FC,Premier League,2009/2010,2009
+Danny Murphy,Central Midfield,1977-03-18,32,England,Fulham FC,Premier League,2009/2010,2009
+Jonathan Greening,Central Midfield,1979-01-02,30,England,Fulham FC,Premier League,2009/2010,2009
+Zoltán Gera,Central Midfield,1979-04-22,30,Hungary,Fulham FC,Premier League,2009/2010,2009
+Kagisho Dikgacoi,Central Midfield,1984-11-24,24,South Africa,Fulham FC,Premier League,2009/2010,2009
+Matthew Saunders,Central Midfield,1989-09-12,19,England,Fulham FC,Premier League,2009/2010,2009
+Alex Smith,Central Midfield,1991-10-31,17,England,Fulham FC,Premier League,2009/2010,2009
+Damien Duff,Right Midfield,1979-03-02,30,Ireland,Fulham FC,Premier League,2009/2010,2009
+Simon Davies,Right Midfield,1979-10-23,29,Wales,Fulham FC,Premier League,2009/2010,2009
+Björn Helge Riise,Right Midfield,1983-06-21,26,Norway,Fulham FC,Premier League,2009/2010,2009
+Wayne Brown,Attacking Midfield,1988-08-06,20,England,Fulham FC,Premier League,2009/2010,2009
+Christopher Buchtmann,Attacking Midfield,1992-04-25,17,Germany,Fulham FC,Premier League,2009/2010,2009
+Diomansy Kamara,Right Winger,1980-11-08,28,Senegal,Fulham FC,Premier League,2009/2010,2009
+Ki-hyeon Seol,Right Winger,1979-01-08,30,"Korea, South",Fulham FC,Premier League,2009/2010,2009
+Keanu Marsh-Brown,Right Winger,1992-08-10,16,Guyana,Fulham FC,Premier League,2009/2010,2009
+Clint Dempsey,Second Striker,1983-03-09,26,United States,Fulham FC,Premier League,2009/2010,2009
+Andy Johnson,Centre-Forward,1981-02-10,28,England,Fulham FC,Premier League,2009/2010,2009
+Stefano Okaka,Centre-Forward,1989-08-09,19,Italy,Fulham FC,Premier League,2009/2010,2009
+Bobby Zamora,Centre-Forward,1981-01-16,28,England,Fulham FC,Premier League,2009/2010,2009
+Erik Nevland,Centre-Forward,1977-11-10,31,Norway,Fulham FC,Premier League,2009/2010,2009
+David Elm,Centre-Forward,1983-01-10,26,Sweden,Fulham FC,Premier League,2009/2010,2009
+Eddie Johnson,Centre-Forward,1984-03-31,25,United States,Fulham FC,Premier League,2009/2010,2009
+Michael Uwezu,Centre-Forward,1990-12-12,18,England,Fulham FC,Premier League,2009/2010,2009
+Paul Robinson,Goalkeeper,1979-10-15,29,England,Blackburn Rovers,Premier League,2009/2010,2009
+Jason Brown,Goalkeeper,1982-05-18,27,Wales,Blackburn Rovers,Premier League,2009/2010,2009
+Frank Fielding,Goalkeeper,1988-04-04,21,England,Blackburn Rovers,Premier League,2009/2010,2009
+Mark Bunn,Goalkeeper,1984-11-16,24,England,Blackburn Rovers,Premier League,2009/2010,2009
+Christopher Samba,Centre-Back,1984-03-28,25,Congo,Blackburn Rovers,Premier League,2009/2010,2009
+Ryan Nelsen,Centre-Back,1977-10-18,31,New Zealand,Blackburn Rovers,Premier League,2009/2010,2009
+Gaël Givet,Centre-Back,1981-10-09,27,France,Blackburn Rovers,Premier League,2009/2010,2009
+Zurab Khizanishvili,Centre-Back,1981-10-06,27,Georgia,Blackburn Rovers,Premier League,2009/2010,2009
+Gavin Gunning,Centre-Back,1991-01-26,18,Ireland,Blackburn Rovers,Premier League,2009/2010,2009
+Grant Hanley,Centre-Back,1991-11-20,17,Scotland,Blackburn Rovers,Premier League,2009/2010,2009
+Phil Jones,Centre-Back,1992-02-21,17,England,Blackburn Rovers,Premier League,2009/2010,2009
+Stephen Warnock,Left-Back,1981-12-12,27,England,Blackburn Rovers,Premier League,2009/2010,2009
+Martin Olsson,Left-Back,1988-05-17,21,Sweden,Blackburn Rovers,Premier League,2009/2010,2009
+Pascal Chimbonda,Right-Back,1979-02-21,30,Guadeloupe,Blackburn Rovers,Premier League,2009/2010,2009
+Steven Reid,Right-Back,1981-03-10,28,Ireland,Blackburn Rovers,Premier League,2009/2010,2009
+Míchel Salgado,Right-Back,1975-10-22,33,Spain,Blackburn Rovers,Premier League,2009/2010,2009
+Lars Jacobsen,Right-Back,1979-09-20,29,Denmark,Blackburn Rovers,Premier League,2009/2010,2009
+Steven Nzonzi,Defensive Midfield,1988-12-15,20,France,Blackburn Rovers,Premier League,2009/2010,2009
+Morten Gamst Pedersen,Central Midfield,1981-09-08,27,Norway,Blackburn Rovers,Premier League,2009/2010,2009
+Vince Grella,Central Midfield,1979-10-05,29,Australia,Blackburn Rovers,Premier League,2009/2010,2009
+Keith Andrews,Central Midfield,1980-09-13,28,Ireland,Blackburn Rovers,Premier League,2009/2010,2009
+Paul Gallagher,Central Midfield,1984-08-09,24,Scotland,Blackburn Rovers,Premier League,2009/2010,2009
+Amine Linganzi,Central Midfield,1989-11-16,19,Congo,Blackburn Rovers,Premier League,2009/2010,2009
+Brett Emerton,Right Midfield,1979-02-22,30,Australia,Blackburn Rovers,Premier League,2009/2010,2009
+Aaron Doran,Right Midfield,1991-05-13,18,Ireland,Blackburn Rovers,Premier League,2009/2010,2009
+David Dunn,Attacking Midfield,1979-12-27,29,England,Blackburn Rovers,Premier League,2009/2010,2009
+Yildiray Bastürk,Attacking Midfield,1978-12-24,30,Turkey,Blackburn Rovers,Premier League,2009/2010,2009
+Elrio van Heerden,Attacking Midfield,1983-07-11,25,South Africa,Blackburn Rovers,Premier League,2009/2010,2009
+Junior Hoilett,Left Winger,1990-06-05,19,Canada,Blackburn Rovers,Premier League,2009/2010,2009
+Benni McCarthy,Centre-Forward,1977-11-12,31,South Africa,Blackburn Rovers,Premier League,2009/2010,2009
+Nikola Kalinic,Centre-Forward,1988-01-05,21,Croatia,Blackburn Rovers,Premier League,2009/2010,2009
+El-Hadji Diouf,Centre-Forward,1981-01-15,28,Senegal,Blackburn Rovers,Premier League,2009/2010,2009
+Jason Roberts,Centre-Forward,1978-01-25,31,Grenada,Blackburn Rovers,Premier League,2009/2010,2009
+Franco Di Santo,Centre-Forward,1989-04-07,20,Argentina,Blackburn Rovers,Premier League,2009/2010,2009
+Maceo Rigters,Centre-Forward,1984-01-22,25,Netherlands,Blackburn Rovers,Premier League,2009/2010,2009
+Jussi Jääskeläinen,Goalkeeper,1975-04-19,34,Finland,Bolton Wanderers,Premier League,2009/2010,2009
+Ali Al-Habsi,Goalkeeper,1981-12-30,27,Oman,Bolton Wanderers,Premier League,2009/2010,2009
+Ádám Bogdán,Goalkeeper,1987-09-27,21,Hungary,Bolton Wanderers,Premier League,2009/2010,2009
+Gary Cahill,Centre-Back,1985-12-19,23,England,Bolton Wanderers,Premier League,2009/2010,2009
+Zat Knight,Centre-Back,1980-05-02,29,England,Bolton Wanderers,Premier League,2009/2010,2009
+Andrew O'Brien,Centre-Back,1979-06-29,30,Ireland,Bolton Wanderers,Premier League,2009/2010,2009
+Paul Robinson,Centre-Back,1978-12-14,30,England,Bolton Wanderers,Premier League,2009/2010,2009
+Danny Shittu,Centre-Back,1980-09-02,28,Nigeria,Bolton Wanderers,Premier League,2009/2010,2009
+Chris Basham,Centre-Back,1988-07-20,20,England,Bolton Wanderers,Premier League,2009/2010,2009
+Ricardo Gardner,Left-Back,1978-09-25,30,Jamaica,Bolton Wanderers,Premier League,2009/2010,2009
+Grétar Steinsson,Right-Back,1982-01-09,27,Iceland,Bolton Wanderers,Premier League,2009/2010,2009
+Sam Ricketts,Right-Back,1981-10-11,27,Wales,Bolton Wanderers,Premier League,2009/2010,2009
+Joey O'Brien,Right-Back,1986-02-17,23,Ireland,Bolton Wanderers,Premier League,2009/2010,2009
+Nicky Hunt,Right-Back,1983-09-03,25,England,Bolton Wanderers,Premier League,2009/2010,2009
+Sean Davis,Defensive Midfield,1979-09-20,29,England,Bolton Wanderers,Premier League,2009/2010,2009
+Jlloyd Samuel,Defensive Midfield,1981-03-29,28,Trinidad and Tobago,Bolton Wanderers,Premier League,2009/2010,2009
+Fabrice Muamba,Central Midfield,1988-04-06,21,England,Bolton Wanderers,Premier League,2009/2010,2009
+Jack Wilshere,Central Midfield,1992-01-01,17,England,Bolton Wanderers,Premier League,2009/2010,2009
+Gavin McCann,Central Midfield,1978-01-10,31,England,Bolton Wanderers,Premier League,2009/2010,2009
+Mark Davies,Central Midfield,1988-02-18,21,England,Bolton Wanderers,Premier League,2009/2010,2009
+Tamir Cohen,Central Midfield,1984-03-04,25,Israel,Bolton Wanderers,Premier League,2009/2010,2009
+Stuart Holden,Central Midfield,1985-08-01,23,United States,Bolton Wanderers,Premier League,2009/2010,2009
+Matthew Taylor,Left Midfield,1981-11-27,27,England,Bolton Wanderers,Premier League,2009/2010,2009
+Chung-yong Lee,Attacking Midfield,1988-07-02,20,"Korea, South",Bolton Wanderers,Premier League,2009/2010,2009
+Tope Obadeyi,Left Winger,1989-10-29,19,England,Bolton Wanderers,Premier League,2009/2010,2009
+Vladimir Weiss,Left Winger,1989-11-30,19,Slovakia,Bolton Wanderers,Premier League,2009/2010,2009
+Riga Mustapha,Right Winger,1981-10-10,27,Netherlands,Bolton Wanderers,Premier League,2009/2010,2009
+Ricardo Vaz Tê,Right Winger,1986-10-01,22,Portugal,Bolton Wanderers,Premier League,2009/2010,2009
+Johan Elmander,Centre-Forward,1981-05-27,28,Sweden,Bolton Wanderers,Premier League,2009/2010,2009
+Kevin Davies,Centre-Forward,1977-03-26,32,England,Bolton Wanderers,Premier League,2009/2010,2009
+Ivan Klasnic,Centre-Forward,1980-01-29,29,Croatia,Bolton Wanderers,Premier League,2009/2010,2009
+Danny Ward,Centre-Forward,1990-12-09,18,England,Bolton Wanderers,Premier League,2009/2010,2009
+Thomas Sörensen,Goalkeeper,1976-06-12,33,Denmark,Stoke City,Premier League,2009/2010,2009
+Steve Simonsen,Goalkeeper,1979-04-03,30,England,Stoke City,Premier League,2009/2010,2009
+Asmir Begovic,Goalkeeper,1987-06-20,22,Bosnia-Herzegovina,Stoke City,Premier League,2009/2010,2009
+Danzelle St Louis-Hamilton,Goalkeeper,1990-05-07,19,England,Stoke City,Premier League,2009/2010,2009
+Dave Parton,Goalkeeper,1992-11-22,16,England,Stoke City,Premier League,2009/2010,2009
+Robert Huth,Centre-Back,1984-08-18,24,Germany,Stoke City,Premier League,2009/2010,2009
+Abdoulaye Fayé,Centre-Back,1978-02-26,31,Senegal,Stoke City,Premier League,2009/2010,2009
+Ryan Shawcross,Centre-Back,1987-10-04,21,England,Stoke City,Premier League,2009/2010,2009
+Danny Collins,Centre-Back,1980-08-06,28,Wales,Stoke City,Premier League,2009/2010,2009
+Danny Higginbotham,Centre-Back,1978-12-29,30,Gibraltar,Stoke City,Premier League,2009/2010,2009
+Leon Cort,Centre-Back,1979-09-11,29,Guyana,Stoke City,Premier League,2009/2010,2009
+Ibrahima Sonko,Centre-Back,1981-01-22,28,Senegal,Stoke City,Premier League,2009/2010,2009
+Andrew Davies,Centre-Back,1984-12-17,24,England,Stoke City,Premier League,2009/2010,2009
+Danny Pugh,Left-Back,1982-10-19,26,England,Stoke City,Premier League,2009/2010,2009
+Carl Dickinson,Left-Back,1987-03-31,22,England,Stoke City,Premier League,2009/2010,2009
+Andy Griffin,Right-Back,1979-03-17,30,England,Stoke City,Premier League,2009/2010,2009
+Andy Wilkinson,Right-Back,1984-08-06,24,England,Stoke City,Premier League,2009/2010,2009
+Ryan Shotton,Right-Back,1988-09-30,20,England,Stoke City,Premier League,2009/2010,2009
+Ryan Connor,Midfielder,NA,NA,Ireland,Stoke City,Premier League,2009/2010,2009
+Glenn Whelan,Defensive Midfield,1984-01-13,25,Ireland,Stoke City,Premier League,2009/2010,2009
+Salif Diao,Defensive Midfield,1977-02-10,32,Senegal,Stoke City,Premier League,2009/2010,2009
+Amdy Fayé,Defensive Midfield,1977-03-12,32,Senegal,Stoke City,Premier League,2009/2010,2009
+Diego Arismendi,Defensive Midfield,1988-01-25,21,Uruguay,Stoke City,Premier League,2009/2010,2009
+Nat Wedderburn,Defensive Midfield,1991-06-30,18,England,Stoke City,Premier League,2009/2010,2009
+Dean Whitehead,Central Midfield,1982-01-21,27,England,Stoke City,Premier League,2009/2010,2009
+Rory Delap,Central Midfield,1976-07-06,32,Ireland,Stoke City,Premier League,2009/2010,2009
+Tom Soares,Central Midfield,1986-07-10,22,England,Stoke City,Premier League,2009/2010,2009
+Michael Tonge,Central Midfield,1983-04-07,26,England,Stoke City,Premier League,2009/2010,2009
+Matthew Lund,Central Midfield,1990-11-21,18,Northern Ireland,Stoke City,Premier League,2009/2010,2009
+Matthew Etherington,Left Midfield,1981-08-14,27,England,Stoke City,Premier League,2009/2010,2009
+Liam Lawrence,Attacking Midfield,1981-12-14,27,Ireland,Stoke City,Premier League,2009/2010,2009
+Tuncay Sanli,Left Winger,1982-01-16,27,Turkey,Stoke City,Premier League,2009/2010,2009
+James Beattie,Centre-Forward,1978-02-27,31,England,Stoke City,Premier League,2009/2010,2009
+Ricardo Fuller,Centre-Forward,1979-10-31,29,Jamaica,Stoke City,Premier League,2009/2010,2009
+Dave Kitson,Centre-Forward,1980-01-21,29,England,Stoke City,Premier League,2009/2010,2009
+Mamady Sidibé,Centre-Forward,1979-12-18,29,Mali,Stoke City,Premier League,2009/2010,2009
+Richard Cresswell,Centre-Forward,1977-09-20,31,England,Stoke City,Premier League,2009/2010,2009
+Louis Moult,Centre-Forward,1992-05-14,17,England,Stoke City,Premier League,2009/2010,2009
+Boaz Myhill,Goalkeeper,1982-11-09,26,Wales,Hull City,Premier League,2009/2010,2009
+Matt Duke,Goalkeeper,1977-07-16,31,England,Hull City,Premier League,2009/2010,2009
+Tony Warner,Goalkeeper,1974-05-11,35,Trinidad and Tobago,Hull City,Premier League,2009/2010,2009
+Michael Turner,Centre-Back,1983-11-09,25,England,Hull City,Premier League,2009/2010,2009
+Paul McShane,Centre-Back,1986-01-06,23,Ireland,Hull City,Premier League,2009/2010,2009
+Kamil Zayatte,Centre-Back,1985-03-07,24,Guinea,Hull City,Premier League,2009/2010,2009
+Ibrahima Sonko,Centre-Back,1981-01-22,28,Senegal,Hull City,Premier League,2009/2010,2009
+Steven Mouyokolo,Centre-Back,1987-01-24,22,France,Hull City,Premier League,2009/2010,2009
+Anthony Gardner,Centre-Back,1981-08-18,27,England,Hull City,Premier League,2009/2010,2009
+Liam Cooper,Centre-Back,1991-08-03,17,Scotland,Hull City,Premier League,2009/2010,2009
+Andy Dawson,Left-Back,1978-10-20,30,England,Hull City,Premier League,2009/2010,2009
+Bernard Mendy,Right-Back,1981-08-20,27,France,Hull City,Premier League,2009/2010,2009
+Ian Ashbee,Defensive Midfield,1976-09-06,32,England,Hull City,Premier League,2009/2010,2009
+George Boateng,Defensive Midfield,1975-09-05,33,Netherlands,Hull City,Premier League,2009/2010,2009
+Nathan Doyle,Defensive Midfield,1987-01-12,22,England,Hull City,Premier League,2009/2010,2009
+Jimmy Bullard,Central Midfield,1978-10-23,30,England,Hull City,Premier League,2009/2010,2009
+Dean Marney,Central Midfield,1984-01-31,25,England,Hull City,Premier League,2009/2010,2009
+Seyi Olofinjana,Central Midfield,1980-06-30,29,Nigeria,Hull City,Premier League,2009/2010,2009
+Nicky Featherstone,Central Midfield,1989-09-22,19,England,Hull City,Premier League,2009/2010,2009
+Will Atkinson,Central Midfield,1988-10-14,20,England,Hull City,Premier League,2009/2010,2009
+Tom Cairney,Central Midfield,1991-01-20,18,Scotland,Hull City,Premier League,2009/2010,2009
+Stephen Hunt,Left Midfield,1981-08-01,27,Ireland,Hull City,Premier League,2009/2010,2009
+Kevin Kilbane,Left Midfield,1977-02-01,32,Ireland,Hull City,Premier League,2009/2010,2009
+Péter Halmosi,Left Midfield,1979-09-25,29,Hungary,Hull City,Premier League,2009/2010,2009
+Nick Barmby,Left Midfield,1974-02-11,35,England,Hull City,Premier League,2009/2010,2009
+Geovanni,Attacking Midfield,1980-01-11,29,Brazil,Hull City,Premier League,2009/2010,2009
+Jamie Devitt,Attacking Midfield,1990-07-06,18,Ireland,Hull City,Premier League,2009/2010,2009
+Ryan Kendall,Forward,1989-09-14,19,England,Hull City,Premier League,2009/2010,2009
+Richard García,Second Striker,1981-09-04,27,Australia,Hull City,Premier League,2009/2010,2009
+Kamel Ghilas,Second Striker,1984-04-09,25,Algeria,Hull City,Premier League,2009/2010,2009
+Amr Zaki,Centre-Forward,1983-04-01,26,Egypt,Hull City,Premier League,2009/2010,2009
+Jan Vennegoor of Hesselink,Centre-Forward,1978-11-07,30,Netherlands,Hull City,Premier League,2009/2010,2009
+Daniel Cousin,Centre-Forward,1977-02-07,32,Gabon,Hull City,Premier League,2009/2010,2009
+Jozy Altidore,Centre-Forward,1989-11-06,19,United States,Hull City,Premier League,2009/2010,2009
+Craig Fagan,Centre-Forward,1982-12-11,26,England,Hull City,Premier League,2009/2010,2009
+Caleb Folan,Centre-Forward,1982-10-26,26,Ireland,Hull City,Premier League,2009/2010,2009
+Mark Cullen,Centre-Forward,1992-04-21,17,England,Hull City,Premier League,2009/2010,2009
+Chris Kirkland,Goalkeeper,1981-05-02,28,England,Wigan Athletic,Premier League,2009/2010,2009
+Vladimir Stojkovic,Goalkeeper,1983-07-28,25,Serbia,Wigan Athletic,Premier League,2009/2010,2009
+Richard Kingson,Goalkeeper,1978-06-13,31,Ghana,Wigan Athletic,Premier League,2009/2010,2009
+Mike Pollitt,Goalkeeper,1972-02-29,37,England,Wigan Athletic,Premier League,2009/2010,2009
+Lee Nicholls,Goalkeeper,1992-10-05,16,England,Wigan Athletic,Premier League,2009/2010,2009
+Gary Caldwell,Centre-Back,1982-04-12,27,Scotland,Wigan Athletic,Premier League,2009/2010,2009
+Paul Scharner,Centre-Back,1980-03-11,29,Austria,Wigan Athletic,Premier League,2009/2010,2009
+Titus Bramble,Centre-Back,1981-07-31,27,England,Wigan Athletic,Premier League,2009/2010,2009
+Steve Gohouri,Centre-Back,1981-02-08,28,Cote d'Ivoire,Wigan Athletic,Premier League,2009/2010,2009
+Antonio Amaya,Centre-Back,1983-05-31,26,Spain,Wigan Athletic,Premier League,2009/2010,2009
+Maynor Figueroa,Left-Back,1983-05-02,26,Honduras,Wigan Athletic,Premier League,2009/2010,2009
+Erik Edman,Left-Back,1978-11-11,30,Sweden,Wigan Athletic,Premier League,2009/2010,2009
+Jordan Mustoe,Left-Back,1991-01-28,18,England,Wigan Athletic,Premier League,2009/2010,2009
+Mario Melchiot,Right-Back,1976-11-04,32,Netherlands,Wigan Athletic,Premier League,2009/2010,2009
+Emmerson Boyce,Right-Back,1979-09-24,29,Barbados,Wigan Athletic,Premier League,2009/2010,2009
+Won-heui Jo,Defensive Midfield,1983-04-17,26,"Korea, South",Wigan Athletic,Premier League,2009/2010,2009
+Tomasz Cywka,Defensive Midfield,1988-06-27,21,Poland,Wigan Athletic,Premier League,2009/2010,2009
+Hendry Thomas,Defensive Midfield,1985-02-23,24,Honduras,Wigan Athletic,Premier League,2009/2010,2009
+Michael Brown,Central Midfield,1977-01-25,32,England,Wigan Athletic,Premier League,2009/2010,2009
+Ben Watson,Central Midfield,1985-07-09,23,England,Wigan Athletic,Premier League,2009/2010,2009
+Jordi Gómez,Central Midfield,1985-05-24,24,Spain,Wigan Athletic,Premier League,2009/2010,2009
+James McCarthy,Central Midfield,1990-11-12,18,Ireland,Wigan Athletic,Premier League,2009/2010,2009
+Mohamed Diamé,Central Midfield,1987-06-14,22,Senegal,Wigan Athletic,Premier League,2009/2010,2009
+Tomasz Kupisz,Right Midfield,1990-01-02,19,Poland,Wigan Athletic,Premier League,2009/2010,2009
+Scott Sinclair,Left Midfield,1989-03-25,20,England,Wigan Athletic,Premier League,2009/2010,2009
+Rachid Bouaouzan,Left Midfield,1984-02-20,25,Netherlands,Wigan Athletic,Premier League,2009/2010,2009
+Jason Koumas,Attacking Midfield,1979-09-25,29,Wales,Wigan Athletic,Premier League,2009/2010,2009
+Olivier Kapo,Attacking Midfield,1980-09-27,28,France,Wigan Athletic,Premier League,2009/2010,2009
+Daniël de Ridder,Left Winger,1984-03-06,25,Netherlands,Wigan Athletic,Premier League,2009/2010,2009
+Charles N'Zogbia,Right Winger,1986-05-28,23,France,Wigan Athletic,Premier League,2009/2010,2009
+Victor Moses,Right Winger,1990-12-12,18,Nigeria,Wigan Athletic,Premier League,2009/2010,2009
+Callum McManaman,Right Winger,1991-04-25,18,England,Wigan Athletic,Premier League,2009/2010,2009
+Marcelo Moreno,Centre-Forward,1987-06-18,22,Bolivia,Wigan Athletic,Premier League,2009/2010,2009
+Hugo Rodallega,Centre-Forward,1985-07-25,23,Colombia,Wigan Athletic,Premier League,2009/2010,2009
+Marlon King,Centre-Forward,1980-04-26,29,Jamaica,Wigan Athletic,Premier League,2009/2010,2009
+Jason Scotland,Centre-Forward,1979-02-18,30,Trinidad and Tobago,Wigan Athletic,Premier League,2009/2010,2009
+Joe Hart,Goalkeeper,1987-04-19,22,England,Birmingham City,Premier League,2009/2010,2009
+Maik Taylor,Goalkeeper,1971-09-04,37,Northern Ireland,Birmingham City,Premier League,2009/2010,2009
+Colin Doyle,Goalkeeper,1985-06-12,24,Ireland,Birmingham City,Premier League,2009/2010,2009
+Artur Krysiak,Goalkeeper,1989-08-11,19,Poland,Birmingham City,Premier League,2009/2010,2009
+Liam Ridgewell,Centre-Back,1984-07-21,24,England,Birmingham City,Premier League,2009/2010,2009
+Roger Johnson,Centre-Back,1983-04-28,26,England,Birmingham City,Premier League,2009/2010,2009
+Martin Taylor,Centre-Back,1979-11-09,29,England,Birmingham City,Premier League,2009/2010,2009
+Giovanny Espinoza,Centre-Back,1977-04-12,32,Ecuador,Birmingham City,Premier League,2009/2010,2009
+Scott Dann,Centre-Back,1987-02-14,22,England,Birmingham City,Premier League,2009/2010,2009
+Dan Preston,Centre-Back,1991-09-26,17,England,Birmingham City,Premier League,2009/2010,2009
+David Murphy,Left-Back,1984-03-01,25,England,Birmingham City,Premier League,2009/2010,2009
+Franck Queudrue,Left-Back,1978-08-27,30,France,Birmingham City,Premier League,2009/2010,2009
+Grégory Vignal,Left-Back,1981-07-19,27,France,Birmingham City,Premier League,2009/2010,2009
+Stuart Parnaby,Right-Back,1982-07-19,26,England,Birmingham City,Premier League,2009/2010,2009
+Stephen Carr,Right-Back,1976-08-29,32,Ireland,Birmingham City,Premier League,2009/2010,2009
+Barry Ferguson,Defensive Midfield,1978-02-02,31,Scotland,Birmingham City,Premier League,2009/2010,2009
+Teemu Tainio,Defensive Midfield,1979-11-27,29,Finland,Birmingham City,Premier League,2009/2010,2009
+Lee Carsley,Defensive Midfield,1974-02-28,35,Ireland,Birmingham City,Premier League,2009/2010,2009
+Craig Gardner,Central Midfield,1986-11-25,22,England,Birmingham City,Premier League,2009/2010,2009
+Lee Bowyer,Central Midfield,1977-01-03,32,England,Birmingham City,Premier League,2009/2010,2009
+Sebastian Larsson,Central Midfield,1985-06-06,24,Sweden,Birmingham City,Premier League,2009/2010,2009
+Míchel,Central Midfield,1985-11-08,23,Spain,Birmingham City,Premier League,2009/2010,2009
+Damien Johnson,Central Midfield,1978-11-18,30,Northern Ireland,Birmingham City,Premier League,2009/2010,2009
+Keith Fahey,Central Midfield,1983-01-15,26,Ireland,Birmingham City,Premier League,2009/2010,2009
+Jordon Mutch,Central Midfield,1991-12-02,17,England,Birmingham City,Premier League,2009/2010,2009
+Ashley Sammons,Central Midfield,1991-11-10,17,England,Birmingham City,Premier League,2009/2010,2009
+Jay O'Shea,Attacking Midfield,1988-08-10,20,Ireland,Birmingham City,Premier League,2009/2010,2009
+Gary McSheffrey,Left Winger,1982-08-13,26,England,Birmingham City,Premier League,2009/2010,2009
+Nathan Redmond,Left Winger,1994-03-06,15,England,Birmingham City,Premier League,2009/2010,2009
+Jake Jervis,Right Winger,1991-09-17,17,England,Birmingham City,Premier League,2009/2010,2009
+James McFadden,Second Striker,1983-04-14,26,Scotland,Birmingham City,Premier League,2009/2010,2009
+Christian Benítez,Centre-Forward,1986-05-01,23,Ecuador,Birmingham City,Premier League,2009/2010,2009
+Cameron Jerome,Centre-Forward,1986-08-14,22,England,Birmingham City,Premier League,2009/2010,2009
+Kevin Phillips,Centre-Forward,1973-07-25,35,England,Birmingham City,Premier League,2009/2010,2009
+Marcus Bent,Centre-Forward,1978-05-19,31,England,Birmingham City,Premier League,2009/2010,2009
+Garry O'Connor,Centre-Forward,1983-05-07,26,Scotland,Birmingham City,Premier League,2009/2010,2009
+Marcus Hahnemann,Goalkeeper,1972-06-15,37,United States,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Wayne Hennessey,Goalkeeper,1987-01-24,22,Wales,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Matt Murray,Goalkeeper,1981-05-02,28,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Carl Ikeme,Goalkeeper,1986-06-08,23,Nigeria,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Christophe Berra,Centre-Back,1985-01-31,24,Scotland,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Ronald Zubar,Centre-Back,1985-09-20,23,Guadeloupe,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Richard Stearman,Centre-Back,1987-08-19,21,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Greg Halford,Centre-Back,1984-12-08,24,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Michael Mancienne,Centre-Back,1988-01-08,21,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Neill Collins,Centre-Back,1983-09-02,25,Scotland,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Jody Craddock,Centre-Back,1975-07-25,33,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Jason Shackell,Centre-Back,1983-09-27,25,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Darren Ward,Centre-Back,1978-09-13,30,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+George Elokobi,Centre-Back,1986-01-31,23,Cameroon,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Stephen Ward,Left-Back,1985-08-20,23,Ireland,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Matt Hill,Left-Back,1981-03-26,28,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Dan Jones,Left-Back,1986-12-23,22,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+George Friend,Left-Back,1987-10-19,21,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Kevin Foley,Right-Back,1984-11-01,24,Ireland,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Karl Henry,Defensive Midfield,1982-11-26,26,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Segundo Castillo,Defensive Midfield,1982-05-15,27,Ecuador,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Nenad Milijas,Central Midfield,1983-04-30,26,Serbia,Wolverhampton Wanderers,Premier League,2009/2010,2009
+David Jones,Central Midfield,1984-11-04,24,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+David Edwards,Central Midfield,1986-02-03,23,Wales,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Andrew Surman,Central Midfield,1986-08-20,22,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Adlène Guédioura,Central Midfield,1985-11-12,23,Algeria,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Michael Kightly,Left Winger,1986-01-24,23,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Matt Jarvis,Left Winger,1986-05-22,23,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Geoffrey Bia,Right Winger,1989-08-12,19,Belgium,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Nathaniel Mendez-Laing,Right Winger,1992-04-15,17,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Kevin Doyle,Centre-Forward,1983-09-18,25,Ireland,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Sylvan Ebanks-Blake,Centre-Forward,1986-03-29,23,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Chris Iwelumo,Centre-Forward,1978-08-01,30,Scotland,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Stefan Maierhofer,Centre-Forward,1982-08-16,26,Austria,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Andy Keogh,Centre-Forward,1986-05-16,23,Ireland,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Sam Vokes,Centre-Forward,1989-10-21,19,Wales,Wolverhampton Wanderers,Premier League,2009/2010,2009
+James Spray,Centre-Forward,1992-12-02,16,England,Wolverhampton Wanderers,Premier League,2009/2010,2009
+Nicky Weaver,Goalkeeper,1979-03-02,30,England,Burnley FC,Premier League,2009/2010,2009
+Brian Jensen,Goalkeeper,1975-06-08,34,Denmark,Burnley FC,Premier League,2009/2010,2009
+Diego Penny,Goalkeeper,1984-04-22,25,Peru,Burnley FC,Premier League,2009/2010,2009
+Steven Caldwell,Centre-Back,1980-09-12,28,Scotland,Burnley FC,Premier League,2009/2010,2009
+Clarke Carlisle,Centre-Back,1979-10-14,29,England,Burnley FC,Premier League,2009/2010,2009
+Leon Cort,Centre-Back,1979-09-11,29,Guyana,Burnley FC,Premier League,2009/2010,2009
+Michael Duff,Centre-Back,1978-01-11,31,Northern Ireland,Burnley FC,Premier League,2009/2010,2009
+André Bikey,Centre-Back,1985-01-08,24,Cameroon,Burnley FC,Premier League,2009/2010,2009
+Stephen Jordan,Centre-Back,1982-03-06,27,England,Burnley FC,Premier League,2009/2010,2009
+David Edgar,Centre-Back,1987-05-19,22,Canada,Burnley FC,Premier League,2009/2010,2009
+Danny Fox,Left-Back,1986-05-29,23,Scotland,Burnley FC,Premier League,2009/2010,2009
+Brian Easton,Left-Back,1988-03-05,21,Scotland,Burnley FC,Premier League,2009/2010,2009
+Christian Kalvenes,Left-Back,1977-03-08,32,Norway,Burnley FC,Premier League,2009/2010,2009
+Tyrone Mears,Right-Back,1983-02-18,26,England,Burnley FC,Premier League,2009/2010,2009
+Graham Alexander,Right-Back,1971-10-10,37,Scotland,Burnley FC,Premier League,2009/2010,2009
+Richard Eckersley,Right-Back,1989-03-12,20,England,Burnley FC,Premier League,2009/2010,2009
+Chris McCann,Defensive Midfield,1987-07-21,21,Ireland,Burnley FC,Premier League,2009/2010,2009
+Kevin McDonald,Defensive Midfield,1988-11-04,20,Scotland,Burnley FC,Premier League,2009/2010,2009
+Jack Cork,Defensive Midfield,1989-06-25,20,England,Burnley FC,Premier League,2009/2010,2009
+Joey Gudjónsson,Central Midfield,1980-05-25,29,Iceland,Burnley FC,Premier League,2009/2010,2009
+Chris Anderson,Central Midfield,1990-10-02,18,England,Burnley FC,Premier League,2009/2010,2009
+Alex-Ray Harvey,Central Midfield,1990-04-04,19,England,Burnley FC,Premier League,2009/2010,2009
+Alex MacDonald,Right Midfield,1990-04-14,19,Scotland,Burnley FC,Premier League,2009/2010,2009
+Wade Elliott,Attacking Midfield,1978-12-14,30,England,Burnley FC,Premier League,2009/2010,2009
+Fernando Guerrero,Left Winger,1989-07-31,19,Ecuador,Burnley FC,Premier League,2009/2010,2009
+Chris Eagles,Right Winger,1985-11-19,23,England,Burnley FC,Premier League,2009/2010,2009
+Robbie Blake,Second Striker,1976-03-04,33,England,Burnley FC,Premier League,2009/2010,2009
+Steven Fletcher,Centre-Forward,1987-03-26,22,Scotland,Burnley FC,Premier League,2009/2010,2009
+David Nugent,Centre-Forward,1985-05-02,24,England,Burnley FC,Premier League,2009/2010,2009
+Frédéric Nimani,Centre-Forward,1988-10-08,20,Central African Republic,Burnley FC,Premier League,2009/2010,2009
+Martin Paterson,Centre-Forward,1987-05-10,22,Northern Ireland,Burnley FC,Premier League,2009/2010,2009
+Steven Thompson,Centre-Forward,1978-10-14,30,Scotland,Burnley FC,Premier League,2009/2010,2009
+Jay Rodríguez,Centre-Forward,1989-07-29,19,England,Burnley FC,Premier League,2009/2010,2009
